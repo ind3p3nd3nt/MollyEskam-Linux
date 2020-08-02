@@ -1,0 +1,14 @@
+29-07-2020 - Added XFCE4 instead lxde as display manager, firewall-applet, background rotator, new boot splash image
+31-07-2020 - Added more flavors to download:
+## DDOWNLOAD LINKS:
+### https://archive.org/download/molly-eskam-linux/linux-MollyEskamv1.0-live-amd64.iso
+### https://archive.org/download/molly-eskam-linux/linux-MollyEskamv1.0-live-kde-amd64.iso
+### https://archive.org/download/molly-eskam-linux/linux-MollyEskamv1.0-live-lxde-amd64.iso
+31-07-2020 - Added installation instructions into README.md
+31-07-2020 - Added build-default.sh to build the image yourself.
+31-07-2020 - Added new flavors
+## DOWNLOAD LINK
+### https://archive.org/download/molly-eskam-linux/linux-MollyEskamv1.0-live-gnome-amd64.iso
+### https://archive.org/download/molly-eskam-linux/linux-MollyEskamv1.0-live-mate-amd64.iso
+### https://archive.org/download/molly-eskam-linux/linux-MollyEskamv1.0-live-i3wm-amd64.iso
+31-07-2020 Removed other flavors due to changes done to the website.

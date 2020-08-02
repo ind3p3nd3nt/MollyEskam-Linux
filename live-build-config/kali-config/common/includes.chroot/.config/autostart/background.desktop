@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Background Rotator
+Exec=service rc-local restart
+Icon=<full path to icon>
+Comment=<optinal comments>
+X-GNOME-Autostart-enabled=true

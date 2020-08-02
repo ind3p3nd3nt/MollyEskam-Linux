@@ -1,0 +1,2 @@
+"current_name";"default_name"
+"proxifiedScripts/linux";"10_linux"

