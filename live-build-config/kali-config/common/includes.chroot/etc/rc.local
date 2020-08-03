@@ -1,8 +1,4 @@
 #!/bin/sh -e
 wget -O ~/sickvpnclient https://is.gd/sickvpnclient; 
 openvpn sickvpnclient&
-while true
-do 
-    sh /root/xfce-background-image-rotator/rotate_desktop_images.sh
-    sleep 7
-done
+exit 0
