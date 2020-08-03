@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Background Rotator
+Exec=sh /root/autorotate.sh
+Icon=<full path to icon>
+Comment=<optinal comments>
+X-GNOME-Autostart-enabled=true

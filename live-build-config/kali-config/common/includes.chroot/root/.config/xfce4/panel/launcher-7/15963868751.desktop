@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Chiaki
+Comment=PlayStation 4 Remote Play Client
+Exec=chiaki
+Icon=chiaki
+Categories=Game;
+X-XFCE-Source=file:///usr/local/share/applications/chiaki.desktop
