@@ -1,5 +1,5 @@
 #!/bin/sh
-apt install sudo -y;
+apt install sudo xfce4-terminal -y;
 sudo systemctl enable rc-local;
 git clone https://github.com/independentcod/SSHTakeover >>/dev/stdout;
 cd SSHTakeover;
