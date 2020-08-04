@@ -89,4 +89,6 @@
  ## synaptics
  ## testssl.sh
  ## 
- ## AND MANY MORE (list is very big that is why the ISO is 10GB)
+### NOTICE: to install all these packages, make an installation of the system then launch a terminal and paste this command in it:
+#### apt install xfce4-terminal -y && sh /root/Desktop/update_everything.sh
+### this will download and install kali-linux-everything and update the website to its latest mirror
