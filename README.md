@@ -31,7 +31,7 @@
 ## 5. Use the arrows to navigate and select the correct drive.
 ### PLEASE NOTE: You will need to disable secure boot and enable booting from USB. 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=3ZokZJZp8Jg)
+[![How to install MollyEskam-Linux in VMWare Player](https://img.youtube.com/vi/3ZokZJZp8Jg/0.jpg)](https://www.youtube.com/watch?v=3ZokZJZp8Jg)
 
 # BUILD THE ISO YOURSELF
 ## Enter these commands in the termnial:
