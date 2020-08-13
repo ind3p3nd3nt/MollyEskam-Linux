@@ -1,0 +1,74 @@
+{
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "NEODSTRAŇUJTE"
+   },
+   "archive": {
+      "message": "Arkisto"
+   },
+   "archiveLinkTitle": {
+      "message": "Arkistoi viesti"
+   },
+   "composeLinkTitle": {
+      "message": "Luo uusi viesti"
+   },
+   "deleteLink": {
+      "message": "Poista"
+   },
+   "deleteLinkTitle": {
+      "message": "Poista viesti"
+   },
+   "fullLinkTitle": {
+      "message": "Näytä koko viesti"
+   },
+   "languageName": {
+      "message": "Suomi"
+   },
+   "monthsArray": {
+      "message": "tammi,helmi,maalis,huhti,touko,kesä,heinä,elo,syys,loka,marras,joulu"
+   },
+   "noUnreadText": {
+      "message": "Ei lukemattomia viestejä"
+   },
+   "oneUnreadText": {
+      "message": "Lukematon viesti"
+   },
+   "openLinkTitle": {
+      "message": "Avaa webmail"
+   },
+   "popupText": {
+      "message": "Sinulle on uusi viesti!"
+   },
+   "readLink": {
+      "message": "Luettu"
+   },
+   "readLinkTitle": {
+      "message": "Merkitse luetuksi"
+   },
+   "refreshLinkTitle": {
+      "message": "Päivitä kaikki postilaatikot"
+   },
+   "replyLinkTitle": {
+      "message": "Vastaa viestiin"
+   },
+   "reportSpam": {
+      "message": "Merkitse roskapostiksi"
+   },
+   "severalUnreadText": {
+      "message": "lukemattomia viestejä"
+   },
+   "spam": {
+      "message": "Roskaposti"
+   },
+   "starLinkTitle": {
+      "message": "Star mail"
+   },
+   "summaryLinkTitle": {
+      "message": "Näytä yhteenveto"
+   },
+   "unreadLink": {
+      "message": "Lukematon"
+   },
+   "unreadLinkTitle": {
+      "message": "Merkitse lukemattomaksi"
+   }
+}

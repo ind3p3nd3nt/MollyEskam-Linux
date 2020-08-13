@@ -1,0 +1,29 @@
+{
+   "block_chat_indicator": {
+      "message": "บล็อกตัวบ่งชี้ ”ใช้ล่าสุด”"
+   },
+   "block_chat_receipts": {
+      "message": "ปิดกั้นคุณลักษณะ ”การรับส่งมอบ”"
+   },
+   "block_chat_seen": {
+      "message": "ปิดกั้นคุณลักษณะ ”Seen”"
+   },
+   "block_typing_indicator": {
+      "message": "บล็อกตัวบ่งชี้ ”พิมพ์ดีด ... ”"
+   },
+   "description": {
+      "message": "ซ่อนคุณสมบัติ ”Seen” จาก Facebook™ chat และ Messenger ของเพื่อนของคุณ บล็อกใบเสร็จการจัดส่ง ..."
+   },
+   "fbunseen_messenger": {
+      "message": "ใช้บน messenger.com"
+   },
+   "name": {
+      "message": "Unseen - Chat Privacy"
+   },
+   "options": {
+      "message": "ตัวเลือก"
+   },
+   "show_mark_as_read": {
+      "message": "แสดงปุ่ม ”ทำเครื่องหมายว่าอ่านแล้ว”"
+   }
+}

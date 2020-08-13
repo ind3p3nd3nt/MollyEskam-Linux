@@ -1,0 +1,62 @@
+08:55:42 AM.572: CPU Name: Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz
+08:55:42 AM.572: CPU Speed: 1807.086MHz
+08:55:42 AM.572: Physical Cores: 2, Logical Cores: 4
+08:55:42 AM.572: Physical Memory: 7949MB Total, 1657MB Free
+08:55:42 AM.572: Kernel Version: Linux 5.7.0-kali1-amd64
+08:55:42 AM.572: Distribution: "Kali GNU/Linux" "2020.3"
+08:55:42 AM.573: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.8
+08:55:42 AM.574: Portable mode: false
+08:55:42 AM.766: OBS 25.0.8+dfsg1-3 (linux)
+08:55:42 AM.766: ---------------------------------
+08:55:42 AM.767: ---------------------------------
+08:55:42 AM.767: audio settings reset:
+08:55:42 AM.767: 	samples per sec: 44100
+08:55:42 AM.767: 	speakers:        2
+08:55:42 AM.777: ---------------------------------
+08:55:42 AM.778: Initializing OpenGL...
+08:55:43 AM.012: Loading up OpenGL on adapter Intel Mesa Intel(R) HD Graphics 5500 (BDW GT2)
+08:55:43 AM.012: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 20.1.4, shading language 4.60
+08:55:43 AM.062: ---------------------------------
+08:55:43 AM.062: video settings reset:
+08:55:43 AM.062: 	base resolution:   1920x1080
+08:55:43 AM.062: 	output resolution: 1280x720
+08:55:43 AM.062: 	downscale filter:  Bicubic
+08:55:43 AM.062: 	fps:               30/1
+08:55:43 AM.062: 	format:            NV12
+08:55:43 AM.062: 	YUV mode:          601/Partial
+08:55:43 AM.062: NV12 texture support not available
+08:55:43 AM.066: Audio monitoring device:
+08:55:43 AM.066: 	name: Default
+08:55:43 AM.066: 	id: default
+08:55:43 AM.066: ---------------------------------
+08:55:43 AM.068: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+08:55:43 AM.221: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+08:55:43 AM.221: No blackmagic support
+08:55:43 AM.534: FFMPEG VAAPI supported
+08:55:43 AM.549: [rtmp-services plugin] Remote update of URL "https://obsproject.com/obs2_update/rtmp-services/package.json" failed: Could not resolve host: obsproject.com
+08:55:43 AM.553: VLC found, VLC video source enabled
+08:55:43 AM.553: ---------------------------------
+08:55:43 AM.553:   Loaded Modules:
+08:55:43 AM.553:     vlc-video.so
+08:55:43 AM.554:     text-freetype2.so
+08:55:43 AM.554:     rtmp-services.so
+08:55:43 AM.554:     obs-x264.so
+08:55:43 AM.554:     obs-transitions.so
+08:55:43 AM.554:     obs-outputs.so
+08:55:43 AM.554:     obs-filters.so
+08:55:43 AM.554:     obs-ffmpeg.so
+08:55:43 AM.554:     linux-v4l2.so
+08:55:43 AM.554:     linux-pulseaudio.so
+08:55:43 AM.554:     linux-jack.so
+08:55:43 AM.554:     linux-decklink.so
+08:55:43 AM.554:     linux-capture.so
+08:55:43 AM.554:     linux-alsa.so
+08:55:43 AM.554:     image-source.so
+08:55:43 AM.554:     frontend-tools.so
+08:55:43 AM.554:     decklink-ouput-ui.so
+08:55:43 AM.554: ---------------------------------
+08:55:43 AM.554: ==== Startup complete ===============================================
+08:55:43 AM.554: Service '' not found
+08:55:43 AM.556: No scene file found, creating default scene
+08:55:43 AM.556: All scene data cleared
+08:55:43 AM.556: ------------------------------------------------

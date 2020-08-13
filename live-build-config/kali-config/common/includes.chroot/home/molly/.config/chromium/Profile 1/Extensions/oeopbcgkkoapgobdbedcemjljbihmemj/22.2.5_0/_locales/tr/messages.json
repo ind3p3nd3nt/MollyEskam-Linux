@@ -1,0 +1,1577 @@
+{
+   "24hourMode": {
+      "message": "24 saatlik zaman gösterimi"
+   },
+   "24hourModeTitle": {
+      "message": "Zamanı 24 saatlik biçimde göster ör. 18:00"
+   },
+   "DND": {
+      "message": "RE"
+   },
+   "EOM": {
+      "message": "MS"
+   },
+   "EOMToolTip": {
+      "message": "Mesajın Sonu"
+   },
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "NEODSTRAŇUJTE"
+   },
+   "NAME_says": {
+      "message": "$1 diyorki"
+   },
+   "XNewEmails": {
+      "message": "$1 yeni e-posta"
+   },
+   "Xattachments": {
+      "message": "$1 Eklenti"
+   },
+   "Xday": {
+      "message": "gün"
+   },
+   "Xdays": {
+      "message": "$1 gün"
+   },
+   "Xhour": {
+      "message": "$1 saat"
+   },
+   "Xhours": {
+      "message": "$1 saat"
+   },
+   "Xline": {
+      "message": "$1 satır"
+   },
+   "Xlines": {
+      "message": "$1 satır"
+   },
+   "Xminute": {
+      "message": "$1 dakika"
+   },
+   "Xminutes": {
+      "message": "$1 dakika"
+   },
+   "Xseconds": {
+      "message": "$1 saniye"
+   },
+   "aboutMe": {
+      "message": "Hakkımda"
+   },
+   "accessDetails": {
+      "message": "Erişim ayrıntıları"
+   },
+   "account": {
+      "message": "Hesap"
+   },
+   "accounts": {
+      "message": "Hesapları"
+   },
+   "accountsAndLabels": {
+      "message": "Hesaplar / Etiketler"
+   },
+   "actionButtons": {
+      "message": "Üst popup penceresi için eylem düğmeleri"
+   },
+   "addAccount": {
+      "message": "Hesap Ekle"
+   },
+   "addAccountsStaySignedIn": {
+      "message": "Hesapları ekleyin ve oturum açık kalsın"
+   },
+   "addEmailAlias": {
+      "message": "E-posta adreslerine takma isim ekle"
+   },
+   "addEmailAliasToolTip": {
+      "message": "Popup penceresindeki e-postana takma isim ver. Örnek: uzunsıkıcıdestangibi@gmail.com yerine \u003Cb>Jason' ın E-postası\u003C/b>"
+   },
+   "addSkinsOrThemes": {
+      "message": "Görünümler ve temalar"
+   },
+   "addSpeechEngines": {
+      "message": "Konuşma motoru ekle"
+   },
+   "addToGoogleCalendar": {
+      "message": "Google Takvim'e ekle"
+   },
+   "added": {
+      "message": "Eklendi"
+   },
+   "alias": {
+      "message": "Takma isim"
+   },
+   "all": {
+      "message": "Tümü"
+   },
+   "allMail": {
+      "message": "Tüm e-postalar"
+   },
+   "alreadyDonated": {
+      "message": "Zaten bağış yaptınız mı?"
+   },
+   "alsoExtraFeaturesForGoogleCalendar": {
+      "message": "Bir kez bağışla, aynı zamanda $1 ekstra özelliklerine de sahip olun."
+   },
+   "alsoExtraFeaturesForGoogleCalendar2": {
+      "message": "Checker Plus for Google Calendar"
+   },
+   "alsoTryMy": {
+      "message": "Bunları da deneyin"
+   },
+   "alwaysDisplayExternalContent": {
+      "message": "Harici resimleri her zaman görüntüle"
+   },
+   "amount": {
+      "message": "Tutar"
+   },
+   "archive": {
+      "message": "Arşivle"
+   },
+   "archiveLinkTitle": {
+      "message": "Arşiv mail"
+   },
+   "archive_read": {
+      "message": "Okundu olarak işaretle ve Arşivle"
+   },
+   "archive_readToolTip": {
+      "message": "E-postayı arşivlediğin zaman okundu olarak işaretler"
+   },
+   "autoAdjust": {
+      "message": "Otomatik ayarla"
+   },
+   "autoAdjustAndImages": {
+      "message": "Otomatik ayarla + görüntüler"
+   },
+   "autoDetectAccounts": {
+      "message": "Bu uygulama, açılan oturumları otomatik olarak algılayacaktır."
+   },
+   "autoDetectAccountsStaySignedIn": {
+      "message": "Oturumu açık hesapları algıla"
+   },
+   "available": {
+      "message": "Kullanılabilir"
+   },
+   "back": {
+      "message": "Geri"
+   },
+   "backToInbox": {
+      "message": "Gelen Kutusuna geri dön"
+   },
+   "backgroundColor": {
+      "message": "Arka plan rengi"
+   },
+   "blue": {
+      "message": "Mavi"
+   },
+   "brightness": {
+      "message": "Parlaklık"
+   },
+   "button": {
+      "message": "Düğme"
+   },
+   "buttonClickAction": {
+      "message": "Düğme tıklama eylemi"
+   },
+   "cancel": {
+      "message": "İptal"
+   },
+   "changeLabels": {
+      "message": "Etiketleri değiştir"
+   },
+   "changeSummary": {
+      "message": "Özet formatını değiştir"
+   },
+   "changeTheme": {
+      "message": "Tema değiştirme"
+   },
+   "changeThisDomain": {
+      "message": "$1 Bu eposta alan adını şimdi değiştirmek için "
+   },
+   "changeThisDomain2": {
+      "message": "Oturumu kapatın ve farklı bir kullanıcı olarak oturum açın"
+   },
+   "changelog": {
+      "message": "Değişim Günlüğü"
+   },
+   "checkerPlusPopupWindow": {
+      "message": "Checker Plus açılır penceresi"
+   },
+   "chime": {
+      "message": "Çan"
+   },
+   "chooseEndColor": {
+      "message": "Bitiş rengi seç"
+   },
+   "chooseNoUnreadEmail": {
+      "message": "Okunmamış e-posta yok simgesi seç"
+   },
+   "choosePaymentMethod": {
+      "message": "Ödeme yöntemini seçin"
+   },
+   "chooseSignedOutIcon": {
+      "message": "Çıkış yap simgesi seç"
+   },
+   "chooseStartColor": {
+      "message": "Başlangıç rengi seç"
+   },
+   "chooseUnreadEmail": {
+      "message": "Okunmamış e-posta simgesi seç"
+   },
+   "chromePlaced2ButtonLimit": {
+      "message": "Chrome 2 düğme ile sınırlı!"
+   },
+   "clickForMoreInfo": {
+      "message": "Daha fazla bilgi için tıklayın"
+   },
+   "clickToPreviewEmail": {
+      "message": "E-postayı önizlemek için tıklayın."
+   },
+   "clickingAnywhereOnNotification": {
+      "message": "Bildirim üzerinde herhangi bir yere tıklamak"
+   },
+   "clickingCheckerPlusLogo": {
+      "message": "Checker Plus for Gmail logosuna tıklayarak"
+   },
+   "close": {
+      "message": "Kapat"
+   },
+   "closeAfterX": {
+      "message": "Kaybolma süresi"
+   },
+   "closeAfterX_andThen": {
+      "message": "ve sonra"
+   },
+   "closesPopupWindow": {
+      "message": "Açılır pencereyi kapatır"
+   },
+   "collapseEmailAccounts": {
+      "message": "Eposta hesaplarını varsayılan şekilde daralt."
+   },
+   "collapseEmailAccountsToolTip": {
+      "message": "Tüm okunmamış e-posta hesaplarını daha iyi bir şekilde görüntüleyebilirsiniz. Herhangi birini genişleterek veya daraltarak..."
+   },
+   "colorMessage": {
+      "message": "Renkleri kaydetmek için bir bağış gerekiyor"
+   },
+   "colorSubject": {
+      "message": "Renkleri kurcalamak için örnek e-posta"
+   },
+   "colors": {
+      "message": "Renkler"
+   },
+   "comfortable": {
+      "message": "Seyrek"
+   },
+   "commaSeparatedEmails": {
+      "message": "Virgülle ayrılmış."
+   },
+   "compact": {
+      "message": "Sıkışık"
+   },
+   "compose": {
+      "message": "E-posta Yaz"
+   },
+   "composeLinkTitle": {
+      "message": "E-posta Yaz"
+   },
+   "contacts": {
+      "message": "Kişiler"
+   },
+   "contactsHome": {
+      "message": "E"
+   },
+   "contactsMessage": {
+      "message": "Fotoğrafları büyütmek için üzerine getirin"
+   },
+   "contactsMobile": {
+      "message": "M"
+   },
+   "contactsOther": {
+      "message": "D"
+   },
+   "contactsWork": {
+      "message": "İ"
+   },
+   "continue": {
+      "message": "Devam"
+   },
+   "continueToOptions": {
+      "message": "Seçeneklere devam et"
+   },
+   "continueWithoutFeatures": {
+      "message": "Ekstra özellikler olmadan da mevcut özellikler ile kullanmaya devam et."
+   },
+   "continueWithoutFeaturesHeader": {
+      "message": "Ekstra özellikleri olmadan devam et"
+   },
+   "contrast": {
+      "message": "Kontrast"
+   },
+   "contribute": {
+      "message": "Katkıda Bulun"
+   },
+   "contributeToContinue": {
+      "message": "Katkıda bulunun"
+   },
+   "conversationList": {
+      "message": "Konuşma listesi"
+   },
+   "conversationView": {
+      "message": "Sohbet görünümü"
+   },
+   "conversationViewToolTip": {
+      "message": "Aynı konulu E-postaları gruplandırır"
+   },
+   "copyEmailAddress": {
+      "message": "E-posta adresini kopyala"
+   },
+   "cozy": {
+      "message": "Rahat"
+   },
+   "custom": {
+      "message": "Özel"
+   },
+   "customButtonsToolTip": {
+      "message": "Kendi rengini ayarla"
+   },
+   "customToThisExtension": {
+      "message": "Bu uzantı için özel"
+   },
+   "dark": {
+      "message": "Koyu"
+   },
+   "darkToolTip": {
+      "message": "Koyu kontrast"
+   },
+   "dayAgo": {
+      "message": "$1 gün önce"
+   },
+   "daysAgo": {
+      "message": "$1 gün önce"
+   },
+   "default": {
+      "message": "Varsayılan"
+   },
+   "delete": {
+      "message": "Sil"
+   },
+   "deleteLink": {
+      "message": "Sil"
+   },
+   "deleteLinkTitle": {
+      "message": "E-postayı sil"
+   },
+   "deletingMarksAsRead": {
+      "message": "Okundu olarak işaretle ve Sil"
+   },
+   "deletingMarksAsReadToolTip": {
+      "message": "E-postayı sildiğin zaman okundu olarak işaretler"
+   },
+   "developingMore": {
+      "message": "daha çok tavsiyeleriniz üzerinde çalışıyorum..."
+   },
+   "differentSounds": {
+      "message": "Farklı e-posta hesapları, etiketleri veya insanlar için sesler"
+   },
+   "differentSoundsToolTip": {
+      "message": "Her bir e-posta hesabına, etikete veya kişiye farklı ses efekti seçme imkanı verir."
+   },
+   "ding": {
+      "message": "Ding"
+   },
+   "disableAll": {
+      "message": "Tümünü devre dışı bırak"
+   },
+   "discoverMyApps": {
+      "message": "Uygulamalarımı keşfedin"
+   },
+   "display": {
+      "message": "Görüntüleme"
+   },
+   "displayDensity": {
+      "message": "Görüntü yoğunluğu"
+   },
+   "displayImagesBelow": {
+      "message": "Aşağıdaki resimleri görüntüler"
+   },
+   "displaySenders_1": {
+      "message": "Göndereni göster"
+   },
+   "doNotDisturb": {
+      "message": "Rahatsız etmeyin"
+   },
+   "doNotDisturbForTodayToolTip": {
+      "message": "Yarın sabah 7'ye kadar Rahatsız Etme"
+   },
+   "doNotDisturbIndefinitelyToolTip": {
+      "message": "Siz kapatana kadar Rahatsız Etme açık kalsın"
+   },
+   "doNotDisturbToolTip": {
+      "message": "Eklentiden gelen ses, konuşma ve masaüstü bildirimleri devre dışı bırak"
+   },
+   "doNotNotifyMeOfUpdates": {
+      "message": "Bana güncellemeleri bildirme"
+   },
+   "doNotShowNotificationIfGmailTabActive": {
+      "message": "Gmail sekmesi açıksa bildirimleri gösterme."
+   },
+   "doNotShowNotificationIfGmailTabActiveToolTip": {
+      "message": "Gmail sayfanızı hiç kapatmıyorsanız gerçekten çok kullanışlı. Muhtemelen yeni gelen e-postayı benim bildirimimin belirme süresiyle aynı zamanda göreceksiniz."
+   },
+   "doTheSameThing": {
+      "message": "Aynı şeyi yap"
+   },
+   "donate": {
+      "message": "Bağış yap"
+   },
+   "donationRequired": {
+      "message": "Bağış gerektirir"
+   },
+   "done": {
+      "message": "Yapıldı"
+   },
+   "dropshadow": {
+      "message": "Gölge"
+   },
+   "duplicateLabelWarning": {
+      "message": "Sadece 1 ila 3 ana etiket seçmenizi tavsiye ederim (gelen kutusu, önemli, tüm postalar, birincil). Yoksa çoğaltılma sorunuyla karışılaşabilirsiniz!"
+   },
+   "email": {
+      "message": "E-posta:"
+   },
+   "emailAccounts": {
+      "message": "E-posta hesapları"
+   },
+   "emailFrom_NAME": {
+      "message": "Gönderen: $1"
+   },
+   "emailPreview": {
+      "message": "E-posta önizlemesi"
+   },
+   "emailPreviewToolTip": {
+      "message": "Eğer bu seçenek \u003Cb>İşaretliyse\u003C/b> ve e-postanın özetinde herhangi bir yere tıklarsan daha büyük önizleme açılacaktır.\u003Cbr> \u003Cb>İşaretlenmemişse\u003C/b> onun yerine e-postayı Gmail web sayfasında açar\u003Cbr>"
+   },
+   "emailSummary": {
+      "message": "E-posta özeti"
+   },
+   "emailSummaryToolTip": {
+      "message": "Her e-postanın ilk birkaç satırı gösterilir"
+   },
+   "email_from": {
+      "message": "gönderen"
+   },
+   "email_message": {
+      "message": "ileti"
+   },
+   "email_subject": {
+      "message": "konu"
+   },
+   "enable": {
+      "message": "Etkinleştir"
+   },
+   "enableLanguageDetection": {
+      "message": "Dil algılamasını etkinleştir"
+   },
+   "enableLanguageDetectionToolTip": {
+      "message": "Bu dil algılaması hizmetini kullanarak anımsatıcınızda dilde konuşmak!"
+   },
+   "enableVoiceInputToolTip": {
+      "message": "Yeni mesajın altına veya Gmail sayfasındaki cevap kutusuna mikrofon ekler"
+   },
+   "enjoyingThisApp": {
+      "message": "... beğendin mi? Öyleyse $1!"
+   },
+   "enter": {
+      "message": "Enter"
+   },
+   "enterAnAmount": {
+      "message": "Tutar girmelisiniz!"
+   },
+   "esc": {
+      "message": "Esc"
+   },
+   "example": {
+      "message": "örnek"
+   },
+   "exceptionsToChooseFrom": {
+      "message": ""
+   },
+   "extensionUpdated": {
+      "message": "Uzantı güncellendi!"
+   },
+   "extensionUpdates": {
+      "message": "Eklenti güncelleştirmeleri"
+   },
+   "extraFeatures": {
+      "message": "Ekstra özellikler"
+   },
+   "extraFeaturesClicked": {
+      "message": "Ekstra özelliklerden birini kullanmayı denediniz..."
+   },
+   "failureWithPayPalPurchase": {
+      "message": "Para transferi iptal edildi ya da hata oldu! Google Cüzdan ile deneyelim mi?"
+   },
+   "feedback": {
+      "message": "Geri bildirim"
+   },
+   "fetchContactsEvery": {
+      "message": "Kişileri şu kadarda bir getir"
+   },
+   "fetchContactsIntervalToolTip": {
+      "message": "Eğer çok fazla kişileriniz varsa veya bağlantınız yavaşsa, bunu en yüksek değerine ayarlayın."
+   },
+   "finance": {
+      "message": "Finans"
+   },
+   "firstAndLastName": {
+      "message": "ad ve soyadı"
+   },
+   "firstNameOnly": {
+      "message": "yalnızca ad"
+   },
+   "followMe": {
+      "message": "Beni takip et"
+   },
+   "forever": {
+      "message": "Daima"
+   },
+   "forums": {
+      "message": "Forumlar"
+   },
+   "from": {
+      "message": "Gönderen"
+   },
+   "fullLinkTitle": {
+      "message": "Tümünü görüntüle"
+   },
+   "general": {
+      "message": "Genel"
+   },
+   "grantAccess": {
+      "message": "Erişim yetkisi ver"
+   },
+   "grantAccessAgain": {
+      "message": "Erişim yetkisini tekrar ver veya başka bir hesaba ver"
+   },
+   "grantAccessAgainToolTip": {
+      "message": "Yalnızca oturum açma birden fazla hesabı var ve her biri için fotoğraflar için izin vermek istediğiniz yararlı"
+   },
+   "grantedTo": {
+      "message": "Erişim yetkisi verilen"
+   },
+   "grayscale": {
+      "message": "Gri tonlama"
+   },
+   "green": {
+      "message": "Yeşil"
+   },
+   "greenToolTip": {
+      "message": "Geri dönüşüm kutusu temam!"
+   },
+   "groupByLabels": {
+      "message": "E-postaları etiketlerine göre gruplandır"
+   },
+   "groupByLabelsToolTip": {
+      "message": "Okunmayan e-postaları, monitörden seçtiğiniz etiketlere göre gruplandırıp sıralar. Popup penceresinde e-postalarınızın üzerine küçük bir başlık ekler 'Gelen Kutusu' gibi."
+   },
+   "hearEmail": {
+      "message": "E-postayı dinle"
+   },
+   "hearEmailMessage": {
+      "message": "E-posta içeriğini dinle"
+   },
+   "hearEmailSubject": {
+      "message": "E-posta konusunu dinle"
+   },
+   "hearEmailToolTip": {
+      "message": "E-postanın hangi bölümünü dinlemek için seçiniz... Gönderen, Konu veya E-posta iletisi."
+   },
+   "height": {
+      "message": "Yükseklik"
+   },
+   "help": {
+      "message": "Yardım"
+   },
+   "hideByJason": {
+      "message": "Gizle 'Jason Savard'"
+   },
+   "hideByJasonToolTip": {
+      "message": "Popup penceresinde gizler \u003Ci>Jason Savard\u003C/i> "
+   },
+   "hideMarkAsReadEmails": {
+      "message": "'Okundu olarak işaretle' diğin e-postaları gizler"
+   },
+   "hideMyName": {
+      "message": "İsmimi gizle 'Jason Savard'"
+   },
+   "hideReadEmails": {
+      "message": "Okunan e-postaları gizle"
+   },
+   "hideSentFrom": {
+      "message": "Özetlerde imzaları gizle. Örn.: \"......' dan gönderildi\""
+   },
+   "hideSentFromToolTip": {
+      "message": "İşaretlerseniz, \"iPhone' umdan veya Blackberry' imden gönderildi\" gibi imzaları gizler"
+   },
+   "hideUnreadCount": {
+      "message": "Okunmamış e-posta sayısını gizle"
+   },
+   "hideUnreadCountToolTip": {
+      "message": "Tarayıcı eylem simgesinden okunmamış e-posta sayısını gizle"
+   },
+   "hourAgo": {
+      "message": "$1 saat önce"
+   },
+   "hours": {
+      "message": "saat"
+   },
+   "hoursAgo": {
+      "message": "$1 saat önce"
+   },
+   "icon": {
+      "message": "Simge"
+   },
+   "identifyEmailAccountsWithColors": {
+      "message": "Farklı e-posta hesapları için renk seç"
+   },
+   "ifNoUnreadMail": {
+      "message": "Eğer okunmamış e-posta yoksa"
+   },
+   "ignoreTheseAccounts": {
+      "message": "Bu hesaplar yoksay"
+   },
+   "ignoreThisAccount": {
+      "message": "Bu hesabı yoksay"
+   },
+   "ignored": {
+      "message": "Yoksay"
+   },
+   "imagesAreNotDisplayed": {
+      "message": "Resimler görüntülenmez."
+   },
+   "important": {
+      "message": "Önemli"
+   },
+   "importantMail": {
+      "message": "Önemli e-postalar"
+   },
+   "inbox": {
+      "message": "Gelen Kutusu"
+   },
+   "inboxFor": {
+      "message": "$1"
+   },
+   "indefinitely": {
+      "message": "Belirsiz bir süre boyunca"
+   },
+   "invert": {
+      "message": "Ters çevir"
+   },
+   "keyboardShortcuts": {
+      "message": "klavye kısayolları"
+   },
+   "keys": {
+      "message": "Tuşlar"
+   },
+   "label": {
+      "message": "Etiket"
+   },
+   "labels": {
+      "message": "Etiketler"
+   },
+   "language": {
+      "message": "Dil"
+   },
+   "languageName": {
+      "message": "Türkçe"
+   },
+   "languageToolTip": {
+      "message": "Görüntü ve ses dilini değiştirir. Not: Tek seferde farklı diller görebilirsiniz çünkü: Çevirdiğim dilleri görürsünüz, eğer çevirmediğim kelimeler varsa tarayıcınızın dilinde görünürler, hiç çevirmememişsem de İngilizce görünürler.."
+   },
+   "licenseOnlyValidFor": {
+      "message": "Lisans sadece kendi Google hesabı ile giriş yapan kullanıcılar için geçerli olacak"
+   },
+   "linesInSummary": {
+      "message": "Özet formatı"
+   },
+   "linesInSummaryToolTip": {
+      "message": "\u003Cb>Hiçbiri\u003C/b> - Üst popup penceresindeki özeti gizler. \u003Cb># satır\u003C/b> Yazıdaki gösterilen satırlar. \u003Cb>Otomatik ayarla\u003C/b> Mümkün olan en çok satırı ayarlar. \u003Cb>Otomatik ayarla + görüntüler\u003C/b> Aynı zamanda özette görüntüleri de gösterir. (Gönderici, e-postasını okuduğunuzu öğrenebilir)"
+   },
+   "listenToYourEmail": {
+      "message": "E-postanızı dinleyin"
+   },
+   "loading": {
+      "message": "Yükleniyor..."
+   },
+   "loadingSettings": {
+      "message": "Yükleme ayarları"
+   },
+   "mailtoLinks": {
+      "message": "mailto bağlantılarını Gmail ile aç"
+   },
+   "mailtoLinksToolTip": {
+      "message": "mailto linklerine tıkladığınızda, her zamanki e-posta sağlayıcınız yerine Gmail' i açar."
+   },
+   "makeButtonOpenGmail": {
+      "message": "Düğmeye basınca Gmail açılsın"
+   },
+   "man": {
+      "message": "Adam"
+   },
+   "markAllAsRead": {
+      "message": "Tümünü okundu olarak işaretle"
+   },
+   "markAllAsReadTitle": {
+      "message": "Tümünü okundu olarak işaretle"
+   },
+   "markAsReadInNotificationWindow": {
+      "message": "Bildirim penceresinden e-postayı okundu olarak işaretle"
+   },
+   "markAsReadR": {
+      "message": "\u003Cb>O\u003C/b>kundu olarak işaretle"
+   },
+   "markDone": {
+      "message": "Yapıldı işaretle"
+   },
+   "maxEmailsToShowPerAccount": {
+      "message": "Hesap başına görüntülemek için Max e-posta"
+   },
+   "me": {
+      "message": "bana"
+   },
+   "meetMe": {
+      "message": "Beni tanıyın"
+   },
+   "meetMeTitle": {
+      "message": "Beni bir videoda izleyin!"
+   },
+   "message": {
+      "message": "İleti"
+   },
+   "minimumAmount": {
+      "message": "En az $1 tutarında bağış yapmalısınız"
+   },
+   "minutesAgo": {
+      "message": "$1 dakika önce"
+   },
+   "monitor": {
+      "message": "Monitör"
+   },
+   "monitorThisLabel": {
+      "message": "Bu etiketleri izle"
+   },
+   "monitorThisLabelToolTip": {
+      "message": ""
+   },
+   "monthsArray": {
+      "message": "Oca,Sub,Mar,Nis,May,Haz,Tem,Agu,Eyl,Eki,Kas,Ara"
+   },
+   "more": {
+      "message": "daha fazla"
+   },
+   "moreInfo": {
+      "message": "Daha fazla bilgi"
+   },
+   "morning": {
+      "message": "Sabah"
+   },
+   "moveLabel": {
+      "message": "Şuraya taşı"
+   },
+   "multipleSelectionMac": {
+      "message": "Birden fazla seçenek seçmek için \"cmd\" düğmesini basılı tutun."
+   },
+   "multipleSelectionWindows": {
+      "message": "Birden fazla seçenek seçmek için \"Ctrl\" düğmesini basılı tutun."
+   },
+   "multipleUserLicense": {
+      "message": "Organizasyonunuz için çoklu kullanıcı lisansı alın"
+   },
+   "mustSignInToPay": {
+      "message": "Gmail hesabınıza giriş yapıp eklentinin yüklenmesini bekleyin!"
+   },
+   "muteVoice": {
+      "message": "Sesi kapat"
+   },
+   "muteVoiceForToday": {
+      "message": "Bugün için sesi kapat"
+   },
+   "muteVoiceForTodayToolTip": {
+      "message": "Yarın 7.00 a kadar sesi kapat"
+   },
+   "muteVoiceForXh": {
+      "message": "$1 sa için sesi kapat"
+   },
+   "muteVoiceForXm": {
+      "message": "$1 dk için sesi kapat "
+   },
+   "muteVoiceWhileSleeping": {
+      "message": "Ben uyurken sesleri kapat"
+   },
+   "muteVoiceWhileSleepingToolTip": {
+      "message": "Bilgisayarını açık bırakıp yatanlar için sesleri ayarlanan saatler arasında kapatır."
+   },
+   "native": {
+      "message": "yerli"
+   },
+   "never": {
+      "message": "Asla"
+   },
+   "newEmail": {
+      "message": "Yeni e-posta"
+   },
+   "newFeature": {
+      "message": "Yeni özellik!"
+   },
+   "newer": {
+      "message": "Daha yeni"
+   },
+   "next": {
+      "message": "Sonraki"
+   },
+   "nickname": {
+      "message": "Kullanıcı adı"
+   },
+   "night": {
+      "message": "Gece"
+   },
+   "noUnreadText": {
+      "message": "Okunmamış e-posta yok"
+   },
+   "noUpdateNotifications": {
+      "message": "Hiçbir güncelleme bildirimi yok"
+   },
+   "none": {
+      "message": "Hiçbiri"
+   },
+   "notSignedIn": {
+      "message": "Giriş yapılmadı"
+   },
+   "notWorking": {
+      "message": "Çalışmıyor mu?"
+   },
+   "notification": {
+      "message": "Bildirim"
+   },
+   "notificationButton1": {
+      "message": "Bildirim düğmesi #1"
+   },
+   "notificationButton2": {
+      "message": "Bildirim düğmesi #2"
+   },
+   "notificationSound": {
+      "message": "Ses uyarıları"
+   },
+   "notificationTextToSpeech": {
+      "message": "Konuşmalı bildirimler"
+   },
+   "notificationTryItOutInstructions": {
+      "message": ""
+   },
+   "notifications": {
+      "message": "Bildirimler"
+   },
+   "of": {
+      "message": "arasındaki"
+   },
+   "ok": {
+      "message": "Tamam"
+   },
+   "older": {
+      "message": "Daha eski"
+   },
+   "oneUnreadText": {
+      "message": "okunmamış e-posta"
+   },
+   "open": {
+      "message": "Aç"
+   },
+   "openComposeInTab": {
+      "message": "Yeni e-posta yazımı için sekme aç"
+   },
+   "openComposeInTabToolTip": {
+      "message": "Yeni e-posta yazımını popup penceresi yerine yeni bir sekmede aç (mailto bağlantıları için de geçerlidir)"
+   },
+   "openComposeReplyAction": {
+      "message": "E-posta Yaz ve Yanıtla düğmeleri"
+   },
+   "openComposeReplyActionInPopupWindow": {
+      "message": "Popup penceresinde aç"
+   },
+   "openComposeReplyActionInTab": {
+      "message": "Sekmede aç"
+   },
+   "openEmailDisplayedInNotificationWindow": {
+      "message": "E-postayı bildirim penceresinden aç"
+   },
+   "openGmailPopupWIndowToolTip": {
+      "message": "-Popup penceresinde tam Gmail gelen kutusu görünümü\u003Cbr>-Bütün etiketlere bakın \u003Cbr>\u003Cbr>\u003Ci>'Daha fazla bilgi' içinyukarıdaki linke göz atın\u003C/i> "
+   },
+   "openGmailPopupWindow": {
+      "message": "Gmail gelen kutusunu popup penceresinde aç"
+   },
+   "openGmailTab": {
+      "message": "Gmail' i yeni bir sekmede aç"
+   },
+   "openGmailTabToolTip": {
+      "message": "(Önerilmez) Popup penceresi devre dışı bırakır ve okunmamış e-postayı yeni bir sekmede açar"
+   },
+   "openHelp": {
+      "message": "Yardım'ı aç"
+   },
+   "openInNewTab": {
+      "message": "Yeni sekmede aç"
+   },
+   "openInPopup": {
+      "message": "Açılır pencere içinde aç"
+   },
+   "openLabel": {
+      "message": "Etiket oluştur"
+   },
+   "openLinkTitle": {
+      "message": "Webmailde aç"
+   },
+   "openLinksToInboxByGmailWarning": {
+      "message": "Beta özellik! Bu seçeneği \u003Cb>yalnızca\u003C/b> 'Inbox by Gmail' uygulamasını aktif ettiyseniz kullanın. Detaylı bilgi için lütfen 'Daha fazla bilgi' linkini kullanın"
+   },
+   "openPopupPreview": {
+      "message": "Checker Plus popup penceresini aç"
+   },
+   "openPopupPreviewToolTip": {
+      "message": "- Okunmamış e-postaları hızlı bir şekilde görüntüleme ve işlem yapabilme  \u003Cbr> - Oldukça kişiselleştirilebilir\u003Cbr> - Çoklu hesap için optimize edilebilir\u003Cbr>\u003Cbr>\u003Ci> 'Daha fazla bilgi' linkini deneyin\u003C/i>"
+   },
+   "openReply": {
+      "message": "Aç (Yanıtla)"
+   },
+   "openThisLabel": {
+      "message": "Bu etiketi aç"
+   },
+   "openThisLabelToolTip": {
+      "message": "Kullanıcının, e-posta hesabına veya uzantı simgesine tıklayınca nereye yönlendirileceğini belirler."
+   },
+   "option": {
+      "message": "Seçenek"
+   },
+   "options": {
+      "message": "Seçenekler"
+   },
+   "or": {
+      "message": "veya"
+   },
+   "original": {
+      "message": "Özgün"
+   },
+   "otherAmount": {
+      "message": "Başka tutar"
+   },
+   "paragraph": {
+      "message": "paragraf"
+   },
+   "password": {
+      "message": "Şifre:"
+   },
+   "pitch": {
+      "message": "Derece"
+   },
+   "pollNow": {
+      "message": "Ayarları Güncelle"
+   },
+   "pollingAccounts": {
+      "message": "Seçilen hesaplar"
+   },
+   "pollingInterval": {
+      "message": "Yoklama aralığı"
+   },
+   "pollingIntervalTooltip": {
+      "message": "E-postaların getirileceği aralık"
+   },
+   "popout": {
+      "message": "Popout"
+   },
+   "popupText": {
+      "message": "Yeni bir e-posta aldınız!"
+   },
+   "popupWindowZoom": {
+      "message": "Popup penceresini yakınlaştırma"
+   },
+   "popupWindowZoomToolTip": {
+      "message": "Popup penceresinin yakınlığını ayarlar (e-posta önizlemesini veya bildirimi değil)"
+   },
+   "positionFromLeft": {
+      "message": "Soldan konum"
+   },
+   "positionFromTop": {
+      "message": "Üstten konum"
+   },
+   "preview": {
+      "message": "Önizleme"
+   },
+   "previewingMarksAsRead": {
+      "message": "Önizleme yapınca okundu olarak işaretle"
+   },
+   "previewingMarksAsReadToolTip": {
+      "message": "Popup penceresinde önizlerken okundu olarak işaretle"
+   },
+   "previous": {
+      "message": "Önceki"
+   },
+   "primary": {
+      "message": "Birincil"
+   },
+   "primarySocialPromotionsEtc": {
+      "message": "Birincil, Sosyal ve Tanıtımlar sekmesi vb."
+   },
+   "priorityInbox": {
+      "message": "Öncelikli e-postalar"
+   },
+   "promotions": {
+      "message": "Tanıtımlar"
+   },
+   "purchases": {
+      "message": "Alışveriş"
+   },
+   "quickComposeEmail": {
+      "message": "Hızlı Kişiler"
+   },
+   "rate": {
+      "message": "Oran"
+   },
+   "rateTitle": {
+      "message": "Konuşma hızı: dakika başına kelime"
+   },
+   "read": {
+      "message": "Oku"
+   },
+   "readLink": {
+      "message": "Okundu olarak işaretle"
+   },
+   "readLinkTitle": {
+      "message": "Okundu olarak işaretle"
+   },
+   "readLinkTitleShort": {
+      "message": ""
+   },
+   "recommended": {
+      "message": "Önerilen"
+   },
+   "reducedDonationAd_notification": {
+      "message": "Uzun süreli kullanıcı, sana iyi haber! Ekstra özellikler sadece $1, bakmak/gizlemek için tıklayın"
+   },
+   "reducedDonationAd_popup": {
+      "message": "Uzun süreli kullanıcı, sana iyi haber!\u003Cbr> Sadece 50 Cent e son $1 'a sahip olabilirsin."
+   },
+   "referToAlreadyDonated": {
+      "message": "Şuraya bakın: $1"
+   },
+   "referToAlreadyDonated2": {
+      "message": "Zaten bağış yaptım"
+   },
+   "refresh": {
+      "message": "Yenile"
+   },
+   "refreshLinkTitle": {
+      "message": "Yenile"
+   },
+   "rememeberReadEmails": {
+      "message": "Okunan e-postaları hatırla (Beta)"
+   },
+   "rememeberReadEmailsToolTip": {
+      "message": "Okunmamış ve okunan e-postaları gösterir, ancak deneme amaçlıdır. Uygulamamı oylarken bunu göz önünde bulundurmayın."
+   },
+   "removeAccount": {
+      "message": "Hesap Kaldır"
+   },
+   "removeAccountIcon": {
+      "message": "Hesap simgesini kaldır"
+   },
+   "removeFromSystemTray": {
+      "message": "bildirim alanından kaldır"
+   },
+   "removeShareLinks": {
+      "message": "Paylaşım bağlantılarını gizle"
+   },
+   "removeShareLinksTooltip": {
+      "message": "Facebook, Twitter bağlantılarını vb. kaldırır"
+   },
+   "reply": {
+      "message": "Yanıt"
+   },
+   "replyInPopup": {
+      "message": "Açılır pencere içinde yanıtla"
+   },
+   "replyLinkTitle": {
+      "message": "E-postayı yanıtla"
+   },
+   "replyR": {
+      "message": "\u003Cb>Y\u003C/b>anıtla"
+   },
+   "replyToAll": {
+      "message": "Tümünü yanıtla"
+   },
+   "replyingMarksAsRead": {
+      "message": "Okundu olarak işaretle ve Yanıtla"
+   },
+   "replyingMarksAsReadToolTip": {
+      "message": "Yanıtla düğmesini tıklayarak e-postayı okundu olarak işaretler"
+   },
+   "reportSpam": {
+      "message": "Spam olarak işaretle"
+   },
+   "revertAutoSizing": {
+      "message": "Otomatik boyutlandırmayı iptal et"
+   },
+   "richNotification": {
+      "message": "Detaylı bildirim"
+   },
+   "richNotificationToolTip": {
+      "message": "Hareketli popuplar. Kendi kendine kapanan rahatsız edici olmayan bildirimler. Akıllı telefonlardaki bildirimler gibi düşünebilirsiniz. İlgili, gerçek zamanlı bilgi verirler ama daha sonra kadar herhangi bir işlem yoksaymayı seçebilirsiniz."
+   },
+   "runInBackground": {
+      "message": "Google Chrome kapatıldığında arka planda çalıştır"
+   },
+   "runInBackgroundToolTip": {
+      "message": "Tarayıcınız kapalı olsa dahi eposta bildirimlerini almaya devam edin! Sadece ileri düzey kullanıcılara öneririm."
+   },
+   "runInBackgroundWarning1": {
+      "message": "$1 dikkatlice okuyunuz"
+   },
+   "runInBackgroundWarning1b": {
+      "message": "arka plan uygulamaları"
+   },
+   "runInBackgroundWarning2": {
+      "message": "Arka plan uygulamaları devre dışı bıraktıysanız tekrar etkinleştirmek için $1'i okuyunuz."
+   },
+   "runInBackgroundWarning2b": {
+      "message": "son tıklanabilir bölümü"
+   },
+   "runInBackgroundWarning3": {
+      "message": "Gmail giriş sayfasında $1'i kullanmalısınız"
+   },
+   "runInBackgroundWarning3b": {
+      "message": "oturum açık kalsın"
+   },
+   "saturation": {
+      "message": "Doygunluk"
+   },
+   "saving": {
+      "message": "Kaydediyor..."
+   },
+   "schedule": {
+      "message": "Zamanlama"
+   },
+   "search": {
+      "message": "Arama"
+   },
+   "seeUpdates": {
+      "message": "Güncellemeleri gör"
+   },
+   "seeVideo": {
+      "message": "Videoyu izleyin"
+   },
+   "selectEmailAccount": {
+      "message": "Bir e-posta hesabı seçin"
+   },
+   "selectQuickActionButtons": {
+      "message": "Eylem düğmelerini göster veya gizle"
+   },
+   "selectQuickActionButtonsToolTip": {
+      "message": "Not: Düğmeleri tam e-posta görüntülemede gizlemeyecektir!"
+   },
+   "send": {
+      "message": "Gönder"
+   },
+   "sendPageLinkTitle": {
+      "message": "Sayfanın linkini gönder"
+   },
+   "sending": {
+      "message": "Gönderiliyor"
+   },
+   "sent": {
+      "message": "Gönderildi"
+   },
+   "sepia": {
+      "message": "Sepya"
+   },
+   "setAccountIcon": {
+      "message": "Hesap simgesi belirle"
+   },
+   "setPositionAndSize": {
+      "message": "Popup penceresinin pozisyonunu ve boyutunu ayarla"
+   },
+   "setPositionAndSizeToolTip": {
+      "message": "Sistemin varsayılan Yeni İleti/Yanıtla "
+   },
+   "severalUnreadText": {
+      "message": "okunmamış e-posta"
+   },
+   "share": {
+      "message": "Paylaş"
+   },
+   "shareIntro": {
+      "message": "Bu harika Chrome uzantısını deneyin"
+   },
+   "shareTitle": {
+      "message": "Not: Bu mesaj buraya tıkladıktan sonra kaybolacaktır."
+   },
+   "shortcutKeysHeader": {
+      "message": "Bu düğmeler \u003Cb>yalnızca\u003C/b> üst popup penceresi etkinse kullanılabilir."
+   },
+   "showActionButtonsOnHover": {
+      "message": "Eylem düğmelerini sadece bildirim penceresinin üzerinde gezinirken göster"
+   },
+   "showActionButtonsOnHoverToolTip": {
+      "message": "MAC kullananlar için işaretli kalmasını tavsiye ederim. Bazen Chrome' da üzerinde gezinme eylemi çalışmayabiliyor. "
+   },
+   "showAllEmails": {
+      "message": "Tüm e-postaları göster"
+   },
+   "showCheckerPlusButtonsOnlyOnHover": {
+      "message": "Düğmeleri yalnızca üzerinde gezinince göster"
+   },
+   "showCheckerPlusButtonsOnlyOnHoverToolTip": {
+      "message": "Dokunmatik bir cihazı faresiz kullanıyorsanız önerilmez."
+   },
+   "showConsoleMessages": {
+      "message": "Javascript Konsolu işlem kayıtları"
+   },
+   "showConsoleMessagesTitle": {
+      "message": "Yalnızca hata ayıklama amaçlı ve uzantıyı biraz yavaşlatabilir!"
+   },
+   "showContactPhoto": {
+      "message": "Kişilerin fotoğraflarını ve detaylarını popup penceresinde göster"
+   },
+   "showContactPhotoToolTip": {
+      "message": "Eğer kişinin fotoğrafı varsa gösterilecektir. Yoksa varsayılan logo görünecektir. Ayrıca kendiniz de fotoğraf ekleyebilirsiniz."
+   },
+   "showContactPhotos": {
+      "message": "Kişilerin fotoğraflarını görüntüle"
+   },
+   "showContextMenuItem": {
+      "message": "İçerik menüsünü sağ tık ile göster"
+   },
+   "showDesktopNotifications": {
+      "message": "Masaüstü bildirimleri"
+   },
+   "showDetails": {
+      "message": "Ayrıntıları göster"
+   },
+   "showEOM": {
+      "message": "En sona, e-posta özetinin sonunu belirtmek için işaret koy [MS]"
+   },
+   "showEOMToolTip": {
+      "message": "MS - Mesajın Sonu. Kısa kısa bir sürü e-posta alıyorsanız çok kullanışlıdır. Özete tıklamaya gerek kalmaz."
+   },
+   "showEmailAccount": {
+      "message": "Gelen kutusu e-posta hesabını her zaman göster"
+   },
+   "showEmailAccountToolTip": {
+      "message": "Birden fazla hesap kullanıyorsanız yeni e-posta gelen hesap için bildirimler gösterir"
+   },
+   "showHideEmailPreview": {
+      "message": "E-posta önizlemesini göster/gizle"
+   },
+   "showIconAnimation": {
+      "message": "Simge animasyonunu göster"
+   },
+   "showIconAnimationToolTip": {
+      "message": "Yeni e-posta olunca simgeyi hareket ettirir"
+   },
+   "showLabelsTitle": {
+      "message": "Etiketleri göster"
+   },
+   "showLeftColumnWhenPreviewingEmail": {
+      "message": "E-postayı önizlemek için popup penceserinin solunda kolon aç"
+   },
+   "showLeftColumnWhenPreviewingEmailToolTip": {
+      "message": "Not: E-posta çok genişse veya daha fazla yer istiyorsa, kolon otomatik olarak gizlenecektir"
+   },
+   "showMarkAsReadEmails": {
+      "message": "'Okundu olarak işaretle' diğin e-postaları göstermeye devam eder"
+   },
+   "showNotificationEmailImagePreview": {
+      "message": "E-posta içindeki ilk resmin önizlemesini göster"
+   },
+   "showNotificationsForOlderDateEmails": {
+      "message": "Eski tarihli e-postalar için bildirimleri göster (yalnızca POP3 hesapları için yararlıdır)"
+   },
+   "showNotificationsForOlderDateEmailsToolTip": {
+      "message": "Eğer \u003Cb>işaretlenmemişse\u003C/b> popup bildirimleri sadece en yeni e-postalar için çalışır. (Bazı E-postalar gelirken POP3 kullanır ve en son gelen e-postalarınızdan daha sonra gelmesine rağmen eski tarihli oldukları için gelen kutunuzun ortalarında gösterilir). Eğer \u003Cb>işaretlenmişse\u003C/b> Eski tarihli e-postalarınız için de çalışır. Not: e-postaları okunmamış olarak işaretlerseniz de popup bildirimleri yeniden çalışacaktır!"
+   },
+   "showOptionsButton": {
+      "message": "Seçenekler düğmesini göster"
+   },
+   "showSendAndArchiveButton": {
+      "message": "\"Gönder ve Arşivle\" düğmesini göster"
+   },
+   "showSendAndDeleteButton": {
+      "message": "\"Gönder ve Sil\" düğmesini göster"
+   },
+   "showTransitions": {
+      "message": "Geçişleri etkinleştir"
+   },
+   "showTransitionsToolTip": {
+      "message": "E-postaları önizlerken veya kapatırken popup penceresinde animasyonlar göster"
+   },
+   "showUpdateNotificationsForEvertyhing": {
+      "message": "Tüm güncellemeler ve hata düzeltmeler için bildirimleri göster"
+   },
+   "showUpdateNotificationsForInterestingUpdates": {
+      "message": "Sadece ilginç güncelleştirmeler için bildirimleri göster"
+   },
+   "signIn": {
+      "message": "Oturum aç"
+   },
+   "signInAsUserOfOrg": {
+      "message": "Organizasyonunuzun epostası ile $1 olmanız gerekir"
+   },
+   "signInAsUserOfOrg2": {
+      "message": "Gmail oturumundan çıkış yapıp tekrar giriş yapın"
+   },
+   "signInToYourAccount": {
+      "message": "Oturum açtıktan sonra bu sayfayı yenile!"
+   },
+   "skin": {
+      "message": "Görünüm"
+   },
+   "skins": {
+      "message": "Görünümler"
+   },
+   "social": {
+      "message": "Sosyal"
+   },
+   "sound": {
+      "message": "Ses"
+   },
+   "spam": {
+      "message": "Spam"
+   },
+   "speechEngine": {
+      "message": "Konuşma motoru"
+   },
+   "spokenWordsLimit": {
+      "message": "Konuşulan kelimelere limit koy."
+   },
+   "spokenWordsLimitToolTip": {
+      "message": "Düğmeye tıklayarak veya bildirim penceresinin üzerine gelerek konuşmayı durdurabilirsiniz. Not: Bazı konuşma motorları kendi kendilerinin limitini koyabilirler."
+   },
+   "standard": {
+      "message": "Standart"
+   },
+   "starAndArchive": {
+      "message": "E-postayı Yıldızla ve Arşivle"
+   },
+   "starLinkTitle": {
+      "message": "Yıldızla"
+   },
+   "starringAppliesInboxLabel": {
+      "message": "Yıldızlar Gelen Kutusu etiketlerine uygulanır"
+   },
+   "stayInTray": {
+      "message": "bildirim alanında kalsın"
+   },
+   "subject": {
+      "message": "Konu"
+   },
+   "summary": {
+      "message": "özet"
+   },
+   "summaryLinkTitle": {
+      "message": "Özet görüntüle"
+   },
+   "switchToCheckerPlus": {
+      "message": "Checker Plus görünümüne geç"
+   },
+   "switchToInbox": {
+      "message": "Gelen kutusuna git"
+   },
+   "switchToInboxToolTip": {
+      "message": "Daha fazla bilgi için sağ tıklayın..."
+   },
+   "syncDND": {
+      "message": "Rahatsız Etmeyi Jason'ın tüm eklentilerinde senkronize kullan"
+   },
+   "syncSignInOrder": {
+      "message": "Oturum açma sırasını senkronize et"
+   },
+   "syncSignInOrderToolTip": {
+      "message": "Gmail 'web sayfası' hesaplarınızın oturum açma sırası burada listelenen hesaplardan farklı olabilir ve bazen uzantımda açılan bağlantılar yanlış gelen kutusunda açılabilir. Burayı hesabları yeniden senkronize etmek için kullanın."
+   },
+   "tab": {
+      "message": "Sekme"
+   },
+   "tabToolTip": {
+      "message": "Gmail gelen kutusu açılır penceresine sekmeler ekle"
+   },
+   "testIt": {
+      "message": "Test et!"
+   },
+   "testOutPopupWindow": {
+      "message": "Popup penceresini test et!"
+   },
+   "textNotification": {
+      "message": "Metin bildirimi"
+   },
+   "textNotificationToolTip": {
+      "message": "En son okunmamış e-postayı bildirir."
+   },
+   "thankYouForYourContribution": {
+      "message": "Özellikler şimdi açıldı. Katkınız için teşekkrüler!"
+   },
+   "thankYouForYourContribution2": {
+      "message": "Pencereyi kapatın ve keyfini çıkarın!"
+   },
+   "theme": {
+      "message": "Tema"
+   },
+   "to": {
+      "message": "kime"
+   },
+   "today": {
+      "message": "Bugün"
+   },
+   "tomorrow": {
+      "message": "Yarın"
+   },
+   "tooManyUnread": {
+      "message": "Üzgünüm, bir kerede $1 veya daha az e-postayı işaretleyebilirim. Onun yerine Gmail websitesini kullanın."
+   },
+   "transparent": {
+      "message": "Şeffaf"
+   },
+   "turnOff": {
+      "message": "Devre Dışı Bırak"
+   },
+   "turnOffRegularGmailChecking": {
+      "message": "Normal Gmail denetimini kapat ve yalnızca Google Apps hesapları kontrol et"
+   },
+   "turnOffRegularGmailCheckingToolTip": {
+      "message": "@gmail.com hesaplarınızı yoksayacak!"
+   },
+   "undo": {
+      "message": "Geri Al"
+   },
+   "unknownSender": {
+      "message": "Bilinmeyen gönderici"
+   },
+   "unlockFeatures": {
+      "message": "Bu özelliklere ve ileride eklenecek özelliklere bir miktar bağış ile anında sahip olun!"
+   },
+   "unlockHeader": {
+      "message": "Ekstra özellikleri alın ve geliştiriciyi destekleyin"
+   },
+   "unmuteVoice": {
+      "message": "Sesi aç"
+   },
+   "unreadLink": {
+      "message": "Okunmamış"
+   },
+   "unreadLinkTitle": {
+      "message": "Okunmadı olarak işaretle"
+   },
+   "unreadLinkTitleShort": {
+      "message": "Okunmamış"
+   },
+   "unreadMail": {
+      "message": "Okunmayan e-postalar"
+   },
+   "update": {
+      "message": "Güncelle"
+   },
+   "updates": {
+      "message": "Güncellemeler"
+   },
+   "useBasicHTMLView": {
+      "message": "Temel HTML görünümünü kullan"
+   },
+   "useInboxByGmail": {
+      "message": "Gmail'i Inbox sitesininden kullan"
+   },
+   "useTheseColors": {
+      "message": "Bu renkleri kullan"
+   },
+   "useTheseColorsToolTip": {
+      "message": "Farklı renklerle oynamak veya onları her ikisi de tek bir renk için aynı renk ayarlayın. Senin Gmail bahis konusu için bu e-posta hesabı veya şirket logosu renkleri eşleştirme deneyin. O zaman onları harekete geçirmek için aşağıdaki kutuyu işaretleyin. Bu popup penceresini etkiler."
+   },
+   "voice": {
+      "message": "Konuşma Sesi"
+   },
+   "voiceInput": {
+      "message": "Ses Girişi"
+   },
+   "voiceNotificationOnlyIfIdle": {
+      "message": "Sadece eğer bilgisayarınızdan uzakta iseniz"
+   },
+   "voiceNotificationOnlyIfIdleTooltip": {
+      "message": "Bu seçeneği bilgisayar kullanmıyorken, başında değilken ya da boştayken, sesi duymak istiyorsanız seçin. Benim tavsiyem :)"
+   },
+   "voiceTest": {
+      "message": "Test iletisi"
+   },
+   "volume": {
+      "message": "Ses"
+   },
+   "voythas": {
+      "message": "Voythas"
+   },
+   "voythasToolTip": {
+      "message": "Simgeler VoYtHAs tarafından oluşturuldu"
+   },
+   "welcomeMessage": {
+      "message": "Hoş geldin, \u003Cbr>\u003Cbr>Bu uygulamanın keyfini çıkar veya daha fazla keşfetmek için zaman ayır. \u003Cbr> \u003Cbr> Bir problem olursa, bana ulaşmak için yardım linklerini kullanabilirsin. Görüş bildirmeden \u003Cu>önce\u003C/u>  \u003Cbr>Yardımcı olabilirim :)"
+   },
+   "wholeEmail": {
+      "message": "tüm e-posta"
+   },
+   "whyContribute": {
+      "message": "Neden katkıda bulunmalıyım?"
+   },
+   "whyContributeReason1": {
+      "message": "Tavsiye ve önerilerinize cevap vermek için saatlerimi ve $1 haftamı ayırıyorum"
+   },
+   "whyContributeReason1_1": {
+      "message": "tüm uzantılarım"
+   },
+   "whyContributeReason2": {
+      "message": "Yorum ve görüşlerinizi okuyor ve en hızlı şekilde cevap veriyorum"
+   },
+   "whyContributeReason3": {
+      "message": "Herhangi bir miktar bağışta bulunarsanız beni mutlu edersiniz!"
+   },
+   "whyContributeReason4": {
+      "message": "Bu eklenti senin sayende daha iyi oluyor, teşekkürler $1 !"
+   },
+   "whyContributeReason4_1": {
+      "message": "görüşler"
+   },
+   "whyContributeReason5": {
+      "message": "Benim hakkımda daha fazla bilgi bulmak için $1"
+   },
+   "whyContributeReason5_1": {
+      "message": "JasonSavard.com/bio"
+   },
+   "whyContributeToCalendarReason1": {
+      "message": "Kendiniz ya da işiniz için daha üretken bir Google kullanıcısı olun"
+   },
+   "whyContributeToCalendarReason2": {
+      "message": "$1'den çok daha ucuz"
+   },
+   "whyContributeToCalendarReason2_1": {
+      "message": "Microsoft Outlook"
+   },
+   "width": {
+      "message": "Genişlik"
+   },
+   "woman": {
+      "message": "Kadın"
+   },
+   "yellow": {
+      "message": "Sarı"
+   },
+   "yesterday": {
+      "message": "Dün"
+   },
+   "youMustChooseTheCheckerPlusPopupWindow": {
+      "message": "Bu seçenekleri görmek için \u003Ci>Checker Plus\u003C/i> popup penceresine gitmeniz gerekli."
+   },
+   "zoom": {
+      "message": "Yakınlaştırma"
+   }
+}

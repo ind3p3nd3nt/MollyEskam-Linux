@@ -1,0 +1,29 @@
+{
+   "block_chat_indicator": {
+      "message": "Bloķēt indikatoru ”Pēdējais aktīvs”"
+   },
+   "block_chat_receipts": {
+      "message": "Bloķējiet funkciju ”Piegādes kvītis”"
+   },
+   "block_chat_seen": {
+      "message": "Bloķējiet funkciju ”Apskatīts”"
+   },
+   "block_typing_indicator": {
+      "message": "Bloķējiet indikatoru ”Rakstīt ...”"
+   },
+   "description": {
+      "message": "Paslēpj funkciju ”Seen” no Facebook™ tērzēšanas un jūsu draugu ziņas. Bloki Piegādes kvītis ..."
+   },
+   "fbunseen_messenger": {
+      "message": "Izmantojiet to messenger.com"
+   },
+   "name": {
+      "message": "Unseen - Chat Privacy"
+   },
+   "options": {
+      "message": "Iespējas"
+   },
+   "show_mark_as_read": {
+      "message": "Parādiet pogu ”Atzīmēt kā lasītu”"
+   }
+}

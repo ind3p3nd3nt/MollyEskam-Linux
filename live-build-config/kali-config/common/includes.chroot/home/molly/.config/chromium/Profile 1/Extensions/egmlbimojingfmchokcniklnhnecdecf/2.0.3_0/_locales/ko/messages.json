@@ -1,0 +1,29 @@
+{
+   "block_chat_indicator": {
+      "message": "”마지막 활성”표시기 차단"
+   },
+   "block_chat_receipts": {
+      "message": "'배달 확인 메일'기능 차단"
+   },
+   "block_chat_seen": {
+      "message": "'본'기능 차단"
+   },
+   "block_typing_indicator": {
+      "message": "'입력 중 ...'표시기 차단"
+   },
+   "description": {
+      "message": "Facebook™ 채팅 및 친구의 Messenger에서 ”Seen”기능을 숨 깁니다. 납품 영수증을 차단합니다 ..."
+   },
+   "fbunseen_messenger": {
+      "message": "messenger.com에서 사용하십시오."
+   },
+   "name": {
+      "message": "Unseen - Chat Privacy"
+   },
+   "options": {
+      "message": "옵션"
+   },
+   "show_mark_as_read": {
+      "message": "”읽음으로 표시”버튼 표시"
+   }
+}

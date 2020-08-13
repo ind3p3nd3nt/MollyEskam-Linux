@@ -1,0 +1,74 @@
+{
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "NEODSTRAŇUJTE"
+   },
+   "archive": {
+      "message": "Arhivează"
+   },
+   "archiveLinkTitle": {
+      "message": "Arhivează email"
+   },
+   "composeLinkTitle": {
+      "message": "Scrieți un mesaj"
+   },
+   "deleteLink": {
+      "message": "Șterge"
+   },
+   "deleteLinkTitle": {
+      "message": "Șterge email"
+   },
+   "fullLinkTitle": {
+      "message": "Arată mesaj complet"
+   },
+   "languageName": {
+      "message": "Română"
+   },
+   "monthsArray": {
+      "message": "ian,feb,mar,apr,mai,iun,iul,aug,sep,oct,noi,dec"
+   },
+   "noUnreadText": {
+      "message": "Niciun mesaj necitit"
+   },
+   "oneUnreadText": {
+      "message": "mesaj necitit"
+   },
+   "openLinkTitle": {
+      "message": "Deschide în webmail"
+   },
+   "popupText": {
+      "message": "Aveți un mesaj nou!"
+   },
+   "readLink": {
+      "message": "Citit"
+   },
+   "readLinkTitle": {
+      "message": "Marchează conversația  ca citită"
+   },
+   "refreshLinkTitle": {
+      "message": "Actualizați toate cutiile poștale"
+   },
+   "replyLinkTitle": {
+      "message": "Răspunde"
+   },
+   "reportSpam": {
+      "message": "Raportați ca spam"
+   },
+   "severalUnreadText": {
+      "message": "mesaje necitite"
+   },
+   "spam": {
+      "message": "Spam"
+   },
+   "starLinkTitle": {
+      "message": "Marcați conversația cu stea"
+   },
+   "summaryLinkTitle": {
+      "message": "Arată sumar"
+   },
+   "unreadLink": {
+      "message": "Necitit"
+   },
+   "unreadLinkTitle": {
+      "message": "Marchează conversația ca necitită"
+   }
+}

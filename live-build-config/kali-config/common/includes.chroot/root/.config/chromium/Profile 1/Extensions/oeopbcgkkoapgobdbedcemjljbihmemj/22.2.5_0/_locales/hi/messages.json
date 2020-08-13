@@ -1,0 +1,74 @@
+{
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "NEODSTRAŇUJTE"
+   },
+   "archive": {
+      "message": "संग्रहित"
+   },
+   "archiveLinkTitle": {
+      "message": "मेल संग्रहित करे"
+   },
+   "composeLinkTitle": {
+      "message": "मेल लिखे"
+   },
+   "deleteLink": {
+      "message": "हटाव"
+   },
+   "deleteLinkTitle": {
+      "message": "मेल हटायें"
+   },
+   "fullLinkTitle": {
+      "message": "पूरा सन्देश दिकाएं"
+   },
+   "languageName": {
+      "message": "हिंदी"
+   },
+   "monthsArray": {
+      "message": "जन,फर,मार्च,अप्रैल,मे,जून,जूलै,अगु,सेप,अक्टो,नवे,दिसं"
+   },
+   "noUnreadText": {
+      "message": "कोई अपठित मेल नहीं"
+   },
+   "oneUnreadText": {
+      "message": "अपठित मेल"
+   },
+   "openLinkTitle": {
+      "message": "वेब मेल में कुले"
+   },
+   "popupText": {
+      "message": "आपको नया मेल आया हैं !"
+   },
+   "readLink": {
+      "message": "पठित"
+   },
+   "readLinkTitle": {
+      "message": "पठित के रूप में चिह्नित करे"
+   },
+   "refreshLinkTitle": {
+      "message": "सभी मैल्बोक्सेस नवीकृत करे"
+   },
+   "replyLinkTitle": {
+      "message": "उत्तर दे"
+   },
+   "reportSpam": {
+      "message": "स्पं के रूप में चिह्नित करे"
+   },
+   "severalUnreadText": {
+      "message": "अपठित मेल"
+   },
+   "spam": {
+      "message": "स्पं"
+   },
+   "starLinkTitle": {
+      "message": "तारांकित"
+   },
+   "summaryLinkTitle": {
+      "message": "सारांश दिकाएं"
+   },
+   "unreadLink": {
+      "message": "अपठित"
+   },
+   "unreadLinkTitle": {
+      "message": "अपठित के रूप में चिह्नित करे"
+   }
+}

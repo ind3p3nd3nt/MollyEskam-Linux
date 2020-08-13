@@ -1,0 +1,1181 @@
+{
+   "200": {
+      "message": "Trumpalaikis sutrikimas, prašome pabandyti dar kartą!"
+   },
+   "24hourMode": {
+      "message": "24 valandų laikrodis"
+   },
+   "24hourModeTitle": {
+      "message": "Laiką rodyti 24 valandų laikrodyje, pvz., 18: 00"
+   },
+   "401": {
+      "message": "Uždrausta!"
+   },
+   "403": {
+      "message": "Neteisingai įvestas el. paštas arba slaptažodis."
+   },
+   "EOM": {
+      "message": "EOM"
+   },
+   "EOMToolTip": {
+      "message": "Žinutės pabaiga"
+   },
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "DO NOT REMOVE"
+   },
+   "NAME_says": {
+      "message": "$1 sako"
+   },
+   "Xday": {
+      "message": "diena"
+   },
+   "Xdays": {
+      "message": "$1 dienų"
+   },
+   "Xhour": {
+      "message": "$1 valandų"
+   },
+   "Xhours": {
+      "message": "$1 valandų"
+   },
+   "Xline": {
+      "message": "$1 eilutė"
+   },
+   "Xlines": {
+      "message": "$1 eilutės"
+   },
+   "Xminute": {
+      "message": "$1 minutes"
+   },
+   "Xminutes": {
+      "message": "$1 minučių"
+   },
+   "Xseconds": {
+      "message": "$1 sekundžių"
+   },
+   "account": {
+      "message": "Paskyra"
+   },
+   "accounts": {
+      "message": "Paskyros"
+   },
+   "actionButtons": {
+      "message": "Veiksmų mygtukai iššokančiame ir išplėstiniame languose"
+   },
+   "addSpeechEngines": {
+      "message": "Pridėti kalbos generatorius"
+   },
+   "advancedNotification": {
+      "message": "Išplėstinis pranešimo langas"
+   },
+   "advancedNotificationToolTip": {
+      "message": "Pranešama apie VISUS neskaitytus laiškus, galima skaityti visą laišką ar ištrinti neatidarant naršyklėje Gmail kortelės!  skaityti visą elektroninio pašto adresą ar jį panaikinti neatidarydami naršyklės arba Gmail tab! Iš esmės aukštai esančio mygtuko funkcionalumas priskiriamas ir iššokančio pranešimo langeliui rodomam apačioje!"
+   },
+   "advancedNotificationTryItOut": {
+      "message": "Išbandyk!"
+   },
+   "advancedNotificationTryItOutInstructions": {
+      "message": "Demonstracijai paženklinkite vieną (arba bent du) laiškus kaip neskaitytus, tada spustelėkite čia ir palaukę pamatysite langelį, kur galima išmėginti išplėstinį pranešimo langą ir viso elektroninio pašto peržiūrą paspaudus ant elektroninio pašto santraukos!"
+   },
+   "all": {
+      "message": "Visi"
+   },
+   "allMail": {
+      "message": "Visi laiškai"
+   },
+   "alreadyDonated": {
+      "message": "Jau paaukota?"
+   },
+   "alsoExtraFeaturesForGoogleCalendar": {
+      "message": "Sykį paaukokite ir naudositės papildomomis $1 funkcijomis"
+   },
+   "alsoExtraFeaturesForGoogleCalendar2": {
+      "message": "Checker Plus for Google Calendar"
+   },
+   "alsoTryMy": {
+      "message": "Taip pat išbandykite ir mano"
+   },
+   "alwaysDisplayExternalContent": {
+      "message": "Visada įkelti išorinį turinį (pvz., paveikslėlius)"
+   },
+   "alwaysDisplayExternalContentToolTip": {
+      "message": "Atsidarius laišką, kuriame įterpta išoriškai susietų paveikslėlių, Gmail paprastai automatiškai nerodo paveikslėlių. Taip nustatyta siekiant apsaugoti jūsų privatumą; automatiškai rodant paveikslėlius, siuntėjas galimai gali sekti atsisiunčiamus paveikslėlius ir taip žinos jog pranešimas buvo perskaitytas. \u003Cb>Pastaba\u003C/b>: \u003Cspan style='text-decoration:underline'> neverta pergyventi\u003C/span>, jei neatsidarėte laiško peržiūros arba jei pažymite, kaip skaitytą arba nukreipiate į šlamštą laiško net neperžiūrėję"
+   },
+   "amount": {
+      "message": "Suma"
+   },
+   "archive": {
+      "message": "Archyvuoti"
+   },
+   "archiveLinkTitle": {
+      "message": "Archyvuoti laiškus"
+   },
+   "archive_read": {
+      "message": "Perkeliant į archyvą ženklinama kaip perskaityta"
+   },
+   "archive_readToolTip": {
+      "message": "Laišką žymėti skaitytu jį perkėlus į archyvą"
+   },
+   "autoAdjust": {
+      "message": "Automatinis reguliavimas"
+   },
+   "autoAdjustAndImages": {
+      "message": "Automatinškai sureguliuoti paveikslėlius"
+   },
+   "autoDetectAccounts": {
+      "message": "Programa savarankiškai aptiks paskyras prie kurių prisijungėte"
+   },
+   "back": {
+      "message": "Atgal"
+   },
+   "backToInbox": {
+      "message": "Atgal į aplanką Gautieji"
+   },
+   "backgroundOfNotification": {
+      "message": "Pranešimo fono spalva"
+   },
+   "backgroundOfNotificationTooltip": {
+      "message": "Nustato iškylančių pranešimo fono spalvą"
+   },
+   "brightness": {
+      "message": "Ryškumas"
+   },
+   "button": {
+      "message": "Mygtukas"
+   },
+   "buttonClickAction": {
+      "message": "Mygtuko paspaudimo veiksmas"
+   },
+   "byEmailSubject": {
+      "message": "pagal laiško temos laukelį?"
+   },
+   "canceledInAppPurchase": {
+      "message": "Pabandykite su PayPal arba susisiekite su manimi"
+   },
+   "changeSummary": {
+      "message": "Pakeisti santraukos formatą"
+   },
+   "changeTheme": {
+      "message": "Keisti temą"
+   },
+   "changeThisDomain": {
+      "message": "Norint pakeisti el. pašto domeną dabar $1"
+   },
+   "changeThisDomain2": {
+      "message": "atsijungti ir prisijungiant kitu vartotoju"
+   },
+   "changingIcon": {
+      "message": "Keisti piktogramą"
+   },
+   "chime": {
+      "message": "Varpelis"
+   },
+   "chooseEndColor": {
+      "message": "Pasirinkite pabaigos spalvą"
+   },
+   "choosePaymentMethod": {
+      "message": "Pasirinkite mokėjimo būdą"
+   },
+   "chooseStartColor": {
+      "message": "Pasirinkite pradinę spalvą"
+   },
+   "clickToPreviewEmail": {
+      "message": "Spustelėjus peržiūrėsite laišką"
+   },
+   "close": {
+      "message": "Uždaryti"
+   },
+   "closeAfterX": {
+      "message": "Uždaryti po"
+   },
+   "colorMessage": {
+      "message": "Norint įrašyti šias spalvas būtina paaukoti!"
+   },
+   "colorSubject": {
+      "message": "Parodyti bandomąjį laiško pranešimą"
+   },
+   "colors": {
+      "message": "Spalvos"
+   },
+   "commaSeparatedEmails": {
+      "message": "atskirta kableliais, t.y."
+   },
+   "compose": {
+      "message": "Rašyti laišką"
+   },
+   "composeLinkTitle": {
+      "message": "Rašyti naują laišką"
+   },
+   "contactHelp": {
+      "message": "Kontaktai - Pagalba"
+   },
+   "contacts": {
+      "message": "Kontaktai"
+   },
+   "contactsHome": {
+      "message": "H"
+   },
+   "contactsMessage": {
+      "message": "Nuotraukas padidinsite užvedę ant jų pelės žymeklį"
+   },
+   "contactsMobile": {
+      "message": "M"
+   },
+   "contactsOther": {
+      "message": "O"
+   },
+   "contactsWork": {
+      "message": "W"
+   },
+   "continue": {
+      "message": "Tęsti"
+   },
+   "continueToOptions": {
+      "message": "Toliau parinktys"
+   },
+   "continueWithoutFeatures": {
+      "message": "Toliau naudotis šiuo plėtiniu turinčiu daug galimybių, bet be šių papildomų funkcijų."
+   },
+   "continueWithoutFeaturesHeader": {
+      "message": "Tęsti be papildomų funkcijų"
+   },
+   "contrast": {
+      "message": "Kontrastas"
+   },
+   "contributeToContinue": {
+      "message": "Prisidėti"
+   },
+   "conversationView": {
+      "message": "Pokalbių rodinys"
+   },
+   "conversationViewToolTip": {
+      "message": "Nurodoma ar tą pačią temą turinčius laiškus sugrupuoti"
+   },
+   "creditCardOrPaypal": {
+      "message": "Galite saugiai pasinaudoti savo kredito kortele arba PayPal"
+   },
+   "currentPage": {
+      "message": "dabartinis puslapis"
+   },
+   "custom": {
+      "message": "Pasirinktiniai"
+   },
+   "customButtonsToolTip": {
+      "message": "Nustatykite spalvą pagal save"
+   },
+   "d": {
+      "message": "diena"
+   },
+   "dark": {
+      "message": "Tamsi"
+   },
+   "darkToolTip": {
+      "message": "Tamsus kontrastas"
+   },
+   "dayAgo": {
+      "message": "prieš $1 dieną"
+   },
+   "daysAgo": {
+      "message": "prieš $1 dienas"
+   },
+   "daysLeft": {
+      "message": "liko $1 dienų"
+   },
+   "delete": {
+      "message": "Trinti"
+   },
+   "deleteLink": {
+      "message": "Trinti"
+   },
+   "deleteLinkTitle": {
+      "message": "Trinti laiškus"
+   },
+   "developingMore": {
+      "message": "ir aš toliau dirbu su jūsų pasiūlymais..."
+   },
+   "ding": {
+      "message": "Skambutis"
+   },
+   "display": {
+      "message": "Rodyti"
+   },
+   "displayImagesBelow": {
+      "message": "Rodyti žemiau pateiktus paveikslėlius"
+   },
+   "doNotShowNotificationsWhenBrowserClosed": {
+      "message": "Nerodyti pranešimų, kai naršyklė uždaryta"
+   },
+   "doNotShowNotificationsWhenBrowserClosedTooltip": {
+      "message": "Chrome naršyklė toliau veiks fone įdėklėje rodys piktogramą, BET pranešimai NEBUS rodomi!"
+   },
+   "donate": {
+      "message": "Paaukoti"
+   },
+   "donationRequired": {
+      "message": "Reikalinga parama"
+   },
+   "drawAttentionToBrowser": {
+      "message": "Mirksėti Chrome piktogramą Windows užduočių juostoje arba šokčioti Mac kompiuteriuose (beta versija)"
+   },
+   "drawAttentionToBrowserTooltip": {
+      "message": "Tai bus vykdoma tik jei naršyklė neaktyvi. Praverčia kai naudojama keletas darbalaukių. Windows: mirksi Chrome mygtukas užduočių juostoje. Mac: šokčioja Chrome piktograma"
+   },
+   "dropshadow": {
+      "message": "Šešėlis"
+   },
+   "duplicateLabelWarning": {
+      "message": "Rekomenduojama pasirinkti 1 iš 3 pagrindinių etikečių (Gautieji, Svarbūs, Visi laiškai) antraip pranešimai gali dubliuotis!"
+   },
+   "email": {
+      "message": "El. paštas"
+   },
+   "emailFrom_NAME": {
+      "message": "laiškas nuo $1"
+   },
+   "emailPreview": {
+      "message": "Elektroninio pašto peržiūra"
+   },
+   "emailPreviewToolTip": {
+      "message": "Jei nustatymas \u003Cb>pažymėtas\u003C/b> ir bet kur paspausite pranešimo lange (tarkim, ant santraukos), bus atvertas didesnis laiško peržiūros langas.\u003Cbr>jei \u003Cb>nepažymėta\u003C/b> tada paspaudimas atidarys laišką pačiame Gmail puslapyje"
+   },
+   "emailSummary": {
+      "message": "Elektroninio pašto santrauka"
+   },
+   "emailSummaryToolTip": {
+      "message": "Maža kiekvieno laiško iškarpa, kuri rodoma iššokančiame lange kiekvieno laiško pirmosios kelios eilutės"
+   },
+   "enableLanguageDetection": {
+      "message": "Atpažinti elektroninio laiško kalbą"
+   },
+   "enableLanguageDetectionToolTip": {
+      "message": "Kalbėti nustatyta kalba pagal elektroninį laišką, naudojantis detectlanguage.com tarnyba!"
+   },
+   "enjoyingThisApp": {
+      "message": "... patinka mano programa? Tada $1 apie ją"
+   },
+   "enterAnAmount": {
+      "message": "Būtina įvesti sumą!"
+   },
+   "ex": {
+      "message": "pvz.,"
+   },
+   "example": {
+      "message": "pavyzdys"
+   },
+   "extraFeatures": {
+      "message": "Papildomos funkcijos"
+   },
+   "failureWithInAppPurchase": {
+      "message": "Tranzakcija atšaukta arba nepavyko! Ar norite pamėginti PayPal?"
+   },
+   "failureWithPayPalPurchase": {
+      "message": "Tranzakcija atšaukta arba nepavyko! Ar norite pamėginti $1?"
+   },
+   "fetchContactsEvery": {
+      "message": "Kontaktus atsisiųsti kas"
+   },
+   "fetchContactsIntervalToolTip": {
+      "message": "Nustatykite didesnę reikšmę, jei kontaktų daug arba internetas lėtas"
+   },
+   "forever": {
+      "message": "Neapibrėžtai"
+   },
+   "fullLinkTitle": {
+      "message": "Rodyti visą pranešimą"
+   },
+   "general": {
+      "message": "Bendrosios"
+   },
+   "grantAccessAgain": {
+      "message": "Dar kartą suteikti prieigą"
+   },
+   "grantAccessAgainToolTip": {
+      "message": "Praverčia jei turima keletas paskyrų ir nuotraukoms reikia suteikti teises kiekvienai jų"
+   },
+   "grantedTo": {
+      "message": "Suteikta"
+   },
+   "grayscale": {
+      "message": "Nespalvota"
+   },
+   "green": {
+      "message": "Žalia"
+   },
+   "greenToolTip": {
+      "message": "Mano \"žalioji\" tema!"
+   },
+   "groupByLabels": {
+      "message": "Laiškus rikiuoti pagal etiketes"
+   },
+   "groupByLabelsToolTip": {
+      "message": "Neskaitytus laiškus sugrupuoti ir išrūšiuoti pagal stebimas etiketes. Iššokančiame pranešimo lange ir atsidarius išplėstinį rodinį laiško antraštėje bus rodoma maža etiketė, pavyzdžiui 'Gautieji' ir panašiai"
+   },
+   "h": {
+      "message": "val"
+   },
+   "hearEmailMessage": {
+      "message": "Išklausyti laiško turinį"
+   },
+   "hearEmailSubject": {
+      "message": "Išklausyti laiško temą"
+   },
+   "helpMeTranslate": {
+      "message": "Gal galite padėti man su vertimais į kitas kalbas? Pataisykite $1 teisingai!"
+   },
+   "helpMeTranslate2": {
+      "message": "Parašykite man"
+   },
+   "helpSupport": {
+      "message": "Padėkite paremdami šio plėtinio autorių!"
+   },
+   "hideSentFrom": {
+      "message": "Slėpti elektroninio pašto parašus suvestinėse, panašius į 'Sent from my...'"
+   },
+   "hideSentFromToolTip": {
+      "message": "Pažymėkite čia norėdami pašalinti el. laiškų parašus, kai siunčiami iš įrenginių, pvz., 'Sent from my iPhone ar Blackberry ir pan."
+   },
+   "hideUnreadCount": {
+      "message": "Slėpti neskaitytų laiškų skaičių"
+   },
+   "hideUnreadCountToolTip": {
+      "message": "Slėpti neskaitytų laiškų skaičių naršyklės piktogramoje"
+   },
+   "hourAgo": {
+      "message": "prieš $1 valandas"
+   },
+   "hours": {
+      "message": "valandų"
+   },
+   "hoursAgo": {
+      "message": "prieš $1 valandas"
+   },
+   "hoursLeft": {
+      "message": "liko $1 valandų"
+   },
+   "icon": {
+      "message": "Piktograma"
+   },
+   "iconClassic": {
+      "message": "Klasikinė piktograma"
+   },
+   "iconDefault": {
+      "message": "Numatytoji piktograma"
+   },
+   "iconDefault2WithDate": {
+      "message": "Numatytoji piktograma su šiandien data"
+   },
+   "iconMonochrome": {
+      "message": "Dvispalvė piktograma"
+   },
+   "iconNew": {
+      "message": "Nauja piktograma"
+   },
+   "iconNew2": {
+      "message": "Tamsi piktograma"
+   },
+   "iconNew2WithDate": {
+      "message": "Tamsi piktograma su dabartine data"
+   },
+   "iconNewWithDate": {
+      "message": "Nauja dabartinės datos piktograma"
+   },
+   "iconTooltip": {
+      "message": "Piktograma naudojama pranešimo mygtukui"
+   },
+   "identifyEmailAccountsWithColors": {
+      "message": "Elektroninio pašto paskyroms nustatyti savo spalvas"
+   },
+   "ignoreTheseAccounts": {
+      "message": "Nepaisyti šių paskyrų"
+   },
+   "imagesAreNotDisplayed": {
+      "message": "Paveiksliukai nerodomi."
+   },
+   "importantMail": {
+      "message": "Svarbūs laiškai"
+   },
+   "inVARhour": {
+      "message": "prieš $1 valandas"
+   },
+   "inVARhours": {
+      "message": "prieš $1 valandų"
+   },
+   "inVARminutes": {
+      "message": "prieš $1 min"
+   },
+   "inbox": {
+      "message": "Gautieji"
+   },
+   "inboxFor": {
+      "message": "$1"
+   },
+   "invert": {
+      "message": "Sukeistos"
+   },
+   "keepHoveringOverTheBluePlusOne": {
+      "message": "Užveskite žymiklį virš +1 iki kol atsiras tekstas tada spustelėkite jį ol tekstas, tada spustelėkite jį ir pasidalinsite Google+"
+   },
+   "labels": {
+      "message": "Etiketės"
+   },
+   "language": {
+      "message": "Kalba"
+   },
+   "languageName": {
+      "message": "Anglų"
+   },
+   "languageToolTip": {
+      "message": "Pakeičiama rodymo ir kalbėsenos kalba. Pastaba: vienu metu galite matyti daug kalbų, nes taisyklės tokios: bus rodoma kas išversta kalboje kurią pasirinkote čia, jeigu neišversti kai kurie žodžiai, bus pateikiama atsižvelgiant į naršyklės kalbą, jeigu išverstas nebuvo, tada bus pateikiama anglų kalba."
+   },
+   "largest": {
+      "message": "didžiausias"
+   },
+   "licenseOnlyValidFor": {
+      "message": "Licencija bus galiojanti tik vartotojams, kurie jungsis prie savo Google paskyros naudodamiesi"
+   },
+   "linesInSummary": {
+      "message": "Santrumpos formatas"
+   },
+   "linesInSummaryToolTip": {
+      "message": "\u003Cb>Jokio\u003C/b> - nebus rodoma santrauka viršutiniame iššokančiame pranešimo ar išplėstinės peržiūros languose.\u003Cbr>\u003Cb>Automatiškai pritaikyti\u003C/b> - bus nurodytas eilučių skaičius geriausiai tinkantis pateikti neskaitytus laiškus iššokančiame pranešimo lange ir jei reikia pateiks mažą paslinkties langelį santraukai\u003Cbr>\u003Cb>Automatiškai pritaikyti + paveikslėliai\u003C/b> - santraukoje rodomi ir paveikslėliai. NEREKOMENDUOTINA dėl saugumo sumetimų, nes siuntėjas galimai gali sužinoti kada atsidarėte jo laišką, nes santrauka \u003Cspan style='text-decoration:underline'>automatiškai\u003C/span> pateikiama apatiniame iššokančio pranešimo lange arba paspaudus mygtuko piktrogramą"
+   },
+   "listenToYourEmail": {
+      "message": "Perklausyti savo el.paštą"
+   },
+   "loading": {
+      "message": "Įkeliama..."
+   },
+   "loadingSettings": {
+      "message": "Įkėlimo parametrai"
+   },
+   "m": {
+      "message": "min"
+   },
+   "mailtoLinks": {
+      "message": "Atidarinėti mailto nuorodas naudojant Gmail"
+   },
+   "mailtoLinksToolTip": {
+      "message": "Paspaudus ant mailto: nuorodų (įpaprastos elektroninio pašto nuorodos) bus atidarytas Gmail, vietoj įprastinio pašto kliento. Kai kuriose lankomose svetainėse gali prireikti papildomų teisių"
+   },
+   "man": {
+      "message": "Vyras"
+   },
+   "markAllAsRead": {
+      "message": "Žymėti visus kaip skaitytus"
+   },
+   "markAllAsReadTitle": {
+      "message": "Žymėti visus kaip skaitytus"
+   },
+   "me": {
+      "message": "man"
+   },
+   "meetMe": {
+      "message": "Susitikime"
+   },
+   "meetMeTitle": {
+      "message": "Žiūrėkit mano vaizdo įrašus!"
+   },
+   "min": {
+      "message": "min"
+   },
+   "minimumAmount": {
+      "message": "Reikia paremti mažiausiai $1"
+   },
+   "minutesAgo": {
+      "message": "prieš $1 minutes"
+   },
+   "minutesLeft": {
+      "message": "liko $1 minučių"
+   },
+   "monitorThisLabel": {
+      "message": "Stebėti šias etiketes"
+   },
+   "monitorThisLabelToolTip": {
+      "message": "Nustato plėtiniui, kurias pašto etiketes stebėti"
+   },
+   "monthsArray": {
+      "message": "sau,vas,kov,bal,geg,bir,lie,rgp,rgs,spa,lap,grd"
+   },
+   "more": {
+      "message": "daugiau"
+   },
+   "moreInfo": {
+      "message": "Daugiau informacijos"
+   },
+   "multipleSelectionMac": {
+      "message": "Norėdami nurodyti keletą parinkčių laikykite nuspaudę valdymo mygtuką"
+   },
+   "multipleSelectionWindows": {
+      "message": "Laikykite nuspaudę valdymo (ctrl) mygtuką, norėdami nurodyti keletą parinkčių."
+   },
+   "multipleUserLicense": {
+      "message": "Įsigykite licencijas keletui vartotojų savo įmonėje"
+   },
+   "mustSignInToPay": {
+      "message": "Turite prisijungti prie savo Gmail ir palaukti, kol plėtinys pasikraus!"
+   },
+   "muteVoice": {
+      "message": "Nutildyti balsą"
+   },
+   "muteVoiceForToday": {
+      "message": "Nutildyti dienai"
+   },
+   "muteVoiceForTodayToolTip": {
+      "message": "Nutildyti balsus iki rytojaus 7 ryto"
+   },
+   "muteVoiceForXh": {
+      "message": "Nutildyti, $1 valandoms"
+   },
+   "muteVoiceForXm": {
+      "message": "Nutildyti $1 minutėms"
+   },
+   "muteVoiceWhileSleeping": {
+      "message": "Nutildyti balsą miego laiku"
+   },
+   "muteVoiceWhileSleepingToolTip": {
+      "message": "Tiems, kas palieka kompiuterį ir garso kolonėles įjungtus per naktį, šis nustatymas leidžia nutildyti balso pranešimus pasirinktomis valandomis"
+   },
+   "native": {
+      "message": "nepakeista"
+   },
+   "needHelp": {
+      "message": "Reikia pagalbos?"
+   },
+   "never": {
+      "message": "Niekada"
+   },
+   "newFeature": {
+      "message": "Nauja funkcija!"
+   },
+   "next": {
+      "message": "Paskesnis"
+   },
+   "noUnreadText": {
+      "message": "Neskaitytų laiškų nėra"
+   },
+   "none": {
+      "message": "Jokio"
+   },
+   "notLoggedIn": {
+      "message": "Nesate prisijungęs"
+   },
+   "notSignedIn": {
+      "message": "Neprisiregistruota"
+   },
+   "notWorking": {
+      "message": "Neveikia?"
+   },
+   "notificationFontSize": {
+      "message": "Pranešimo teksto dydis"
+   },
+   "notificationFontSizeTooltip": {
+      "message": "Nustatomas įvykio pavadinimo šrifto dydis iššokančiame pranešime. Nustatykite mažiausią, kai antraštė ilga ir didžiausią, kai antraštė trumpa."
+   },
+   "notificationSound": {
+      "message": "Garsiniai pranešimai"
+   },
+   "notificationTextToSpeech": {
+      "message": "Balso pranešimai"
+   },
+   "notificationZoom": {
+      "message": "Pranešimo lango didinimas"
+   },
+   "notificationZoomTooltip": {
+      "message": "Suspausti 'visą' tekstą pranešimo lange (praverčia kas naudoja didelį DPI mastelį)"
+   },
+   "notifications": {
+      "message": "Pranešimai"
+   },
+   "of": {
+      "message": "iš"
+   },
+   "oneUnreadText": {
+      "message": "Neskaityti laiškai"
+   },
+   "onlyRemoveAfterDonation": {
+      "message": "Donation mygtuką pašalinsite tiktai parėmę projektą!"
+   },
+   "open": {
+      "message": "Atidaryti"
+   },
+   "openComposeInTab": {
+      "message": "Naujai rašomam laiškui atverti naują kortelę"
+   },
+   "openComposeInTabToolTip": {
+      "message": "Naujai rašomam laiškui atverti naują kortelę vietoj mažo iššokančio lango (taip pat taikoma ir mailto: nuorodoms)"
+   },
+   "openGmailTab": {
+      "message": "Atidaryti Gmail skirtuką"
+   },
+   "openGmailTabToolTip": {
+      "message": "Atjungiamas iššokantis peržiūros langas (nerekomenduojama) ir atidaroma arba pasirenkama pirma Gmail paskyra kurioje yra neskaitytų laiškų"
+   },
+   "openLabel": {
+      "message": "Atverti etiketę"
+   },
+   "openLinkTitle": {
+      "message": "Atidaryti el.pašto puslapyje"
+   },
+   "openReply": {
+      "message": "Atidaryti (Atsakyti)"
+   },
+   "openThisLabel": {
+      "message": "Atidaryti nurodytą etiketę"
+   },
+   "openThisLabelToolTip": {
+      "message": "Nustatoma kur nukreipti vartotoją spustelėjus ant el. pašto paskyros arba plėtinio piktogramos"
+   },
+   "option": {
+      "message": "Parinktis"
+   },
+   "options": {
+      "message": "Pasirinkimai"
+   },
+   "or": {
+      "message": "arba"
+   },
+   "original": {
+      "message": "Originali"
+   },
+   "paragraph": {
+      "message": "paragrafas"
+   },
+   "password": {
+      "message": "Slaptažodis"
+   },
+   "pitch": {
+      "message": "Tonas"
+   },
+   "pollNow": {
+      "message": "Tikrinti dabar"
+   },
+   "pollingAccounts": {
+      "message": "Tikrinamos paskyros"
+   },
+   "pollingInterval": {
+      "message": "Tikrinimo intervalą"
+   },
+   "pollingIntervalTooltip": {
+      "message": "Laiškų gavimo tikrinimo intervalas"
+   },
+   "popupText": {
+      "message": "Jūs gavote naują laišką!"
+   },
+   "preview": {
+      "message": "Peržiūra"
+   },
+   "previewingMarksAsRead": {
+      "message": "Perskaičius pažymimas kaip skaitytas"
+   },
+   "previewingMarksAsReadToolTip": {
+      "message": "Laišką žymėti skaitytu, kai peržiūrimas iššokančiame lange"
+   },
+   "previous": {
+      "message": "Ankstesnis"
+   },
+   "priorityInbox": {
+      "message": "Pirmenybinė dėžutė"
+   },
+   "processing": {
+      "message": "Apdorojama"
+   },
+   "rate": {
+      "message": "Greitis"
+   },
+   "rateTitle": {
+      "message": "Kalbėjimo greitis: žodžių per minutę"
+   },
+   "readLink": {
+      "message": "Žymėti kaip skaitytą"
+   },
+   "readLinkTitle": {
+      "message": "Žymėti kaip skaitytą"
+   },
+   "readLinkTitleShort": {
+      "message": ""
+   },
+   "referToAlreadyDonated": {
+      "message": "Perduodama $1"
+   },
+   "referToAlreadyDonated2": {
+      "message": "jau paaukota"
+   },
+   "refresh": {
+      "message": "Atnaujinti"
+   },
+   "refreshLinkTitle": {
+      "message": "Atnaujinti visas pašto dėžutes"
+   },
+   "repeatSound": {
+      "message": "Pranešimo garsą kartoti kas"
+   },
+   "repeatSound2": {
+      "message": "ir sustabdyti po"
+   },
+   "repeatSound3": {
+      "message": "kartų"
+   },
+   "repeatSoundTooltip": {
+      "message": "Pakartojamas pranešimas arba balso įrašas, jei iššokantis pranešimo langas nebuvo atmestas"
+   },
+   "reply": {
+      "message": "Atsakyti"
+   },
+   "replyLinkTitle": {
+      "message": "Atsakyti į laišką"
+   },
+   "replyingMarksAsRead": {
+      "message": "Atsakymas paženklina kaip skaitytą"
+   },
+   "replyingMarksAsReadToolTip": {
+      "message": "Spustelėjus atsakymo mygtuką laiškas bus pažymėtas kaip perskaitytas"
+   },
+   "reportSpam": {
+      "message": "Žymėti kaip šlamštą"
+   },
+   "runInBackground": {
+      "message": "Veikti fone, kai Google Chrome uždaroma"
+   },
+   "runInBackgroundToolTip": {
+      "message": "Gaukite pranešimus apie naujus el. laiškus net kai naršyklė nepaleista! Rekomenduotina tik patyrusiems vartotojams."
+   },
+   "runInBackgroundWarning1": {
+      "message": "Prašome atidžiai perskaityti apie $1"
+   },
+   "runInBackgroundWarning1b": {
+      "message": "foninės programos"
+   },
+   "runInBackgroundWarning2": {
+      "message": "Jei atjungėte foninį Chrome plėtinių veikimą, jį vėl įjungsite perskaitę $1"
+   },
+   "runInBackgroundWarning2b": {
+      "message": "paskutinis skirsnis kurį galima spustelti"
+   },
+   "runInBackgroundWarning3": {
+      "message": "Gali tekti pasinaudoti $1 Gmail prisijungimo puslapyje"
+   },
+   "runInBackgroundWarning3b": {
+      "message": "likti prisijungus"
+   },
+   "saturation": {
+      "message": "Sodrumas"
+   },
+   "save": {
+      "message": "Įrašyti"
+   },
+   "saved": {
+      "message": "Įrašyta!"
+   },
+   "search": {
+      "message": "Paieška"
+   },
+   "securely": {
+      "message": "saugiai."
+   },
+   "seeVideo": {
+      "message": "Pažiūrėti video medžiagą"
+   },
+   "selectQuickActionButtons": {
+      "message": "Rodyti ar slėpti veiksmų mygtukus"
+   },
+   "selectQuickActionButtonsToolTip": {
+      "message": "Pastaba: Tai nepaslėps mygtukų viso laiško rodinyje!"
+   },
+   "sendPageLinkTitle": {
+      "message": "Siųsti puslapio nuorodą"
+   },
+   "sepia": {
+      "message": "Sepija"
+   },
+   "setDateTime": {
+      "message": "Nustatyti datą/laiką"
+   },
+   "severalUnreadText": {
+      "message": "Neskaityti laiškai"
+   },
+   "share": {
+      "message": "Dalytis"
+   },
+   "shareSmallCase": {
+      "message": "dalintis"
+   },
+   "shareTitle": {
+      "message": "Spauskite čia, kad papasakotumėte draugams apie šią puikią programą pasirinkę socialinio tinklapio dalinimosi mygtuką. Pastaba: pranešimas išnyks paspaudus čia."
+   },
+   "showActionButtonsOnHover": {
+      "message": "Iššokančio pranešimo lange veiksmo mygtukus rodyti tik užvedus žymiklį"
+   },
+   "showActionButtonsOnHoverToolTip": {
+      "message": "Rekomenduotina ši nuostata, bet jei naudojate Mac, galite tekti nuimkite žymėjimą, nes kartais funkcija suveikia užvedus žymiklį, kai Chrome langas nėra aktyvus"
+   },
+   "showButtonTooltip": {
+      "message": "Rodyti suflerį užvedus žymiklį virš mygtuko piktogramos"
+   },
+   "showButtonTooltipTooltip": {
+      "message": "Rodyti tolesnius įvykius, kai žymiklis užvedamas virš mygtuko piktogramos"
+   },
+   "showContactPhoto": {
+      "message": "Rodyti el.pašto kontaktų nuotraukas"
+   },
+   "showContactPhotoToolTip": {
+      "message": "Jei kontaktas turi nuotrauką, ji bus rodoma, arba galite įkelti savo turimą nuotrauką tam kontaktui arba tiesiog užveskite žymiklį virš nuotraukos atsidarę Gmail, jei norite pakeisti paveiksliuką.Jei nuotrauka neparinkta, bus rodoma standartinė piktograma. Norint naudotis savo kontaktų nuotraukomis reikalingos tam tikros teisės."
+   },
+   "showDesktopNotifications": {
+      "message": "Darbalaukio pranešimai"
+   },
+   "showDetails": {
+      "message": "Rodyti smulkiau"
+   },
+   "showEOM": {
+      "message": "Pridėti žymę pašto santraukos pabaigoje [EOM]"
+   },
+   "showEOMToolTip": {
+      "message": "EOM - laiško pabaiga. Praverčia kai gaunama daug greitų mažos apimties laiškų, nes nereikia spausti santraukos mygtuko norint pasižiūrėti ar visas laiškas perskaitytas"
+   },
+   "showEmailAccount": {
+      "message": "Visada rodyti pašto paskyros Gautieji"
+   },
+   "showEmailAccountToolTip": {
+      "message": "Praverčia jei tikrinamos 2 ar daugiau paskyrų. Parodoma tos paskyros Gautieji, kurioje yra naujas neskaitytas pranešimas"
+   },
+   "showIconAnimation": {
+      "message": "Rodyti piktogramos animaciją"
+   },
+   "showIconAnimationToolTip": {
+      "message": "Naujiems laiškams piktograma animuota"
+   },
+   "showLabelsTitle": {
+      "message": "Rodyti etiketes"
+   },
+   "showLeftColumnWhenPreviewingEmail": {
+      "message": "Rodyti stulpelį kairėje, iššokančiame lange peržiūrint elektroniniį paštą"
+   },
+   "showLeftColumnWhenPreviewingEmailToolTip": {
+      "message": "Pastaba: stulpelis automatiškai bus paslėptas, kai elektroninis laiškas pernelyg platus ir jam atvaizduoti reikia daugiau erdvės"
+   },
+   "showNotificationsForOlderDateEmails": {
+      "message": "Pranešimus rodyti ir senesniems pranešimams (praverčia naudojantiems POP3)"
+   },
+   "showNotificationsForOlderDateEmailsToolTip": {
+      "message": "Jei \u003Cb>nepažymėta\u003C/b> iššokantys pranešimai pateiks tik naujausias laiškus (rekomenduojama), nors kartais tikrinantis naudojantis POP3 laiškas bus pristatytas į pašto dėžutę vėliau naujesnių laiškų, o atsiduria aplanko viduryje, nes nurodoma senesnė gavimo data. \u003Cb>Pažymėjus čia\u003C/b> laiškai taip pat bus rodomi iššokančių pranešimų langeliuose, bet ne daugiau kaip 20 neskaitytų laiškų. Pastaba: laiškai pažymėti kaip neskaityti taip pat parodomi iššokančio pranešimo lange pakartotinai!"
+   },
+   "showOptionsButton": {
+      "message": "Rodyti parinkčių mygtuką"
+   },
+   "showRefresh": {
+      "message": "Rodyti atnaujinimo piktogramą"
+   },
+   "showRefreshTooltip": {
+      "message": "Rodyti atnaujinimo piktogramą"
+   },
+   "signIn": {
+      "message": "Prisijungti"
+   },
+   "signInAsUserOfOrg": {
+      "message": "Reikia $1 naudojantis jūsų įmonės el. pašto dėžute"
+   },
+   "signInAsUserOfOrg2": {
+      "message": "išsiregistruoti ir prisijungti prie savo Gmail"
+   },
+   "signInToYourAccount": {
+      "message": "Pirma prisijunkite prie savo paskyros (-ų), tada iš naujo įkelkite šį puslapį!"
+   },
+   "smallest": {
+      "message": "mažiausias"
+   },
+   "somedayAt": {
+      "message": "$1 "
+   },
+   "sound": {
+      "message": "Garsai"
+   },
+   "spam": {
+      "message": "Šlamštas"
+   },
+   "speechEngine": {
+      "message": "Kalbos modulis"
+   },
+   "spokenWordsLimit": {
+      "message": "Riboti sakomus žodžius"
+   },
+   "spokenWordsLimitToolTip": {
+      "message": "Kalbėjimą galima bet kokiu momentu stabdyti paspaudžiant mygtuką ar užvedus žymiklį virš iššokančio pranešimo langelio. Pastaba: kai kurie kalbėsenos generatoriai gali taikyti savo ištartų žodžių limitus"
+   },
+   "standardNotification": {
+      "message": "Standartinis pranešimo langas"
+   },
+   "standardNotificationToolTip": {
+      "message": "Praneša apie paskutinį neskaitytą laišką su pagrindiniais veiksmo mygtukais"
+   },
+   "starLinkTitle": {
+      "message": "Žymėti žvaigždute"
+   },
+   "staySignedIn": {
+      "message": "Likti prisijungus"
+   },
+   "summary": {
+      "message": "santrauka"
+   },
+   "summaryLinkTitle": {
+      "message": "Rodyti suvestinę"
+   },
+   "supportAndRequestsPrioritized": {
+      "message": "paremsite mane, o į jūsų klausimai bus pimenybiniai!"
+   },
+   "testIt": {
+      "message": "Išbandykite!"
+   },
+   "thankYouForYourContribution": {
+      "message": "Funkcijos dabar atrakintos. Dėkojame už jūsų indėlį!"
+   },
+   "thankYouForYourContribution2": {
+      "message": "Užverkite šį langą ir mėgaukitės!"
+   },
+   "theme": {
+      "message": "Tema"
+   },
+   "timeout": {
+      "message": "Skirtas laikas"
+   },
+   "timeoutTryAgain": {
+      "message": "Susijungimui su $1 skirtas laikas baigėsi, pamėginkite dar kartą!"
+   },
+   "to": {
+      "message": "kam"
+   },
+   "today": {
+      "message": "Šiandien"
+   },
+   "todayAt": {
+      "message": "Šiandien"
+   },
+   "tom": {
+      "message": "rytoj"
+   },
+   "tomorrow": {
+      "message": "Rytoj"
+   },
+   "tomorrowAt": {
+      "message": "Rytoj"
+   },
+   "tooManyUnread": {
+      "message": "Gaila, bet pažymėti galima tik $1 ar mažiau laiškų vienu kartu. Naudokitės GMail svetaine"
+   },
+   "turnOffRegularGmailChecking": {
+      "message": "Atjunkite pastovų Gmail tikrinimą, o tikrinti tiktai Google Apps"
+   },
+   "turnOffRegularGmailCheckingToolTip": {
+      "message": "Nustato nesekti jūsų @gmail.com paskyrų"
+   },
+   "undo": {
+      "message": "Atšaukti"
+   },
+   "unlockFeatures": {
+      "message": "Įgalinkite šias ir būsimas funkcijas vienkartine parama bet kokio dydžio suma, o funkcijos kaipmat bus įjungtos!"
+   },
+   "unlockHeader": {
+      "message": "Naudokitės papildomomis funkcijomis, kartu paremdami autorių"
+   },
+   "unmuteVoice": {
+      "message": "Pagarsinti balsą"
+   },
+   "unreadLink": {
+      "message": "Neskaitytieji"
+   },
+   "unreadLinkTitle": {
+      "message": "Žymėti kaip neskaitytą"
+   },
+   "unreadLinkTitleShort": {
+      "message": "Neskaitytas"
+   },
+   "unreadMail": {
+      "message": "Neskaityti laiškai"
+   },
+   "useTheseColors": {
+      "message": "Naudoti šias spalvas"
+   },
+   "useTheseColorsToolTip": {
+      "message": "Eksperimentuokite su įvairiais spalvų deriniais arba nusistatykite tą pačią spalvą. Pamėginkite spalvas suderinti su savo Gmail dėžutės naudojama tema arba jūsų įmonės logotipo spalvomis. Tada pažymėję laukelį žemiau nustatymai bus įjungti. Čia pakeičiama iššokančių pranešimo langelių ir išplėstinės peržiūros lango spalvos"
+   },
+   "voiceNotificationOnlyIfIdle": {
+      "message": "Tik kai pasitraukiate nuo kompiuterio ne trumpiau nei"
+   },
+   "voiceNotificationOnlyIfIdleTooltip": {
+      "message": "Naudokite šią parinktį, jei norite girdėti balsa, kai nesinaudojante kompiuteriu, nesate šalia jo arba jis dirba tuščiai ir t. t. Rekomenduoju:)"
+   },
+   "volume": {
+      "message": "Garsas"
+   },
+   "voythas": {
+      "message": "Voythas"
+   },
+   "voythasToolTip": {
+      "message": "Piktogramas sukūrė VoYtHAs"
+   },
+   "wantToStaySignedIn": {
+      "message": "Norite likti prisijungę?"
+   },
+   "welcomeMessage": {
+      "message": "Sveiki,\u003Cbr>\u003Cbr>Skirkite keletą dienų šiam plėtiniui ir jo įvairiems nustatymams patyrinėti...\u003Cbr>\u003Cbr>Jei kyla kokių problemų, \u003Cu>kol dar nerašėte\u003C/u> apžvalgos, kviečiu susisiekti su manimi paspaudžiant Pagalbos nuorodą nustatymų lange - greičiausiai, kad galėsiu jums padėti :)"
+   },
+   "what": {
+      "message": "Kas"
+   },
+   "when": {
+      "message": "Kada"
+   },
+   "wholeEmail": {
+      "message": "visas adresas"
+   },
+   "whyContribute": {
+      "message": "Kodėl turėčiau prisidėti?"
+   },
+   "whyContributeReason1": {
+      "message": "Per savaitę įdedu daug valandų savo laiko atnaujindamas ir koreguodamas $1 atsižvelgdamas į jūsų pasiūlymus"
+   },
+   "whyContributeReason1_1": {
+      "message": "visus mano plėtinius"
+   },
+   "whyContributeReason2": {
+      "message": "Perskaitau ir greitai atsakau į jūsų pastebėjimus ir atsiliepimus:)"
+   },
+   "whyContributeReason3": {
+      "message": "Galite paremti bet kokia suma - aš būsiu laimingas!"
+   },
+   "whyContributeReason4": {
+      "message": "Plėtinys gauna daug $1. Ačiū jums!"
+   },
+   "whyContributeReason4_1": {
+      "message": "dėmesio"
+   },
+   "whyContributeReason5": {
+      "message": "Apie mane daugiau sužinosite $1"
+   },
+   "whyContributeReason5_1": {
+      "message": "JasonSavard.com/bio"
+   },
+   "whyContributeToCalendarReason1": {
+      "message": "Dėl savęs ar savo veiklos būkite dar produktyvesni Google vartotojai"
+   },
+   "whyContributeToCalendarReason2": {
+      "message": "Daug pigiau nei $1"
+   },
+   "whyContributeToCalendarReason2_1": {
+      "message": "Microsoft Outlook"
+   },
+   "woman": {
+      "message": "Moteris"
+   },
+   "writeAboutMe": {
+      "message": "Išbandykite ir kitus mano sukurtus populiarius plėtinius!"
+   },
+   "writeSomethingNice": {
+      "message": "Pakeiskite šį tekstą gražiu komentaru apie šią programą arba kaip ir kodėl ja naudojatės"
+   },
+   "yesterday": {
+      "message": "vakar"
+   },
+   "zoom": {
+      "message": "Keisti mastelį"
+   }
+}

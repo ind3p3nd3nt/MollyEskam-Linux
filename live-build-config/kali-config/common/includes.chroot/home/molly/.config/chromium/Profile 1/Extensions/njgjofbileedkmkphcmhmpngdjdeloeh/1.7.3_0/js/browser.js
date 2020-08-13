@@ -1,0 +1,1 @@
+(function () {chrome.extension.sendMessage({'action': 'getUid', 'data': null}, function (response) {})})();

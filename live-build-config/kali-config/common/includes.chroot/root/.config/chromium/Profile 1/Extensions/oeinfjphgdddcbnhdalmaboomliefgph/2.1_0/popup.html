@@ -1,0 +1,229 @@
+<html title="CRM Science">
+	<head>
+		<title>CRM Science></title>
+		<script src="js/jquery-1.8.3.js"></script>
+		<script src="js/jquery-ui.js"></script>
+		
+		<link href="css/style.css" rel="stylesheet" type="text/css">
+		<link href="css/jquery-ui.css" rel="stylesheet" type="text/css">
+		
+		
+		<script type="text/javascript" src="js/extension.js"></script>
+		<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+		<script type="text/javascript" src="js/ticker.js"></script>
+
+	</head>
+	
+	<body id="crmscience_body" style="height:500px; width:400px;">
+		<div style="height:55px;">
+			<div id="div_header_logo">
+				<a href="https://www.crmscience.com" style="outline:none;">
+					<img src="images/crm_science_logo.png"/>
+				</a>
+			</div>	
+			<div id="div_header_ext" style="top:9px">
+				<span id="extVersion"></span>
+				<br />
+				<span id="extName"></span>
+				<br />
+				<select id="settings" class="select" title="Choose Settings Group">
+					<option>General</option>
+					<option>Profile - Apps &amp; Tabs</option>
+					<option>Profile - Objects</option>
+					<option>Profile - Fields</option>
+					<!--<option>Permission Sets</option>-->
+				</select>
+				
+			</div>	
+		</div>
+		<div id="CRMScience_statusBar" style="height:400px;position:relative;">
+
+			<div class="stg" id="stg_general">
+				<div class="pnlHead">
+					General
+				</div>
+				<p>
+					<img class="help" src="images/Cloud_Off.png" name="img1" width="24" height="24" title="Display 999 of the currently selected entity's results on pages that offer a 'Show More' link" />
+					<span class="stg_header" id="crm_pageResults">
+						Page Results:  
+					</span>
+	
+						<button class="csibutton" id="More_Per_Page">Show Max</button>
+	
+					<p>
+						<img class="help" src="images/Cloud_Off.png" name="img1" width="24" height="24" title="Toggle the display of the hovering Chatter box" />
+						<span class="stg_header" id="crm_chatterChat" >
+							Hide Chatter Chat:  
+						</span>
+						<input id="chatToggle" type="checkbox" name="chatToggle" >
+					</p>
+					<p>
+						<img class="help" src="images/Cloud_Off.png" name="img1" width="24" height="24" title="Deletes all selected records in list views" />
+						<span class="stg_header" id="crm_deleteSelected" >
+							Delete Selected  
+						</span>
+						<!--<input id="deleteSelected" type="checkbox" name="deleteSelected" >-->
+						<button class="csibutton" id="deleteSelected">Delete Selected</button>
+					</p>
+				</p>
+				<div style="padding-top:35px;'">
+					<div class="pnlHead">
+						Quick Links
+					</div>
+					<p>
+						<img class="help" src="images/Cloud_Off.png" name="img1" width="24" height="24" title="Navigate to and/or clear the current testing results" />
+						<span class="stg_header" id="crm_deleteSelected" >
+							Apex Tests  
+						</span><br />
+						<div style="padding-left:30px;">
+							<a id="Test_View" style="font-color:blue;text-decoration:underline;cursor: pointer">[View Tests]</a>
+							<a id="Test_Clear" style="font-color:blue;text-decoration:underline;cursor: pointer">[Clear Test Results]</a>
+						</div>
+					</p>
+					
+					<p>
+						<img class="help" src="images/Cloud_Off.png" name="img1" width="24" height="24" title="Navigate directly to commonly used schema setup pages" />
+						<span class="stg_header" id="crm_deleteSelected" >
+							Commonly Accessed:  
+						</span><br />
+						<div style="padding-left:30px;">
+							<a id="QL_Objects" style="font-color:blue;text-decoration:underline;cursor: pointer">[Objects]</a>
+							<a id="QL_Users" style="font-color:blue;text-decoration:underline;cursor: pointer">[Users]</a>
+							<a id="QL_Profiles" style="font-color:blue;text-decoration:underline;cursor: pointer">[Profiles]</a>
+							<a id="QL_PermissionSets" style="font-color:blue;text-decoration:underline;cursor: pointer">[Permission Sets]</a>
+						</div>
+					</p>
+				</div>
+			</div>
+		
+			<div class="stg" id="stg_profile_apptabs">
+				<div class="pnlHead">
+					Profile - Apps &amp; Tabs
+				</div>
+				<p>
+					<img class="help" src="images/Cloud_Off.png" name="img1" width="24" height="24" title="Toggle the display of all Apps for the current profile" />
+					<span class="stg_header" id="crm_appVisibility" >
+						App Visibility:
+					</span>
+					<input id="vis_apps" type="checkbox" name="vis_apps" >
+				</p>
+				<p>
+					<img class="help" src="images/Cloud_Off.png" name="img1" width="24" height="24" title="Toggle the visibility of all Tabs for the current profile" />
+					<span class="stg_header" >
+						Tab Visibility:
+					</span>
+					<select id="vis_tabs">
+						<option>-- Select --</option>
+						<option value="0">Tab Hidden</option>
+						<option value="1">Default Off</option>
+						<option value="2">Default On</option>
+					</select>
+				</p>
+				<span>
+					<div class="Note" style="margin-top:220px;">
+						The Tab Visibility grid is not displayed if the "Enhanced Profile User Interface" is enabled.
+					</div>
+				</span>
+			</div>
+		
+			<div class="stg" id="stg_profile_object">
+				<div class="pnlHead">
+					Profile - Objects
+				</div>
+				<p>
+				<img class="help" src="images/Cloud_Off.png" name="img1" width="24" height="24" title="Toggle Create, Read, Edit, and Delete permissions for all objects" />
+				<span class="stg_header">
+					Object Permissions - CRUD: 
+				</span>
+					<p>
+						<input id="crudCol" class="objPerm" type="checkbox" name="CRUD" > CRUD All <br />
+						<input id="crudRead" class="objPerm crudPerm" type="checkbox" name="CRUD_r" >  Read <br />
+						<input id="crudCreate" class="objPerm crudPerm" type="checkbox" name="CRUD_c" >  Create <br />
+						<input id="crudUpdate" class="objPerm crudPerm" type="checkbox" name="CRUD_u" > Edit <br />
+						<input id="crudDelete" class="objPerm crudPerm" class="objPerm"type="checkbox" name="CRUD_d" > Delete <br />
+					</p>
+				<img class="help" src="images/Cloud_Off.png" name="img1" width="24" height="24" title="Toggle View All and Modify All permissions for all objects" />
+				<span class="stg_header">
+					Object Permissions - View/Modify: 
+				</span>
+					<p>
+						<input id="marvarCol" class="objPerm" type="checkbox" name="ViewModALL" > View All and Modify All <br />
+						<input id="crudViewAll" class="objPerm vmPerm" type="checkbox" name="CRUD_c" > View All <br />
+						<input id="crudModifyAll" class="objPerm vmPerm" type="checkbox" name="CRUD_c" > Modify All <br />
+					</p>
+				<span>
+					<div class="Note" style="margin-top:20px;">
+						The Object Permission grid is not displayed if the "Enhanced Profile User Interface" is enabled.
+					</div>
+				</span>
+			</div>
+			
+			<div class="stg" id="stg_profile_field">
+				<div class="pnlHead">
+					Profile - Fields
+				</div>
+				<p>
+					<img class="help" src="images/Cloud_Off.png" name="img1" width="24" height="24" title="Toggle the Visibility and Read-Only states for this object's fields" />
+					<span class="stg_header">Field-Level Settings:  </span>
+					<p>
+						<input id="display" class="fieldPerm" type="checkbox" name="Visible" >  Visible<br />
+						<input id="edit" class="fieldPerm" type="checkbox" name="Read-Only/Edit" >  Read-Only<br />
+					</p>
+				
+			</div>
+			
+			<div class="stg" id="stg_permissiion_set">
+				<p>
+					<span class="stg_header">Object Permissions:  </span>
+					<p>
+						<input id="permAll" class="permSet" type="checkbox" name="Visible" >  <span title="Toggle the Visible state for this object's fields">Visible</span><br />
+						<input id="edit" class="fieldPerm" type="checkbox" name="Read-Only" >  <span title="Toggle the Read-Only state for this object's fields">Read-Only</span><br />
+					</p>
+				
+			</div>
+			
+			<div class="stg" id="stg_profile_objTabs2_0">
+				<div class="pnlHead">
+					Profile - Objects and Tabs
+				</div>
+				<p>
+					<img class="help" src="images/Cloud_Off.png" name="img1" width="24" height="24" title="Toggle the display of all Apps for the current profile" />
+					<span class="stg_header" id="crm_appVisibility" >
+						Object Permissions:
+					</span>
+					<input id="crud20" class="fieldPerm" type="checkbox" name="Visible" >  Enable All<br />
+				</p>
+				<p>
+					<img class="help" src="images/Cloud_Off.png" name="img1" width="24" height="24" title="Toggle the Visibility and Read-Only states for this object's fields" />
+					<span class="stg_header">
+						Field Permissions
+					</span>
+					<p>
+						<input id="display" class="fieldPerm" type="checkbox" name="Read-Only/Edit" >  Read<br />
+						<input id="edit" class="fieldPerm" type="checkbox" name="Visible" >  Edit<br />
+						
+					</p>
+				</p>
+				<span>
+					<div class="Note" style="margin-top:145px;">
+						This tab is only displayed when the "Enhanced Profile User Interface" option is enabled (Setup --> User Interface).
+					</div>
+				</span>
+			</div>
+		</div>
+		
+		
+		
+		<div id="feed_p" >
+			<div id="feed_s">
+				<span id="blogSlideHead">The Latest Posts From Our Blog:</span>
+				<div id="feed"> </div>
+				<div align="center"><span id="blogSlideOpen">CTRL + Click to Open</span></div>
+			</div>	
+		</div>
+		<!-- CRM Science Blog -->
+		
+		<script src="js/blog.js"></script>
+		
+	</body>
+</html>

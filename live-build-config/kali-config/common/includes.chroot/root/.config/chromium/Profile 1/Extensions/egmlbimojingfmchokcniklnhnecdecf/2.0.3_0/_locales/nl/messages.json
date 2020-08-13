@@ -1,0 +1,29 @@
+{
+   "block_chat_indicator": {
+      "message": "Blokkeer de ”Last active” -indicator"
+   },
+   "block_chat_receipts": {
+      "message": "Blokkeer de ”Bezorgingsbewijzen” functie"
+   },
+   "block_chat_seen": {
+      "message": "Blokkeer de ”Gezien” -functie"
+   },
+   "block_typing_indicator": {
+      "message": "Blokkeer de ”Typing ...” -indicator"
+   },
+   "description": {
+      "message": "Verbergt de ”Gezien” -functie van Facebook™ -chat en Messenger van je vrienden. Blokkeert ontvangstbevestigingen ..."
+   },
+   "fbunseen_messenger": {
+      "message": "Gebruik het op messenger.com"
+   },
+   "name": {
+      "message": "Unseen - Chat Privacy"
+   },
+   "options": {
+      "message": "opties"
+   },
+   "show_mark_as_read": {
+      "message": "Toon de knop ”Markeren als gelezen”"
+   }
+}

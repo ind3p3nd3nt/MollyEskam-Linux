@@ -1,0 +1,119 @@
+{
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "NEODSTRAŇUJTE"
+   },
+   "archive": {
+      "message": "Arhiviraj"
+   },
+   "archiveLinkTitle": {
+      "message": "Arhiviraj poruku"
+   },
+   "back": {
+      "message": "Povratak"
+   },
+   "backToInbox": {
+      "message": "Povratak u Inbox"
+   },
+   "compose": {
+      "message": "Nova poruka"
+   },
+   "composeLinkTitle": {
+      "message": "Napiši novu poruku"
+   },
+   "contacts": {
+      "message": "Kontakti"
+   },
+   "delete": {
+      "message": "Obriši"
+   },
+   "deleteLink": {
+      "message": "Obriši"
+   },
+   "deleteLinkTitle": {
+      "message": "Obriši poruku"
+   },
+   "email": {
+      "message": "E-pošta:"
+   },
+   "emailAccounts": {
+      "message": "Računi e-pošte"
+   },
+   "fullLinkTitle": {
+      "message": "Prikaži cijelu poruku"
+   },
+   "languageName": {
+      "message": "Hrvatski"
+   },
+   "markAllAsRead": {
+      "message": "Označi sve kao pročitano"
+   },
+   "markAllAsReadTitle": {
+      "message": "Označi sve kao pročitano"
+   },
+   "monthsArray": {
+      "message": "sij,vel,ožu,tra,svi,lip,srp,kol,ruj,lis,stu,pro"
+   },
+   "noUnreadText": {
+      "message": "Nema nepročitanih poruka"
+   },
+   "oneUnreadText": {
+      "message": "nepročitana poruka"
+   },
+   "open": {
+      "message": "Otvori"
+   },
+   "openComposeInTab": {
+      "message": "Otvori u novom prozoru"
+   },
+   "openLinkTitle": {
+      "message": "Otvori u novom prozoru"
+   },
+   "openReply": {
+      "message": "Otvori (Odgovori)"
+   },
+   "popupText": {
+      "message": "Primili ste novu poruku!"
+   },
+   "readLink": {
+      "message": "Pročitano"
+   },
+   "readLinkTitle": {
+      "message": "Označi kao pročitano"
+   },
+   "refreshLinkTitle": {
+      "message": "Osvježi sve sandučiće"
+   },
+   "reply": {
+      "message": "Odgovori"
+   },
+   "replyLinkTitle": {
+      "message": "Odgovori na poruku"
+   },
+   "reportSpam": {
+      "message": "Prijavi neželjenu poruku"
+   },
+   "search": {
+      "message": "Tražilica"
+   },
+   "sendPageLinkTitle": {
+      "message": "Pošalji link ove stranice"
+   },
+   "severalUnreadText": {
+      "message": "nepročitane/ih poruke/a"
+   },
+   "spam": {
+      "message": "Prijavi"
+   },
+   "starLinkTitle": {
+      "message": "Dodaj zvjezdicu"
+   },
+   "summaryLinkTitle": {
+      "message": "Prikaži kratak pregled"
+   },
+   "unreadLink": {
+      "message": "Nepročitano"
+   },
+   "unreadLinkTitle": {
+      "message": "Označi kao nepročitano"
+   }
+}

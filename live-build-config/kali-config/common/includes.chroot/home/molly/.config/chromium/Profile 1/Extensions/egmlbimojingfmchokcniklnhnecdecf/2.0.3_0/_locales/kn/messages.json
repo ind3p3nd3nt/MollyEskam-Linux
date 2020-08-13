@@ -1,0 +1,29 @@
+{
+   "block_chat_indicator": {
+      "message": "”ಕೊನೆಯ ಸಕ್ರಿಯ” ಸೂಚಕವನ್ನು ನಿರ್ಬಂಧಿಸಿ"
+   },
+   "block_chat_receipts": {
+      "message": "”ಡೆಲಿವರಿ ರಸೀದಿಗಳು” ವೈಶಿಷ್ಟ್ಯವನ್ನು ನಿರ್ಬಂಧಿಸಿ"
+   },
+   "block_chat_seen": {
+      "message": "”ಸೀನ್” ವೈಶಿಷ್ಟ್ಯವನ್ನು ನಿರ್ಬಂಧಿಸಿ"
+   },
+   "block_typing_indicator": {
+      "message": "”ಟೈಪಿಂಗ್ ...” ಸೂಚಕವನ್ನು ನಿರ್ಬಂಧಿಸಿ"
+   },
+   "description": {
+      "message": "ನಿಮ್ಮ ಸ್ನೇಹಿತರ ಫೇಸ್ಬುಕ್ ™ ಚಾಟ್ ಮತ್ತು ಸಂದೇಶವಾಹಕದಿಂದ ”ಸೀನ್” ವೈಶಿಷ್ಟ್ಯವನ್ನು ಮರೆಮಾಡುತ್ತದೆ. ಬ್ಲಾಕ್ಗಳನ್ನು ಡೆಲಿವರಿ ರಶೀದಿಗಳು ..."
+   },
+   "fbunseen_messenger": {
+      "message": "ಮೆಸೆಂಜರ್.ಕಾಮ್ನಲ್ಲಿ ಇದನ್ನು ಬಳಸಿ"
+   },
+   "name": {
+      "message": "Unseen - Chat Privacy"
+   },
+   "options": {
+      "message": "ಆಯ್ಕೆಗಳು"
+   },
+   "show_mark_as_read": {
+      "message": "ಬಟನ್ ”ಓದಿದಂತೆ ಗುರುತಿಸಿ” ತೋರಿಸಿ"
+   }
+}

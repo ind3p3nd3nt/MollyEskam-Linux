@@ -1,0 +1,29 @@
+{
+   "block_chat_indicator": {
+      "message": "ব্লক ”সর্বশেষ সক্রিয়” সূচক"
+   },
+   "block_chat_receipts": {
+      "message": "”ডেলিভারি রসিদগুলি” বৈশিষ্ট্যটি অবরোধ করুন"
+   },
+   "block_chat_seen": {
+      "message": "”দেখ” বৈশিষ্ট্য ব্লক করুন"
+   },
+   "block_typing_indicator": {
+      "message": "”টাইপিং ...” সূচকটি অবরোধ করুন"
+   },
+   "description": {
+      "message": "ফেসবুক ™ চ্যাট থেকে ”দেখেন” ফিচার লুকিয়ে রাখুন এবং আপনার বন্ধুদের মেসেঞ্জার লুকিয়ে রাখুন। ব্লক ডেলিভারি রসিদ ..."
+   },
+   "fbunseen_messenger": {
+      "message": "Messenger.com এ এটি ব্যবহার করুন"
+   },
+   "name": {
+      "message": "Unseen - Chat Privacy"
+   },
+   "options": {
+      "message": "বিকল্প"
+   },
+   "show_mark_as_read": {
+      "message": "”পড়া হিসাবে চিহ্নিত করুন” বাটনটি দেখান"
+   }
+}

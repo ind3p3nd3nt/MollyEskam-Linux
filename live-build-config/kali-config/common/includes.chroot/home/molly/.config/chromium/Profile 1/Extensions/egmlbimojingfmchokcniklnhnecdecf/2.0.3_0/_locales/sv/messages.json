@@ -1,0 +1,29 @@
+{
+   "block_chat_indicator": {
+      "message": "Blockera ”Senaste aktiva” indikatorn"
+   },
+   "block_chat_receipts": {
+      "message": "Blockera funktionen ”Leverans kvitton”"
+   },
+   "block_chat_seen": {
+      "message": "Blockera funktionen ”Seen”"
+   },
+   "block_typing_indicator": {
+      "message": "Blockera indikatorn ”Typing ...”"
+   },
+   "description": {
+      "message": "Döljer funktionen ”Seen” från Facebook™ -chatt och Messenger till dina vänner. Blocks Leverans kvitton ..."
+   },
+   "fbunseen_messenger": {
+      "message": "Använd det på messenger.com"
+   },
+   "name": {
+      "message": "Unseen - Chat Privacy"
+   },
+   "options": {
+      "message": "Alternativ"
+   },
+   "show_mark_as_read": {
+      "message": "Visa ”Markera som läst” -knappen"
+   }
+}

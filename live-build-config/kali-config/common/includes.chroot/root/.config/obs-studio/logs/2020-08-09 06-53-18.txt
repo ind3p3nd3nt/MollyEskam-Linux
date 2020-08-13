@@ -1,0 +1,120 @@
+06:53:18 AM.606: CPU Name: Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz
+06:53:18 AM.606: CPU Speed: 1317.806MHz
+06:53:18 AM.607: Physical Cores: 2, Logical Cores: 4
+06:53:18 AM.607: Physical Memory: 7949MB Total, 736MB Free
+06:53:18 AM.607: Kernel Version: Linux 5.7.0-kali1-amd64
+06:53:18 AM.607: Distribution: "Kali GNU/Linux" "2020.3"
+06:53:18 AM.607: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.8
+06:53:18 AM.609: Portable mode: false
+06:53:18 AM.751: OBS 25.0.8+dfsg1-3 (linux)
+06:53:18 AM.751: ---------------------------------
+06:53:19 AM.014: ---------------------------------
+06:53:19 AM.014: audio settings reset:
+06:53:19 AM.014: 	samples per sec: 44100
+06:53:19 AM.014: 	speakers:        2
+06:53:19 AM.073: ---------------------------------
+06:53:19 AM.073: Initializing OpenGL...
+06:53:19 AM.126: Loading up OpenGL on adapter Intel Mesa Intel(R) HD Graphics 5500 (BDW GT2)
+06:53:19 AM.126: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 20.1.4, shading language 4.60
+06:53:19 AM.154: ---------------------------------
+06:53:19 AM.154: video settings reset:
+06:53:19 AM.154: 	base resolution:   1920x1080
+06:53:19 AM.154: 	output resolution: 960x540
+06:53:19 AM.154: 	downscale filter:  Bicubic
+06:53:19 AM.154: 	fps:               30/1
+06:53:19 AM.154: 	format:            NV12
+06:53:19 AM.154: 	YUV mode:          601/Partial
+06:53:19 AM.154: NV12 texture support not available
+06:53:19 AM.160: Audio monitoring device:
+06:53:19 AM.160: 	name: Default
+06:53:19 AM.160: 	id: default
+06:53:19 AM.172: ---------------------------------
+06:53:19 AM.188: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+06:53:19 AM.595: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+06:53:19 AM.595: No blackmagic support
+06:53:19 AM.961: FFMPEG VAAPI supported
+06:53:20 AM.286: VLC found, VLC video source enabled
+06:53:20 AM.287: ---------------------------------
+06:53:20 AM.287:   Loaded Modules:
+06:53:20 AM.287:     vlc-video.so
+06:53:20 AM.287:     text-freetype2.so
+06:53:20 AM.287:     rtmp-services.so
+06:53:20 AM.287:     obs-x264.so
+06:53:20 AM.287:     obs-transitions.so
+06:53:20 AM.287:     obs-outputs.so
+06:53:20 AM.287:     obs-filters.so
+06:53:20 AM.287:     obs-ffmpeg.so
+06:53:20 AM.287:     linux-v4l2.so
+06:53:20 AM.287:     linux-pulseaudio.so
+06:53:20 AM.287:     linux-jack.so
+06:53:20 AM.287:     linux-decklink.so
+06:53:20 AM.287:     linux-capture.so
+06:53:20 AM.287:     linux-alsa.so
+06:53:20 AM.287:     image-source.so
+06:53:20 AM.287:     frontend-tools.so
+06:53:20 AM.288:     decklink-ouput-ui.so
+06:53:20 AM.288: ---------------------------------
+06:53:20 AM.325: ==== Startup complete ===============================================
+06:53:20 AM.330: Service '' not found
+06:53:20 AM.388: All scene data cleared
+06:53:20 AM.388: ------------------------------------------------
+06:53:20 AM.408: pulse-input: Server name: 'pulseaudio 11.1'
+06:53:20 AM.408: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+06:53:20 AM.408: pulse-input: Started recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor'
+06:53:20 AM.408: [Loaded global audio device]: 'Desktop Audio'
+06:53:20 AM.706: pulse-input: Server name: 'pulseaudio 11.1'
+06:53:20 AM.707: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+06:53:20 AM.707: pulse-input: Started recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo'
+06:53:20 AM.707: [Loaded global audio device]: 'Mic/Aux'
+06:53:20 AM.708: v4l2-input: Start capture from /dev/video0
+06:53:20 AM.824: v4l2-input: Input: 0
+06:53:20 AM.836: v4l2-input: Resolution: 1280x720
+06:53:20 AM.836: v4l2-input: Pixelformat: VYUY
+06:53:20 AM.836: v4l2-input: Linesize: 2560 Bytes
+06:53:20 AM.836: v4l2-input: Framerate: 10.00 fps
+06:53:20 AM.839: Switched to scene 'Scene'
+06:53:20 AM.840: ------------------------------------------------
+06:53:20 AM.840: Loaded scenes:
+06:53:20 AM.840: - scene 'Scene':
+06:53:20 AM.840:     - source: 'Video Capture Device (V4L2)' (v4l2_input)
+06:53:20 AM.840: ------------------------------------------------
+06:53:21 AM.220: adding 23 milliseconds of audio buffering, total audio buffering is now 23 milliseconds (source: Desktop Audio)
+06:53:21 AM.220: 
+06:55:53 AM.870: ---------------------------------
+06:55:53 AM.870: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+06:55:53 AM.870: [x264 encoder: 'simple_h264_recording'] profile: high
+06:55:53 AM.894: [x264 encoder: 'simple_h264_recording'] settings:
+06:55:53 AM.894: 	rate_control: CRF
+06:55:53 AM.894: 	bitrate:      0
+06:55:53 AM.894: 	buffer size:  0
+06:55:53 AM.894: 	crf:          19
+06:55:53 AM.894: 	fps_num:      30
+06:55:53 AM.894: 	fps_den:      1
+06:55:53 AM.894: 	width:        960
+06:55:53 AM.894: 	height:       540
+06:55:53 AM.894: 	keyint:       250
+06:55:53 AM.894: 
+06:55:53 AM.932: ---------------------------------
+06:55:53 AM.932: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+06:55:53 AM.932: 
+06:55:53 AM.950: ==== Recording Start ===============================================
+06:55:53 AM.950: [ffmpeg muxer: 'simple_file_output'] Writing file '/root/2020-08-09 06-55-53.mkv'...
+06:55:57 AM.676: [ffmpeg muxer: 'simple_file_output'] Output of file '/root/2020-08-09 06-55-53.mkv' stopped
+06:55:57 AM.676: Output 'simple_file_output': stopping
+06:55:57 AM.676: Output 'simple_file_output': Total frames output: 91
+06:55:57 AM.676: Output 'simple_file_output': Total drawn frames: 112
+06:55:57 AM.679: ==== Recording Stop ================================================
+06:56:27 AM.165: ==== Shutting down ==================================================
+06:56:27 AM.166: Switched to scene '(null)'
+06:56:27 AM.218: v4l2-input: Stopped capture after 1814 frames
+06:56:28 AM.015: pulse-input: Stopped recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor'
+06:56:28 AM.015: pulse-input: Got 38358 packets with 8348537 frames
+06:56:28 AM.015: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo'
+06:56:28 AM.015: pulse-input: Got 18663 packets with 8259584 frames
+06:56:28 AM.016: All scene data cleared
+06:56:28 AM.016: ------------------------------------------------
+06:56:28 AM.025: Failed to fetch parent window geometry!
+06:56:28 AM.025: Failed to fetch parent window geometry!
+06:56:28 AM.025: Failed to fetch parent window geometry!
+06:56:28 AM.025: Failed to fetch parent window geometry!
+06:56:28 AM.069: Failed to fetch parent window geometry!

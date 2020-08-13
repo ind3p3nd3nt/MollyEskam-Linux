@@ -1,0 +1,30 @@
+.talkButton > div {border:1px solid transparent;border-radius:2px}
+.talkButton.counting .countdown {display:block;font-size:20px}
+.talkButton.counting .speechImage {opacity:0}
+.talkButton:active > div {background: rgb(223, 223, 223);}
+.talkButton .speechImage {opacity:0.6}
+.talkButton:not(.counting):hover .speechImage {opacity:1}
+			
+input.interim {color:gray}
+			
+.eq {left:205px !important}
+.dv.speechImage {height: 31px;width: 31px;margin-left: -4px;margin-top: -1px;background-position: 0 !important;background: url('https://apps.jasonsavard.com/images/mic.png') !important;background-size: 31px !important}
+.talkButton.listening .speechImage {background: url('https://apps.jasonsavard.com/images/mic-animate.gif') !important;background-size: 31px !important}
+.gU.OoRYyc {position: absolute;right:86px} /* Make status message 'Saved' absolute because it was pushing buttons down when the status would appear */
+			
+.interimText {color:gray}
+.countdown {display:none;position:absolute;left:8px;top:3px}
+
+.speechWarningDialog {z-index:5 !important;position:absolute !important;top: 39% !important;left: 22% !important;background:rgb(252, 154, 154);text-align:center;border-radius:10px;padding:12px;width:255px !important;padding:17px !important}
+.speechWarningDialog .Kj-JD-K7-K0 {padding-right:3px !important}
+.speechWarningDialog .Kj-JD-K7-Jq {display:none}
+.dialogMessage {margin-bottom:5px}
+.speechWarningDialogStop {margin-left:10px}
+.speechWarningDialog.hoveringOverDropDown .speechWarningDialogContinue {display:none}
+.speechWarningDialog.hoveringOverDropDown .speechWarningDialogStop {display:none}
+
+.viPhrase.selected {background:#f4f4f4}
+#viDropDown {z-index:10;position:absolute;border:1px solid #aaa;box-shadow:2px 2px 5px gray;background:white}
+.viDropDownItem {padding:1px 2px;cursor:pointer;white-space:nowrap}
+.viDropDownItem:hover {background:#eee}
+.viDropDownItem.erase {border-top:1px solid #999;padding:3px;font-style:italic}

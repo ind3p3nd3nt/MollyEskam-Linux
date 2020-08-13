@@ -1,0 +1,185 @@
+{
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "DO NOT REMOVE"
+   },
+   "aboutMe": {
+      "message": "Over mij"
+   },
+   "agenda": {
+      "message": "Agenda"
+   },
+   "agendaOnly": {
+      "message": "Alleen agenda"
+   },
+   "alertMe": {
+      "message": "of herinner mij..."
+   },
+   "archive": {
+      "message": "Archiveren"
+   },
+   "archiveLinkTitle": {
+      "message": "Archiveer bericht"
+   },
+   "calendarViewTitle": {
+      "message": "Selecteer de standaard agenda-weergave"
+   },
+   "changeView": {
+      "message": "Weergave aanpassen"
+   },
+   "composeLinkTitle": {
+      "message": "Nieuw bericht maken"
+   },
+   "currencyCode": {
+      "message": "EUR"
+   },
+   "currencySymbol": {
+      "message": "€"
+   },
+   "customized": {
+      "message": "Aangepast"
+   },
+   "d": {
+      "message": "d"
+   },
+   "daysAgo": {
+      "message": "dagen"
+   },
+   "daysLeft": {
+      "message": "over $1 dagen"
+   },
+   "deleteLink": {
+      "message": "Verwijderen"
+   },
+   "deleteLinkTitle": {
+      "message": "Verwijder bericht"
+   },
+   "description": {
+      "message": "Hiermee wordt berichten in uw Postvak IN van Gmail weergegeven. U kunt ook op de knop klikken om het Postvak IN te openen"
+   },
+   "donateButton": {
+      "message": "https://www.paypal.com/nl_NL/i/btn/btn_donate_SM.gif"
+   },
+   "fullLinkTitle": {
+      "message": "Volledig bericht weergeven"
+   },
+   "h": {
+      "message": "u"
+   },
+   "helpSupport": {
+      "message": "steun de auteur van deze extensie!"
+   },
+   "hoursAgo": {
+      "message": "$1 uur geleden"
+   },
+   "hoursLeft": {
+      "message": "over $1 uur"
+   },
+   "inVARhour": {
+      "message": "over $1 uur"
+   },
+   "inVARhours": {
+      "message": "over $1 uur"
+   },
+   "inVARminutes": {
+      "message": "over $1 min."
+   },
+   "languageName": {
+      "message": "Nederlands"
+   },
+   "m": {
+      "message": "m"
+   },
+   "min": {
+      "message": "min"
+   },
+   "minutesAgo": {
+      "message": "$1 minuten geleden"
+   },
+   "minutesLeft": {
+      "message": "over $1 minuten"
+   },
+   "month": {
+      "message": "Maand"
+   },
+   "monthsArray": {
+      "message": "jan,feb,mar,apr,mei,jun,jul,aug,sep,okt,nov,dec"
+   },
+   "noUnreadText": {
+      "message": "Geen ongelezen berichten"
+   },
+   "oneUnreadText": {
+      "message": "ongelezen bericht"
+   },
+   "openCalendar": {
+      "message": "Agenda openen"
+   },
+   "openLinkTitle": {
+      "message": "Openen in webmail"
+   },
+   "popupText": {
+      "message": "U heeft een nieuw e-mail bericht ontvangen!"
+   },
+   "quickAdd": {
+      "message": "Toevoegen"
+   },
+   "quickAddDefaultText": {
+      "message": "bijv., 21:00 kijken voetbal"
+   },
+   "readLink": {
+      "message": "Gelezen"
+   },
+   "readLinkTitle": {
+      "message": "Markeren als gelezen"
+   },
+   "refresh": {
+      "message": "Vernieuwen"
+   },
+   "refreshLinkTitle": {
+      "message": "Alle postvakken vernieuwen"
+   },
+   "replyLinkTitle": {
+      "message": "Antwoorden"
+   },
+   "reportSpam": {
+      "message": "Markeren als ongewenst"
+   },
+   "save": {
+      "message": "Opslaan"
+   },
+   "severalUnreadText": {
+      "message": "ongelezen berichten"
+   },
+   "showAgendaOptions": {
+      "message": "Toon een link naar de opties"
+   },
+   "spam": {
+      "message": "Ongewenst"
+   },
+   "starLinkTitle": {
+      "message": "Ster toevoegen aan bericht"
+   },
+   "summaryLinkTitle": {
+      "message": "Samenvatting tonen"
+   },
+   "today": {
+      "message": "vandaag"
+   },
+   "tomorrow": {
+      "message": "Morgen"
+   },
+   "unreadLink": {
+      "message": "Ongelezen"
+   },
+   "unreadLinkTitle": {
+      "message": "Markeren als ongelezen"
+   },
+   "view": {
+      "message": "Bekijken"
+   },
+   "week": {
+      "message": "Week"
+   },
+   "yesterday": {
+      "message": "gisteren"
+   }
+}

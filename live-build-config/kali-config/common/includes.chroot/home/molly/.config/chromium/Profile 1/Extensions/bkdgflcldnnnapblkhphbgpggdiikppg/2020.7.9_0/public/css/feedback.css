@@ -1,0 +1,60 @@
+/* Font variables */
+/* Colors */
+/* Neutral Colors */
+/* #888 */
+/* #d0d0d0 */
+/* Rating Colors */
+/* Popup */
+/* Hamburger Button & Menu */
+/* The ratings we give */
+/* Cards */
+/* Popover */
+/* CSS Arrow */
+/* Font variables */
+/* Colors */
+/* Neutral Colors */
+/* #888 */
+/* #d0d0d0 */
+/* Rating Colors */
+/* Popup */
+/* Hamburger Button & Menu */
+/* The ratings we give */
+/* Cards */
+/* Popover */
+/* CSS Arrow */
+/* Tracker Network Icons */
+/* Logo */
+/* App states */
+/* Font groupings */
+.uppercase {
+  font-size: 12px;
+  color: #888888;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: bold; }
+
+/* Lists */
+/* Toggle buttons */
+/* Images & icons */
+/* Cross-platform background image */
+/* Sliding subviews */
+.page-container {
+  width: 400px;
+  margin: 3em auto auto auto;
+  position: relative; }
+  .page-container p {
+    margin-bottom: 10px; }
+
+.ddg-logo {
+  background-size: contain;
+  width: 158px;
+  height: 44px;
+  margin-bottom: 23px; }
+  .is-browser--chrome .ddg-logo {
+    background-image: url("chrome-extension://__MSG_@@extension_id__/img/logo-horizontal@2x.png"); }
+  .is-browser--moz .ddg-logo {
+    background-image: url("moz-extension://__MSG_@@extension_id__/img/logo-horizontal@2x.png"); }
+  .is-browser--safari .ddg-logo {
+    background-image: url("../../img/logo-horizontal@2x.png"); }
+  .ddg-logo span {
+    display: none; }

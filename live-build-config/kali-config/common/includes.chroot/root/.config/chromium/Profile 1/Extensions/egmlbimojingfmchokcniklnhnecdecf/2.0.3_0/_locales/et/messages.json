@@ -1,0 +1,29 @@
+{
+   "block_chat_indicator": {
+      "message": "Blokeeri ”Viimase aktiivse” indikaator"
+   },
+   "block_chat_receipts": {
+      "message": "Blokeeri funktsioon ”Tarne kättesaamised”"
+   },
+   "block_chat_seen": {
+      "message": "Blokeeri funktsioon ”Vaata”"
+   },
+   "block_typing_indicator": {
+      "message": "Blokeeri indikaator ”Tippimine ...”"
+   },
+   "description": {
+      "message": "Peidab Facebook™ -i vestluse ja sõprade Messengeri ”Vaata” funktsiooni. Blokid kättetoimetamise kviitungid ..."
+   },
+   "fbunseen_messenger": {
+      "message": "Kasuta seda messenger.com-is"
+   },
+   "name": {
+      "message": "Unseen - Chat Privacy"
+   },
+   "options": {
+      "message": "Valikud"
+   },
+   "show_mark_as_read": {
+      "message": "Näidake nuppu ”Märgi lugeda”"
+   }
+}

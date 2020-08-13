@@ -1,0 +1,41 @@
+#story-open {
+    display: block;
+    position: fixed;
+    top: 70px;
+    left: 10px;
+}
+
+#story-download {
+    display: block;
+    position: fixed;
+    top: 106px;
+    left: 10px;
+}
+
+a.desc-photo {
+    position: absolute;
+    color: white !important;
+    font-size: 20px;
+    margin: 5px;
+    border-radius: 4px;
+    opacity: 0;
+    top: 0;
+    background:#7441A3;
+    width: 28px;
+    height: 28px;
+    padding-top: 2px;
+    padding-left: 4px;
+    left: 4px;
+}
+
+a.desc-download-photo {
+    top: 36px;
+}
+
+.desc-photo-ready:hover a.desc-photo {
+    opacity: 0.8;
+}
+
+.desc-photo-ready:hover a.desc-photo:hover {
+    opacity: 1;
+}

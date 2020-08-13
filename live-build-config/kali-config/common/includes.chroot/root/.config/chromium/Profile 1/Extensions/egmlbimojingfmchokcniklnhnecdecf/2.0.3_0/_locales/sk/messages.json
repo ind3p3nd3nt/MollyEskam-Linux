@@ -1,0 +1,29 @@
+{
+   "block_chat_indicator": {
+      "message": "Blokovať indikátor ”Posledný aktívny”"
+   },
+   "block_chat_receipts": {
+      "message": "Zablokujte funkciu ”Príjmové faktúry”"
+   },
+   "block_chat_seen": {
+      "message": "Blokovanie funkcie ”videné”"
+   },
+   "block_typing_indicator": {
+      "message": "Blokujte indikátor ”Typing ...”"
+   },
+   "description": {
+      "message": "Skryje funkciu ”Vidieť” z chatu Facebook™ a Messenger vašich priateľov. Bloky potvrdenie o doručení ..."
+   },
+   "fbunseen_messenger": {
+      "message": "Použite ho na messenger.com"
+   },
+   "name": {
+      "message": "Unseen - Chat Privacy"
+   },
+   "options": {
+      "message": "možnosti"
+   },
+   "show_mark_as_read": {
+      "message": "Zobraziť tlačidlo ”Označiť ako prečítané”"
+   }
+}

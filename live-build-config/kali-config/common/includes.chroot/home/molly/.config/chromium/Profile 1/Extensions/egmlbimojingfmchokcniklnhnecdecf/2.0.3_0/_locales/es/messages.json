@@ -1,0 +1,29 @@
+{
+   "block_chat_indicator": {
+      "message": "Bloque indicador ”Último activo”"
+   },
+   "block_chat_receipts": {
+      "message": "Bloquee la función ”Recibos de entrega”"
+   },
+   "block_chat_seen": {
+      "message": "Bloquear la función ”Visto”"
+   },
+   "block_typing_indicator": {
+      "message": "Bloquee el indicador ”Escribir ...”"
+   },
+   "description": {
+      "message": "Oculta la función ”Visto” del chat de Facebook™ y el Messenger de tus amigos. Bloques Recibos de entrega ..."
+   },
+   "fbunseen_messenger": {
+      "message": "Úselo en messenger.com"
+   },
+   "name": {
+      "message": "Unseen - Chat Privacy"
+   },
+   "options": {
+      "message": "Opciones"
+   },
+   "show_mark_as_read": {
+      "message": "Mostrar el botón ”Marcar como leído”"
+   }
+}

@@ -1,0 +1,69 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "js/lib/Autolinker.js", "js/common.js", "js/checkerPlusForGmail.js", "js/mime/addressparser.js", "js/mime/buffer.js", "js/mime/iconv.js", "js/mime/encoding.js", "js/mime/mimelib.js", "js/account.js", "js/mail.js", "js/sanitizer/html4.js", "js/sanitizer/uri.js", "js/sanitizer/sanitizer.js", "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "images/browserButtons/default/not_logged_in.png",
+         "38": "images/browserButtons/default/not_logged_in_retina.png"
+      },
+      "default_popup": "popup.html?source=toolbar&setVia=manifest",
+      "default_title": "Checker Plus for Gmail™"
+   },
+   "commands": {
+      "compose": {
+         "description": "__MSG_compose__"
+      },
+      "dnd": {
+         "description": "__MSG_doNotDisturb__"
+      },
+      "markAllAsRead": {
+         "description": "__MSG_markAllAsRead__"
+      },
+      "markAsReadInNotificationWindow": {
+         "description": "__MSG_markAsReadInNotificationWindow__"
+      },
+      "openEmailDisplayedInNotificationWindow": {
+         "description": "__MSG_openEmailDisplayedInNotificationWindow__"
+      },
+      "quickComposeEmail": {
+         "description": "__MSG_quickComposeEmail__"
+      },
+      "refresh": {
+         "description": "__MSG_refresh__"
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "include_globs": [ "https://mail.google.com/mail/mu/*mui=checkerPlusForGmail*" ],
+      "js": [ "js/tabletView.js" ],
+      "matches": [ "https://mail.google.com/mail/mu/mp/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' https://www.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "differential_fingerprint": "1.262c91b8d12e864524a58f71e08d655056b453d084984aab7e12e5b710ffa07a",
+   "homepage_url": "https://jasonsavard.com?ref=homepage_url&ext=gmail",
+   "icons": {
+      "128": "images/icons/icon_128.png",
+      "16": "images/icons/icon_16.png",
+      "32": "images/icons/icon_32.png",
+      "48": "images/icons/icon_48.png",
+      "64": "images/icons/icon_64.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC94SVmzmU9No+O2964dDMD6YG0zg1XYfYWOg8UvB0cyrIACdtgETb+hcD0LWvmAiHb5UG9vLd8NxT0X17HYu1fJHFEdgLnoQsUxOb3mmEIzey5v5qtZAtF6mYSelGROQIveE6KLPxCoip535DAlengyLZdFlPZrsgxFQGncYZypwIDAQAB",
+   "manifest_version": 2,
+   "name": "Checker Plus for Gmail™",
+   "oauth2": {
+      "client_id": "450788627700-b4u9la88b9jii904fet8l7p20c0iotv5.apps.googleusercontent.com",
+      "scopes": [ "https://www.googleapis.com/auth/gmail.modify" ]
+   },
+   "optional_permissions": [ "background", "webRequest", "webRequestBlocking", "https://www.google.com/*" ],
+   "options_page": "options.html",
+   "permissions": [ "gcm", "alarms", "activeTab", "tts", "idle", "notifications", "storage", "contextMenus", "identity", "https://mail.google.com/" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "22.2.5",
+   "web_accessible_resources": [ "options.html", "popup.html", "contribute.html", "oauth2callback.html", "images/icons/icon_48.png", "css/tabletView.css" ]
+}

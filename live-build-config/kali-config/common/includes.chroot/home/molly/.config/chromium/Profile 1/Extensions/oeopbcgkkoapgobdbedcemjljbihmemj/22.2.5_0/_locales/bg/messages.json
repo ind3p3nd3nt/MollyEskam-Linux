@@ -1,0 +1,74 @@
+{
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "NEODSTRAŇUJTE"
+   },
+   "archive": {
+      "message": "Архивирай"
+   },
+   "archiveLinkTitle": {
+      "message": "Архивирай писмото"
+   },
+   "composeLinkTitle": {
+      "message": "Напиши ново писмо"
+   },
+   "deleteLink": {
+      "message": "Изтрий"
+   },
+   "deleteLinkTitle": {
+      "message": "Изтрий писмото"
+   },
+   "fullLinkTitle": {
+      "message": "Покажи пълното съобщение"
+   },
+   "languageName": {
+      "message": "Български"
+   },
+   "monthsArray": {
+      "message": "яну,фев,мар,апр,май,юни,юли,авг,сеп,окт,ное,дек"
+   },
+   "noUnreadText": {
+      "message": "Няма непрочетени писма"
+   },
+   "oneUnreadText": {
+      "message": "непрочетено писмо"
+   },
+   "openLinkTitle": {
+      "message": "Отвори в уеб-мейла"
+   },
+   "popupText": {
+      "message": "Имате ново писмо!"
+   },
+   "readLink": {
+      "message": "Прочетено"
+   },
+   "readLinkTitle": {
+      "message": "Маркирай като прочетено"
+   },
+   "refreshLinkTitle": {
+      "message": "Обнови всички папки"
+   },
+   "replyLinkTitle": {
+      "message": "Отговори на писмото"
+   },
+   "reportSpam": {
+      "message": "Маркирай като Спам"
+   },
+   "severalUnreadText": {
+      "message": "непрочетено"
+   },
+   "spam": {
+      "message": "Спам"
+   },
+   "starLinkTitle": {
+      "message": "Маркирай писмото"
+   },
+   "summaryLinkTitle": {
+      "message": "Покажи всички"
+   },
+   "unreadLink": {
+      "message": "Непрочетено"
+   },
+   "unreadLinkTitle": {
+      "message": "Маркирай като непрочетено"
+   }
+}

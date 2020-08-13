@@ -1,0 +1,219 @@
+div#CRMScience_statusBar {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	margin-top: 15px;
+	height: 340px;
+	width:  385px;
+	color: black;
+	text-align: left;
+	border-color: #cfeef8;
+	border-width: 5px;
+	border-style: solid;
+	border-radius: 15px;
+	background-image:url('../images/background.png');
+}
+div.Note {
+	color: black;
+	text-align: center;
+	border-color: #cfeef8;
+	border-width: 2px;
+	border-style: solid;
+	border-radius: 15px;
+	background-color: #cfeef8;
+}
+div.pnlHead {
+	text-align: center;
+	border-width: 0px;
+	border-style: solid;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	background-color: #cfeef8;
+	color:#0e9ecf;
+    font-size:18px;
+    font-weight:normal;
+	padding-top:2px;
+	font-weight:700;
+	
+}
+
+span.SFDC_CRMScience_Helper {
+	padding: 50 50px 0px 10px;
+	line-height: 18px;
+	font-family: verdana;
+	font-size: 10pt;
+}
+span.SFDC_CRMScience_Helper a {
+	text-decoration: none;
+}
+span.CRMScience_statusBarSeparator {
+	border-left: 1px solid silver;
+	border-right: 1px solid silver;
+	margin: 0 1px;
+	display: inline-block;
+	width: 1px;
+	height: 10px;
+}
+button.csibutton {
+	height:20px;
+}
+span.stg_header {
+	font-weight:700;
+	color:black;
+	white-space:nowrap;
+}
+span.stg_header_close{
+	text-align:center;
+	color:black;
+}
+div.stg {
+	color:black;
+	padding:5px;
+}
+div.CRMScience_Head {
+	display:block;
+}
+div#div_header_logo {
+	position: fixed;
+	left: 10px;
+	top: 10px;
+}
+div#div_header_ext {
+	position: fixed;
+	right: 10px;
+	top: 30px;
+	text-align:  right;
+	color:#1694bc;
+    display:block;
+    font-size:18px;
+    font-weight:normal;
+    line-height:1em;
+}
+div.div_footer_blog {
+	margin-top: 2px;
+	height: 90px;
+	width:  385px;
+	color: black;
+	text-align: left;
+	border-color: #cfeef8;
+	border-width: 5px;
+	border-style: solid;
+	border-radius: 15px;
+	background-color: #0e9ecf;
+}
+div.div_footer_blog_title{
+	text-align:center;
+	font-size: 13pt;
+	font-family: Arial, Helvetica, Verdana, sans-serif;
+	color:#958c88;
+	font-weight:700;
+	text-decoration:underline;
+	background-color:#FFFFFF;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+div.div_footer_blog_details{
+	font-family: Arial, Helvetica, Verdana, sans-serif;
+	text-align:center;
+	font-size:11px;
+	color:#ffffff;
+	background-color:#0e9ecf;
+	padding:5px;
+}
+
+.ui-tooltip, .arrow:after {
+    background: #1694bc;
+    border: 2px solid white;
+  }
+  .ui-tooltip {
+    padding: 10px 20px;
+	font-size:10px;
+    color: white;
+    border-radius: 20px;
+	text-align:center;
+	
+    box-shadow: 0 0 7px #1694bc;
+  }
+  .arrow {
+    width: 70px;
+    height: 20px;
+    overflow: hidden;
+    position: absolute;
+    left: 50%;
+    margin-left: -35px;
+    bottom: -16px;
+  }
+  .arrow.top {
+    top: -20px;
+    bottom: auto;
+  }
+  .arrow.left {
+    left: 20%;
+  }
+  .arrow:after {
+    content: "";
+    position: absolute;
+    left: 20px;
+    top: -20px;
+    width: 25px;
+    height: 25px;
+    box-shadow: 6px 5px 9px -9px black;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    tranform: rotate(45deg);
+  }
+  .arrow.top:after {
+    bottom: -20px;
+    top: auto;
+  }
+
+div#feed_p {
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	background:#cfeef8;
+	color:#fff;
+	padding:10px;
+	border-top-color: #0e9ecf;
+	border-top-width: 3px;
+	border-top-style: solid;
+	width:100%;
+	height:80px;
+}
+ul#blogslide{
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
+ul#blogslide li {
+	/*list-style:none;*/
+	/*list-style-image: url('../images/Cloud_Bullet.png');*/
+	background-image: url('../images/Cloud_Bullet.png');
+	background-repeat: no-repeat;
+	background-position: 0px 5px; 
+	padding-left: 35px; 
+	font-family:verdana;
+	font-size:12px;
+	color:#ffffff;
+	width: 80%;
+}
+#blogSlideHead {
+	color:#1694bc;
+    font-size:18px;
+    font-weight:normal;
+	padding-top:2px;
+	font-weight:700;
+}
+#blogSlideOpen {
+	color:#1694bc;
+    font-size:14px;
+    font-weight:normal;
+	padding-top:2px;
+}
+ul#blogslide li a{
+	color:#000000;
+	font-weight:700;
+	color:black;
+}

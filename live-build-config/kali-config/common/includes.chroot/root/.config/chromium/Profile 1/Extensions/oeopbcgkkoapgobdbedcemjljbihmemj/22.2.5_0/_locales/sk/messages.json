@@ -1,0 +1,74 @@
+{
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "NEODSTRAŇUJTE"
+   },
+   "archive": {
+      "message": "Archivovať"
+   },
+   "archiveLinkTitle": {
+      "message": "Archivovať správu"
+   },
+   "composeLinkTitle": {
+      "message": "Napísať novú správu"
+   },
+   "deleteLink": {
+      "message": "Zmazať"
+   },
+   "deleteLinkTitle": {
+      "message": "Zmazať správu"
+   },
+   "fullLinkTitle": {
+      "message": "Zobraziť celú správu"
+   },
+   "languageName": {
+      "message": "Slovenčina"
+   },
+   "monthsArray": {
+      "message": "jan,feb,mar,apr,máj,jún,júl,aug,sep,okt,nov,dec"
+   },
+   "noUnreadText": {
+      "message": "Žiadne nové správy"
+   },
+   "oneUnreadText": {
+      "message": "nová správa"
+   },
+   "openLinkTitle": {
+      "message": "Otvoriť v prehliadači"
+   },
+   "popupText": {
+      "message": "Máte novú správu!"
+   },
+   "readLink": {
+      "message": "Prečítané"
+   },
+   "readLinkTitle": {
+      "message": "Označiť ako prečítané"
+   },
+   "refreshLinkTitle": {
+      "message": "Aktualizovať všetky schránky"
+   },
+   "replyLinkTitle": {
+      "message": "Odpovedať"
+   },
+   "reportSpam": {
+      "message": "Nahlásiť spam"
+   },
+   "severalUnreadText": {
+      "message": "nové správy"
+   },
+   "spam": {
+      "message": "Spam"
+   },
+   "starLinkTitle": {
+      "message": "Pridať hviezdičku"
+   },
+   "summaryLinkTitle": {
+      "message": "Zobraziť náhľad"
+   },
+   "unreadLink": {
+      "message": "Neprečítané"
+   },
+   "unreadLinkTitle": {
+      "message": "Označiť ako neprečítané"
+   }
+}

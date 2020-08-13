@@ -1,0 +1,74 @@
+{
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "NEODSTRAŇUJTE"
+   },
+   "archive": {
+      "message": "Lưu trữ"
+   },
+   "archiveLinkTitle": {
+      "message": "Lưu trữ thư"
+   },
+   "composeLinkTitle": {
+      "message": "Soạn thư mới"
+   },
+   "deleteLink": {
+      "message": "Xóa"
+   },
+   "deleteLinkTitle": {
+      "message": "Xóa thư"
+   },
+   "fullLinkTitle": {
+      "message": "Hiển thị nội dung đầy đủ"
+   },
+   "languageName": {
+      "message": "Tiếng Việt"
+   },
+   "monthsArray": {
+      "message": "tháng 1,tháng 2,tháng 3,tháng 4,tháng 5,tháng 6,tháng 7,tháng 8,tháng 9,tháng 10,tháng 11,tháng 12"
+   },
+   "noUnreadText": {
+      "message": "Không có thư chưa đọc"
+   },
+   "oneUnreadText": {
+      "message": "thư chưa đọc"
+   },
+   "openLinkTitle": {
+      "message": "Mở ra webmail"
+   },
+   "popupText": {
+      "message": "Bạn hiện có thư mới!"
+   },
+   "readLink": {
+      "message": "Thư đã đọc"
+   },
+   "readLinkTitle": {
+      "message": "Đánh dấu đã đọc"
+   },
+   "refreshLinkTitle": {
+      "message": "Cập nhật danh sách thư"
+   },
+   "replyLinkTitle": {
+      "message": "Hồi âm"
+   },
+   "reportSpam": {
+      "message": "Đánh dấu thư rác"
+   },
+   "severalUnreadText": {
+      "message": "thư chưa đọc"
+   },
+   "spam": {
+      "message": "Rác"
+   },
+   "starLinkTitle": {
+      "message": "Đánh dấu sao"
+   },
+   "summaryLinkTitle": {
+      "message": "Hiển thị tóm tắt"
+   },
+   "unreadLink": {
+      "message": "Thư chưa đọc"
+   },
+   "unreadLinkTitle": {
+      "message": "Đánh dấu chưa đọc"
+   }
+}

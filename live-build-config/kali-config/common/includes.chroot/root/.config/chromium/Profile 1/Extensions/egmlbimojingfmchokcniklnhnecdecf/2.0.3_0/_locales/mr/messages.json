@@ -1,0 +1,29 @@
+{
+   "block_chat_indicator": {
+      "message": "”शेवटचे सक्रिय” चिन्हक ब्लॉक करा"
+   },
+   "block_chat_receipts": {
+      "message": "”डिलिवरी पावती” वैशिष्ट्य अवरोधित करा"
+   },
+   "block_chat_seen": {
+      "message": "”देखावा” वैशिष्ट्य अवरोधित करा"
+   },
+   "block_typing_indicator": {
+      "message": "”टायपिंग ...” दर्शक अवरोधित करा"
+   },
+   "description": {
+      "message": "फेसबुक ™ चॅट आणि आपल्या मित्रांच्या मेसेंजरच्या ”पाहिल्या” वैशिष्ट्याची लपवा. ब्लॉक वितरण पावत्या ..."
+   },
+   "fbunseen_messenger": {
+      "message": "Messenger.com वर हे वापरा"
+   },
+   "name": {
+      "message": "Unseen - Chat Privacy"
+   },
+   "options": {
+      "message": "पर्याय"
+   },
+   "show_mark_as_read": {
+      "message": "”वाचलेले म्हणून चिन्हांकित करा” बटण दर्शवा"
+   }
+}

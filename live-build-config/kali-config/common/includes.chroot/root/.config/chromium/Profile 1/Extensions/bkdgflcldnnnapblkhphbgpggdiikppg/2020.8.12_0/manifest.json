@@ -1,0 +1,54 @@
+{
+   "background": {
+      "scripts": [ "public/js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "img/icon_19.png",
+         "38": "img/icon_38.png"
+      },
+      "default_popup": "html/popup.html"
+   },
+   "chrome_settings_overrides": {
+      "search_provider": {
+         "encoding": "UTF-8",
+         "favicon_url": "https://duckduckgo.com/favicon.ico",
+         "is_default": true,
+         "keyword": "duckduckgo.com",
+         "name": "DuckDuckGo",
+         "prepopulated_id": 92,
+         "search_url": "https://duckduckgo.com/?q={searchTerms}",
+         "suggest_url": "https://duckduckgo.com/ac/?q={searchTerms}&type=list"
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "public/css/noatb.css" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "js": [ "public/js/content-scripts/element-hiding.js" ],
+      "match_about_blank": true,
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "differential_fingerprint": "1.58a2b26282c859eae7460ccb7e092501867a6df0ab6493650e892819a8c0eec6",
+   "icons": {
+      "128": "img/icon_128.png",
+      "16": "img/icon_16.png",
+      "48": "img/icon_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiBT87n10DJThnyCP1tDHZV9PB9o6oXu5yhP9G1M+6Jg7aZTCUfE6nx6i3Fpr3UU7IEHFZNJBGmVTtluXE/zgHKbE8/+RWp/NWIa29xDtdiT9QNbamzINAwrw4qRflxz+XrvTrFnBmo9RrzzQp748sX86QeOdEIwfPC0jygEKSLkatUx0lTkQRaOa9Iv4ryE7ze0CbogvE2vWiIOjlBNNz7i2TBV4L0OfUYLAqHMmiZi0Ekv7OJzoJNvSJpGet9+RBUptVzWkKCE9iJPB9kiWV39Sm9LvXJ2/tUKMOuCEY7bcy+KttrrbY8y/rj/SdUJnnQVYVesLrV3WxWhq/EmTCwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "omnibox": {
+      "keyword": "ddg"
+   },
+   "options_page": "html/options.html",
+   "permissions": [ "contextMenus", "webRequest", "webRequestBlocking", "*://*/*", "webNavigation", "activeTab", "tabs", "storage", "\u003Call_urls>", "alarms" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2020.8.12"
+}

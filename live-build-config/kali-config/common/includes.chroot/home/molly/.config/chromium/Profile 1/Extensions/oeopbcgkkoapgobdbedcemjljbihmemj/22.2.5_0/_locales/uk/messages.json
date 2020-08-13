@@ -1,0 +1,1457 @@
+{
+   "24hourMode": {
+      "message": "Використовувати 24-годинний формат часу"
+   },
+   "24hourModeTitle": {
+      "message": "Показувати час в 24-годинному форматі, напр. 18:00"
+   },
+   "DND": {
+      "message": "DND"
+   },
+   "EOM": {
+      "message": "МСВ"
+   },
+   "EOMToolTip": {
+      "message": "Кінець повідомлення"
+   },
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "НЕ ВИДАЛЯТИ ПТН ПНХ"
+   },
+   "NAME_says": {
+      "message": "$1 говорить"
+   },
+   "XNewEmails": {
+      "message": "$1 нових листів"
+   },
+   "Xattachments": {
+      "message": "$1 Вкладення"
+   },
+   "Xday": {
+      "message": "день"
+   },
+   "Xdays": {
+      "message": "$1 днів"
+   },
+   "Xhour": {
+      "message": "$1 година"
+   },
+   "Xhours": {
+      "message": "$1 годин"
+   },
+   "Xline": {
+      "message": "$1 лінія"
+   },
+   "Xlines": {
+      "message": "$1 ліній"
+   },
+   "Xminute": {
+      "message": "$1 хв."
+   },
+   "Xminutes": {
+      "message": "$1 хв."
+   },
+   "Xseconds": {
+      "message": "$1 сек."
+   },
+   "aboutMe": {
+      "message": "Про мене"
+   },
+   "accessDetails": {
+      "message": "Деталі доступу"
+   },
+   "account": {
+      "message": "Обліковий запис"
+   },
+   "accounts": {
+      "message": "Акаунти"
+   },
+   "accountsAndLabels": {
+      "message": "Акаунти / Мітки"
+   },
+   "actionButtons": {
+      "message": "Кнопки дії для спливаючого вікна"
+   },
+   "addAccount": {
+      "message": "Додати обліковий запис"
+   },
+   "addAccountsStaySignedIn": {
+      "message": "Додавання облікових записів і залишатися в системі"
+   },
+   "addEmailAlias": {
+      "message": "Додавання псевдоніма до адреси електронної пошти"
+   },
+   "addEmailAliasToolTip": {
+      "message": "Додати псевдонім у спливаючому вікні як \u003Cb>Jason в електронній пошті\u003C/b>, замість longboringemail@gmail.com"
+   },
+   "addSpeechEngines": {
+      "message": "Додати генератори мови"
+   },
+   "alias": {
+      "message": "Псевдонім"
+   },
+   "all": {
+      "message": "Всі"
+   },
+   "allMail": {
+      "message": "Вся пошта"
+   },
+   "alreadyDonated": {
+      "message": "Вже пожертвували?"
+   },
+   "alsoExtraFeaturesForGoogleCalendar": {
+      "message": "Пожертвувати один раз і розблокувати додаткові функції $1"
+   },
+   "alsoExtraFeaturesForGoogleCalendar2": {
+      "message": "програму для перевірки календаря Google"
+   },
+   "alsoTryMy": {
+      "message": "Також спробуйте розширення"
+   },
+   "alwaysDisplayExternalContent": {
+      "message": "Завжди відображати зовнішні зображення"
+   },
+   "amount": {
+      "message": "Кількість"
+   },
+   "archive": {
+      "message": "Архівувати"
+   },
+   "archiveLinkTitle": {
+      "message": "Архівувати лист"
+   },
+   "archive_read": {
+      "message": "Архівація прочитанних листів"
+   },
+   "archive_readToolTip": {
+      "message": "При архівації повідомлення вважати його прочитаним"
+   },
+   "autoAdjust": {
+      "message": "Автоматичне налаштування"
+   },
+   "autoAdjustAndImages": {
+      "message": "Автоматичне налаштування зображення"
+   },
+   "autoDetectAccounts": {
+      "message": "Ций додаток автоматично розпізнає аккаунти до яких ви війшли"
+   },
+   "autoDetectAccountsStaySignedIn": {
+      "message": "Автоматичний вхід до облікових записів"
+   },
+   "back": {
+      "message": "Назад"
+   },
+   "backToInbox": {
+      "message": "Назад до папки «Вхідні»"
+   },
+   "backgroundColor": {
+      "message": "Колір фону"
+   },
+   "brightness": {
+      "message": "Яскравість"
+   },
+   "button": {
+      "message": "Кнопка"
+   },
+   "buttonClickAction": {
+      "message": "Дія при натисканні кнопки"
+   },
+   "cancel": {
+      "message": "'Скасувати'"
+   },
+   "changeLabels": {
+      "message": "Зміни мітки"
+   },
+   "changeSummary": {
+      "message": "Змінити формат"
+   },
+   "changeTheme": {
+      "message": "Зміна теми"
+   },
+   "changeThisDomain": {
+      "message": "Щоб змінити цей домен електронної пошти тепер $1"
+   },
+   "changeThisDomain2": {
+      "message": "вийти та та ввійти від імені іншого користувача"
+   },
+   "changelog": {
+      "message": "Історія змін"
+   },
+   "checkerPlusPopupWindow": {
+      "message": "Спливаюче вікно Checker Plus"
+   },
+   "chime": {
+      "message": "Передзвін"
+   },
+   "chooseEndColor": {
+      "message": "Кінцевий колір"
+   },
+   "chooseNoUnreadEmail": {
+      "message": "Виберіть піктограму, немає непрочитаного повідомлення"
+   },
+   "choosePaymentMethod": {
+      "message": "Виберіть спосіб оплати"
+   },
+   "chooseSignedOutIcon": {
+      "message": "Вибрати піктограму з підписом"
+   },
+   "chooseStartColor": {
+      "message": "Початковий колір"
+   },
+   "chooseUnreadEmail": {
+      "message": "Вибрати піктограму непрочитаного повідомлення"
+   },
+   "chromePlaced2ButtonLimit": {
+      "message": "Chrome має обмеження на 2 кнопки!"
+   },
+   "clickForMoreInfo": {
+      "message": "Натисніть для отримання додаткової інформації"
+   },
+   "clickToPreviewEmail": {
+      "message": "Клацніть для перегляду електронної пошти"
+   },
+   "clickingAnywhereOnNotification": {
+      "message": "Клацання на сповіщенні"
+   },
+   "clickingCheckerPlusLogo": {
+      "message": "Натиснувши кнопку Checker Plus для Gmail"
+   },
+   "close": {
+      "message": "Закрити"
+   },
+   "closeAfterX": {
+      "message": "Закрити після"
+   },
+   "closeAfterX_andThen": {
+      "message": "а потім"
+   },
+   "closesPopupWindow": {
+      "message": "Закриває спливаюче вікно"
+   },
+   "collapseEmailAccounts": {
+      "message": "Крах облікових записів електронної пошти за промовчанням"
+   },
+   "collapseEmailAccountsToolTip": {
+      "message": "Використовуйте цей параметр, щоб дати вам кращий огляд все непрочитаний електронною поштою рахунки, так що ви можете вибрати які з них можна розширити зі стрілкою"
+   },
+   "colorMessage": {
+      "message": "Щоб зберегти ці кольори, пожертвуйте будь-яку суму!"
+   },
+   "colorSubject": {
+      "message": "Приклад повідомлення для перегляду колірної гами"
+   },
+   "colors": {
+      "message": "Кольори"
+   },
+   "commaSeparatedEmails": {
+      "message": "розділені комами"
+   },
+   "compose": {
+      "message": "Написати"
+   },
+   "composeLinkTitle": {
+      "message": "Написати листа"
+   },
+   "contacts": {
+      "message": "Контакти"
+   },
+   "contactsHome": {
+      "message": "H"
+   },
+   "contactsMessage": {
+      "message": "Наведіть курсор на фото для збільшення"
+   },
+   "contactsMobile": {
+      "message": "М"
+   },
+   "contactsOther": {
+      "message": "O"
+   },
+   "contactsWork": {
+      "message": "W"
+   },
+   "continue": {
+      "message": "Продовжити"
+   },
+   "continueToOptions": {
+      "message": "Повернутись до налаштувань"
+   },
+   "continueWithoutFeatures": {
+      "message": "Продовжити використання цього розширення з безліччю опцій, але без цих додаткових функцій."
+   },
+   "continueWithoutFeaturesHeader": {
+      "message": "Продовжити без додаткових функцій"
+   },
+   "contrast": {
+      "message": "Контраст"
+   },
+   "contributeToContinue": {
+      "message": "Зробити внесок"
+   },
+   "conversationView": {
+      "message": "Вид розмови"
+   },
+   "conversationViewToolTip": {
+      "message": "Визначає, які листи у яких топіках згрупованні"
+   },
+   "custom": {
+      "message": "З файлу"
+   },
+   "customButtonsToolTip": {
+      "message": "Встановити свій власний колір"
+   },
+   "customToThisExtension": {
+      "message": "Додатково"
+   },
+   "dark": {
+      "message": "Темний"
+   },
+   "darkToolTip": {
+      "message": "Темна контраст"
+   },
+   "dayAgo": {
+      "message": "$1 день тому"
+   },
+   "daysAgo": {
+      "message": "$1 днів тому"
+   },
+   "default": {
+      "message": "За замовчуванням"
+   },
+   "delete": {
+      "message": "Видалити"
+   },
+   "deleteLink": {
+      "message": "Видалити"
+   },
+   "deleteLinkTitle": {
+      "message": "Видалити"
+   },
+   "deletingMarksAsRead": {
+      "message": "Видаляти повідомлення, позначені як прочитані"
+   },
+   "deletingMarksAsReadToolTip": {
+      "message": "Позначити повідомлення як прочитане, при видаленні"
+   },
+   "developingMore": {
+      "message": "і я старанно працюю над більшістю ваших пропозицій..."
+   },
+   "differentSoundsToolTip": {
+      "message": "Вже можна вибрати звуковий сигнал для всіх облікових записів електронної пошти."
+   },
+   "ding": {
+      "message": "Дзвінок"
+   },
+   "discoverMyApps": {
+      "message": "Мої додатки"
+   },
+   "display": {
+      "message": "Дисплей"
+   },
+   "displayImagesBelow": {
+      "message": "Відображати зображення нижче"
+   },
+   "displaySenders_1": {
+      "message": "Відображення відправника"
+   },
+   "doNotDisturb": {
+      "message": "Не турбувати"
+   },
+   "doNotDisturbForTodayToolTip": {
+      "message": "Не турбувати до 7 ранку завтра"
+   },
+   "doNotDisturbIndefinitelyToolTip": {
+      "message": "Увімкнути не турбувати після вимкнення"
+   },
+   "doNotDisturbToolTip": {
+      "message": "Вимкнення звуку, голосу і сповіщень у цьому розширенні"
+   },
+   "doNotNotifyMeOfUpdates": {
+      "message": "Не сповіщати про оновлення"
+   },
+   "doNotShowNotificationIfGmailTabActive": {
+      "message": "Не показувати повідомлення Якщо ви вже в Gmail вкладку"
+   },
+   "doNotShowNotificationIfGmailTabActiveToolTip": {
+      "message": "Корисно, якщо ви 'живуть' у вікні Gmail :), і напевно ви бачите нову адресу електронної пошти в той же час як повідомлення"
+   },
+   "doTheSameThing": {
+      "message": "Зробити те ж саме"
+   },
+   "donate": {
+      "message": "Зробити внесок"
+   },
+   "donationRequired": {
+      "message": "Необхідний внесок"
+   },
+   "done": {
+      "message": "Зроблено"
+   },
+   "dropshadow": {
+      "message": "Тінь"
+   },
+   "duplicateLabelWarning": {
+      "message": "Я рекомендую тільки вибрати 1 з 3 основних (Вхідні, Важливі, уся пошта, початкова), інакше ви отримаєте дублікати!"
+   },
+   "email": {
+      "message": "Електронна пошта"
+   },
+   "emailAccounts": {
+      "message": "Облікові записи електронної пошти"
+   },
+   "emailFrom_NAME": {
+      "message": "Лист від $1"
+   },
+   "emailPreview": {
+      "message": "Попередній перегляд електронної пошти"
+   },
+   "emailPreviewToolTip": {
+      "message": "Якщо цей параметр \u003Cb>перевірено\u003C/b> і Ви клацнете будь-де на електронну пошту в межах спливаючого вікна (тобто. резюме), то більшу область попереднього перегляду електронної пошти буде відкрито. \u003Cbr>Якщо \u003Cb>незареєстрований\u003C/b> виберіть пункт електронна пошта всередині веб-сторінки Gmail замість нього відкриється"
+   },
+   "emailSummary": {
+      "message": "Email summary"
+   },
+   "emailSummaryToolTip": {
+      "message": "Невеликий фрагмент тексту внизу кожного листа відображення кількох перших рядків повідомлення електронної пошти у спливаючому вікні"
+   },
+   "email_from": {
+      "message": "Відправник"
+   },
+   "email_message": {
+      "message": "Повідомлення"
+   },
+   "email_subject": {
+      "message": "Тема"
+   },
+   "enableLanguageDetection": {
+      "message": "Визначати мову в повідомленні електронної пошти"
+   },
+   "enableLanguageDetectionToolTip": {
+      "message": "Говорити мовою, виявленою в повідомленні електронної пошти, використовуючи службу detectlanguage.com!"
+   },
+   "enableVoiceInputToolTip": {
+      "message": "Додає мікрофона в нижній частині нового повідомлення або відповідь поле в веб-сторінка Gmail"
+   },
+   "enjoyingThisApp": {
+      "message": "Подобаєтья? $1 тримай!"
+   },
+   "enter": {
+      "message": "Ввід"
+   },
+   "enterAnAmount": {
+      "message": "Введіть суму!"
+   },
+   "esc": {
+      "message": "Відміна"
+   },
+   "example": {
+      "message": "приклад"
+   },
+   "exceptionsToChooseFrom": {
+      "message": "Винятки на вибір"
+   },
+   "extensionUpdated": {
+      "message": "Розширення оновлено!"
+   },
+   "extensionUpdates": {
+      "message": "Продовження оновлення"
+   },
+   "extraFeatures": {
+      "message": "Додаткові функції"
+   },
+   "extraFeaturesClicked": {
+      "message": "Ви намагалися, за допомогою одного з цих додаткових функцій ..."
+   },
+   "failureWithPayPalPurchase": {
+      "message": "Скасована або невдала транзакція! Замість цього спробуйте Google Wallet?"
+   },
+   "feedback": {
+      "message": "Зворотній зв'язок"
+   },
+   "fetchContactsEvery": {
+      "message": "Отримувати кожні контакти"
+   },
+   "fetchContactsIntervalToolTip": {
+      "message": "Встановити вище значення, якщо у вас є багато контактів або повільний інтернет"
+   },
+   "firstAndLastName": {
+      "message": "Ім'я та по-батькові "
+   },
+   "firstNameOnly": {
+      "message": "Тільки ім'я"
+   },
+   "followMe": {
+      "message": "Іди за мною"
+   },
+   "forever": {
+      "message": "Назавжди"
+   },
+   "forums": {
+      "message": "Форуми"
+   },
+   "from": {
+      "message": "Від"
+   },
+   "fullLinkTitle": {
+      "message": "Розгорнути"
+   },
+   "general": {
+      "message": "Загальні"
+   },
+   "grantAccess": {
+      "message": "Надати доступ"
+   },
+   "grantAccessAgain": {
+      "message": "Надати доступ, знову або до іншого облікового запису"
+   },
+   "grantAccessAgainToolTip": {
+      "message": "Використовується тільки при кількох облікових записах"
+   },
+   "grantedTo": {
+      "message": "Надані"
+   },
+   "grayscale": {
+      "message": "Відтінки сірого"
+   },
+   "green": {
+      "message": "Зелена"
+   },
+   "greenToolTip": {
+      "message": "Моя змінена тема!"
+   },
+   "groupByLabels": {
+      "message": "Групувати повідомлення по мітках"
+   },
+   "groupByLabelsToolTip": {
+      "message": "Об'єднуйте і сортуйте мітки, які Ви вибрали для відслідковування непрочитаних повідомлень. Невеликий заголовок з міткою на початку вашого листа як «Вхідні» і т.д. буде додано у вікно Розширені повідомлення та спливаюче вікно попереднього перегляду"
+   },
+   "hearEmail": {
+      "message": "Прослухати електронну пошту"
+   },
+   "hearEmailMessage": {
+      "message": "Прослухати повідомлення електронної пошти"
+   },
+   "hearEmailSubject": {
+      "message": "Прослухати від кого повідомлення"
+   },
+   "hearEmailToolTip": {
+      "message": "Виділіть фрагменти електронної пошти, що ви хочете почути.. відправника, теми або повідомлення (тіла) електронної пошти"
+   },
+   "height": {
+      "message": "Висота"
+   },
+   "help": {
+      "message": "Допомога"
+   },
+   "hideByJason": {
+      "message": "Приховати 'by Jason Savard'"
+   },
+   "hideByJasonToolTip": {
+      "message": "Приховати \u003Ci>by Jason Savard\u003C/i> у спливаючому вікні"
+   },
+   "hideMarkAsReadEmails": {
+      "message": "Приховати електронні листи, після натискання на 'Позначити як прочитане'"
+   },
+   "hideMyName": {
+      "message": "Приховати моє ім'я 'за Jason Савара'"
+   },
+   "hideReadEmails": {
+      "message": "Приховати прочитані повідомлення"
+   },
+   "hideSentFrom": {
+      "message": "Приховати підпису електронної пошти з позначкою «Відправлено з мого ...»"
+   },
+   "hideSentFromToolTip": {
+      "message": "Відзначте це, щоб приховувати підписи в повідомленнях, відправлених з таких пристроїв як «Відправлено з мого iPhone або Blackberry» та ін."
+   },
+   "hideUnreadCount": {
+      "message": "Приховати лічильник непрочитаних листів"
+   },
+   "hideUnreadCountToolTip": {
+      "message": "Не показувати кількість непрочитаних повідомлень на іконці"
+   },
+   "hourAgo": {
+      "message": "$1 годину тому"
+   },
+   "hours": {
+      "message": "год."
+   },
+   "hoursAgo": {
+      "message": "$1 годин тому"
+   },
+   "icon": {
+      "message": "Іконка"
+   },
+   "identifyEmailAccountsWithColors": {
+      "message": "Власні кольори для кожного облікового запису"
+   },
+   "ifNoUnreadMail": {
+      "message": "Якщо немає непрочитаного повідомлення"
+   },
+   "ignoreTheseAccounts": {
+      "message": "Ігнорувати ці аккаунти"
+   },
+   "ignoreThisAccount": {
+      "message": "Ігнорувати цей обліковий запис"
+   },
+   "ignored": {
+      "message": "Ігнорується"
+   },
+   "imagesAreNotDisplayed": {
+      "message": "Не відображаються зображення."
+   },
+   "important": {
+      "message": "Важливі"
+   },
+   "importantMail": {
+      "message": "Важливі повідомлення"
+   },
+   "inbox": {
+      "message": "Вхідні"
+   },
+   "inboxFor": {
+      "message": "$1"
+   },
+   "indefinitely": {
+      "message": "Невизначений термін"
+   },
+   "invert": {
+      "message": "Інвертування"
+   },
+   "keyboardShortcuts": {
+      "message": "сполучення клавіш"
+   },
+   "keys": {
+      "message": "Кнопки"
+   },
+   "label": {
+      "message": "Мітка"
+   },
+   "labels": {
+      "message": "Мітки"
+   },
+   "language": {
+      "message": "Мова"
+   },
+   "languageName": {
+      "message": "Українська"
+   },
+   "languageToolTip": {
+      "message": "Змінити мову розширення та мову голосових повідомленнь."
+   },
+   "licenseOnlyValidFor": {
+      "message": "Ліцензія буде дійсна тільки для користувачів, які увійшли до свого акаунту Google"
+   },
+   "linesInSummary": {
+      "message": "Резюме формат"
+   },
+   "linesInSummaryToolTip": {
+      "message": "\u003Cb>None\u003C/b> - буде приховувати роботу від спливаючого вікна. \u003Cbr>\u003Cb>"
+   },
+   "listenToYourEmail": {
+      "message": "Вимовляти адрес електронної скриньки"
+   },
+   "loading": {
+      "message": "Завантаження..."
+   },
+   "loadingSettings": {
+      "message": "Параметри завантажень"
+   },
+   "mailtoLinks": {
+      "message": "Відкривати mailto посилання з Gmail"
+   },
+   "mailtoLinksToolTip": {
+      "message": "Натиснувши на посилання mailto (зазвичай посилання електронної пошти) відкривати в Gmail, замість Вашого  звичайною поштового кліенту"
+   },
+   "man": {
+      "message": "Чоловік"
+   },
+   "markAllAsRead": {
+      "message": "Відмітити всі як прочитані"
+   },
+   "markAllAsReadTitle": {
+      "message": "Відмітити всі як прочитані"
+   },
+   "markAsReadInNotificationWindow": {
+      "message": "Позначати повідомлення прочитаним у вікні сповіщення"
+   },
+   "markAsReadR": {
+      "message": "Позначити як \u003Cb>R\u003C/b> як непрочитане"
+   },
+   "markDone": {
+      "message": "Позначено"
+   },
+   "maxEmailsToShowPerAccount": {
+      "message": "Максимум листів для відображення в обліковому записі"
+   },
+   "me": {
+      "message": "мені"
+   },
+   "meetMe": {
+      "message": "Зустрітися зі мною"
+   },
+   "meetMeTitle": {
+      "message": "Побачити мене на відео!"
+   },
+   "message": {
+      "message": "Повідомлення"
+   },
+   "minimumAmount": {
+      "message": "Ви повинні принаймні пожертвувати $1"
+   },
+   "minutesAgo": {
+      "message": "$1 хв. тому"
+   },
+   "monitor": {
+      "message": ""
+   },
+   "monitorThisLabel": {
+      "message": ""
+   },
+   "monitorThisLabelToolTip": {
+      "message": ""
+   },
+   "monthsArray": {
+      "message": "січ,лют,бер,кві,тра,чер,лип,сер,вер,жов,лис,гру"
+   },
+   "more": {
+      "message": "більше"
+   },
+   "moreInfo": {
+      "message": "Детальніше"
+   },
+   "moveLabel": {
+      "message": "Перемістити до"
+   },
+   "multipleSelectionMac": {
+      "message": "Утримуйте натиснутою кнопку Command для вибору кількох варіантів."
+   },
+   "multipleSelectionWindows": {
+      "message": "Утримуйте натиснутою кнопку ctrl для вибору кількох варіантів."
+   },
+   "multipleUserLicense": {
+      "message": "Отримати кілька ліцензій користувача для вашої організації"
+   },
+   "mustSignInToPay": {
+      "message": "Ви повинні увійти до свого Gmail і чекати, поки це розширення завантажиться!"
+   },
+   "muteVoice": {
+      "message": "Вимкнути звук"
+   },
+   "muteVoiceForToday": {
+      "message": "Вимкнути звук на сьогодні"
+   },
+   "muteVoiceForTodayToolTip": {
+      "message": "Вимкнути звук до 7 ранку завтра"
+   },
+   "muteVoiceForXh": {
+      "message": "Вимкнути звук на $1 год."
+   },
+   "muteVoiceForXm": {
+      "message": "Вимкнути звук на $1 хв."
+   },
+   "muteVoiceWhileSleeping": {
+      "message": "Виключити звук, коли я сплю"
+   },
+   "muteVoiceWhileSleepingToolTip": {
+      "message": "Якщо Ви залишаєте свій комп'ютер на ніч, Ви можете включити цей параметр, щоб вимкнути звукові сповіщення в заданий час"
+   },
+   "native": {
+      "message": "Стандарт"
+   },
+   "never": {
+      "message": "Ніколи"
+   },
+   "newEmail": {
+      "message": "Новий лист"
+   },
+   "newFeature": {
+      "message": "Нова функція!"
+   },
+   "next": {
+      "message": "Наступний"
+   },
+   "nickname": {
+      "message": "Псевдонім"
+   },
+   "noUnreadText": {
+      "message": "Немає нових листів"
+   },
+   "noUpdateNotifications": {
+      "message": "Не повідомляти про оновлення"
+   },
+   "none": {
+      "message": "Жоден"
+   },
+   "notSignedIn": {
+      "message": "Не авторизовано"
+   },
+   "notWorking": {
+      "message": "Не працює?"
+   },
+   "notification": {
+      "message": "Повідомлення"
+   },
+   "notificationButton1": {
+      "message": "Кнопка сповіщень "
+   },
+   "notificationButton2": {
+      "message": "Кнопка сповіщень "
+   },
+   "notificationSound": {
+      "message": "Звукові сповіщення"
+   },
+   "notificationTextToSpeech": {
+      "message": "Голосові сповіщення"
+   },
+   "notificationTryItOutInstructions": {
+      "message": "Відзначте хоча б одне з ваших листів як непрочитане, потім натисніть тут і почекайте, поки не з'явиться вікно повідомлення."
+   },
+   "notifications": {
+      "message": "Повідомлення"
+   },
+   "of": {
+      "message": "із"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "oneUnreadText": {
+      "message": "новий лист"
+   },
+   "open": {
+      "message": "Відкриті"
+   },
+   "openComposeInTab": {
+      "message": "Відкрити у новій вкладці"
+   },
+   "openComposeInTabToolTip": {
+      "message": "Відкрити пошту в новій вкладці замість нового вікна (також відноситься до mailto посилань)"
+   },
+   "openComposeReplyAction": {
+      "message": "Параметри кнопок «Написати» і «Відповісти»"
+   },
+   "openComposeReplyActionInPopupWindow": {
+      "message": "Відкритий у спливаючому вікні"
+   },
+   "openComposeReplyActionInTab": {
+      "message": "Відкрити у вкладці"
+   },
+   "openEmailDisplayedInNotificationWindow": {
+      "message": "Показувати повідомлення у вікні сповіщення"
+   },
+   "openGmailPopupWIndowToolTip": {
+      "message": "-Усі функції поштової скриньки Gmail у спливаючому вікні \u003Cbr>показувати усі значки, \u003Cbr>\u003Cb>- не\u003C/b> настроюється \u003Cbr>\u003Cb>- не\u003C/b> рекомендується для кількох облікових записів \u003Cbr>\u003Cbr>, \u003Ci>Спробуйте посилання 'Докладніше' вище\u003C/i>"
+   },
+   "openGmailPopupWindow": {
+      "message": "Відкрити вхідні у спливаючому вікні"
+   },
+   "openGmailTab": {
+      "message": "Відкрити Gmail"
+   },
+   "openGmailTabToolTip": {
+      "message": "Вимикає спливаюче вікно (не рекомендовано) і відкриває або вибирає на першій вкладці обліковий запис Gmail з Непрочитані листи"
+   },
+   "openHelp": {
+      "message": "Відкриття довідки"
+   },
+   "openLabel": {
+      "message": "Відкрити мітку"
+   },
+   "openLinkTitle": {
+      "message": "Відкрити в Gmail"
+   },
+   "openLinksToInboxByGmailWarning": {
+      "message": "Бета-функції. \u003Cbr>\u003Cbr>Використання цей параметр \u003Cb>лише\u003C/b> за умови активованої папки 'Вхідні' Gmail'. Будь ласка, читайте далі за допомогою посилання 'Докладніше'"
+   },
+   "openPopupPreview": {
+      "message": "Відкрити спливаюче вікно попереднього перегляду"
+   },
+   "openPopupPreviewToolTip": {
+      "message": "-Швидкий перегляд і обробка непрочитаних листів \u003Cb>тільки\u003C/b> будь-якої Мітки  \u003Cbr>настійно \u003Cbr>оптимізована для кількох облікових записів \u003Cbr>\u003Cbr>, \u003Ci>Спробуйте посилання 'Докладніше'\u003C/i>"
+   },
+   "openReply": {
+      "message": "Відкрити (відповісти)"
+   },
+   "openThisLabel": {
+      "message": "Відкрити цю мітку"
+   },
+   "openThisLabelToolTip": {
+      "message": "Визначає, куди користувача буде спрямовано, при натисканні на піктограму електронної пошти  або на іконку розширення"
+   },
+   "option": {
+      "message": "Параметр"
+   },
+   "options": {
+      "message": "Параметри"
+   },
+   "or": {
+      "message": "або"
+   },
+   "original": {
+      "message": "Стандартна"
+   },
+   "origins_googleusercontent": {
+      "message": "*://*.googleusercontent.com/*"
+   },
+   "paragraph": {
+      "message": "Абзац"
+   },
+   "password": {
+      "message": "Пароль"
+   },
+   "paypalSecurityKeyToolTip": {
+      "message": "Якщо ви використовують PayPal і 2 кроку перевірки і виберіть \u003Cb>так\u003C/b> \u003Cbr>Якщо ви не впевнені, то залишити його як \u003Cb>немає\u003C/b>"
+   },
+   "pitch": {
+      "message": "Висота"
+   },
+   "pollNow": {
+      "message": "Перевірити зараз"
+   },
+   "pollingAccounts": {
+      "message": "Перевірка акаунтів"
+   },
+   "pollingInterval": {
+      "message": "Інтервал перевірки"
+   },
+   "pollingIntervalTooltip": {
+      "message": "Інтервал перевірки електронної пошти"
+   },
+   "popupText": {
+      "message": "Ви отримали нового листа!"
+   },
+   "popupWindowZoom": {
+      "message": "Маштаб спливаючого вікна"
+   },
+   "popupWindowZoomToolTip": {
+      "message": "Змінює загальну масштабування для спливаючі вікна (не попереднього перегляду електронної пошти або сповіщення)"
+   },
+   "positionFromLeft": {
+      "message": "Відступ зліва"
+   },
+   "positionFromTop": {
+      "message": "Відступ зверху"
+   },
+   "preview": {
+      "message": "Попередній перегляд"
+   },
+   "previewingMarksAsRead": {
+      "message": "Повідомлення вважати прочитаним, після відкриття у вікні попереднього перегляду"
+   },
+   "previewingMarksAsReadToolTip": {
+      "message": "Повідомлення вважати прочитаним, після відкриття у спливаючому вікні"
+   },
+   "previous": {
+      "message": "Попередній"
+   },
+   "primary": {
+      "message": "Первинний"
+   },
+   "primarySocialPromotionsEtc": {
+      "message": "Первинна, вкладки соціального та просування по службі і т. д."
+   },
+   "priorityInbox": {
+      "message": "Папка 'Приоритетні'"
+   },
+   "promotions": {
+      "message": "Промо-акції"
+   },
+   "quickComposeEmail": {
+      "message": "Швидкий зв'язок"
+   },
+   "rate": {
+      "message": "Темп"
+   },
+   "rateTitle": {
+      "message": "Швидкість мовлення (слів за хвилину)"
+   },
+   "read": {
+      "message": "Читання"
+   },
+   "readLink": {
+      "message": "Прочитано"
+   },
+   "readLinkTitle": {
+      "message": "Відмітити як прочитане"
+   },
+   "readLinkTitleShort": {
+      "message": ""
+   },
+   "recommended": {
+      "message": "Рекомендується"
+   },
+   "reducedDonationAd_notification": {
+      "message": "Довгий час користувача гарна новина! Додаткові послуги надаються лише $1 натисніть, щоб приховати/побачити це."
+   },
+   "reducedDonationAd_popup": {
+      "message": "Довгий час користувача гарна новина! \u003Cbr>Ви можете отримати останні $1 тільки 50"
+   },
+   "referToAlreadyDonated": {
+      "message": "Перерахувати $1"
+   },
+   "referToAlreadyDonated2": {
+      "message": "вже пожертвував"
+   },
+   "refresh": {
+      "message": "Оновити"
+   },
+   "refreshLinkTitle": {
+      "message": "Оновити"
+   },
+   "rememeberReadEmails": {
+      "message": "Запам'ятовувати, читання листів (експериментально)"
+   },
+   "rememeberReadEmailsToolTip": {
+      "message": "Параметр для відображення повідомлень електронної пошти, але це є ЕКСПЕРИМЕНТАЛЬНОЇ"
+   },
+   "removeAccount": {
+      "message": "Видалення облікового запису"
+   },
+   "removeFromSystemTray": {
+      "message": "видалити з системного трею"
+   },
+   "removeShareLinks": {
+      "message": "Сховати посилання \"поділитися\""
+   },
+   "removeShareLinksTooltip": {
+      "message": "Видаляє Facebook, Twitter посилання і т. д."
+   },
+   "reply": {
+      "message": "Відповісти"
+   },
+   "replyLinkTitle": {
+      "message": "Відповісти"
+   },
+   "replyR": {
+      "message": "\u003Cb>R\u003C/b> групі"
+   },
+   "replyToAll": {
+      "message": "Відповісти всім"
+   },
+   "replyingMarksAsRead": {
+      "message": "При відповіді на лист вважати його прочитаним"
+   },
+   "replyingMarksAsReadToolTip": {
+      "message": "При натисканні на кнопку Відповісти повідомлення вважатиметься прочитаним"
+   },
+   "reportSpam": {
+      "message": "Це спам"
+   },
+   "richNotification": {
+      "message": "Rich-сповіщення"
+   },
+   "richNotificationToolTip": {
+      "message": "Здійсненні спливаючих вікон, але не нав'язливий так, як вони зникнуть в лічені секунди на своїх власних Якщо дія не береться. Думати про них як сповіщень на вашому смартфоні. Вони забезпечують відповідні, в режимі реального часу інформації, але ви можете ігнорувати будь-які подальші дії пізніше."
+   },
+   "runInBackground": {
+      "message": "Працювати у фоновому режимі, коли Google Chrome буде закрито"
+   },
+   "runInBackgroundToolTip": {
+      "message": "Надалі отримувати нові повідомлення електронної пошти, навіть якщо Ваш браузер закритий! Я рекомендую це лише для досвідчених користувачів."
+   },
+   "runInBackgroundWarning1": {
+      "message": "Будь ласка, прочитайте уважно  $1"
+   },
+   "runInBackgroundWarning1b": {
+      "message": "Фонові програми"
+   },
+   "runInBackgroundWarning2": {
+      "message": "Якщо вимкнути фонові програми в Chrome їх можна повторно ввімкнути, читайте $1"
+   },
+   "runInBackgroundWarning2b": {
+      "message": "Останній клікабельний розділ"
+   },
+   "runInBackgroundWarning3": {
+      "message": ""
+   },
+   "runInBackgroundWarning3b": {
+      "message": "залишатися в системі"
+   },
+   "saturation": {
+      "message": "Насиченість"
+   },
+   "schedule": {
+      "message": "Розклад"
+   },
+   "search": {
+      "message": "Пошук"
+   },
+   "seeUpdates": {
+      "message": "Перегляд оновлення"
+   },
+   "seeVideo": {
+      "message": "Перегляньте відео"
+   },
+   "selectQuickActionButtons": {
+      "message": "Відобразити або приховати кнопки дій"
+   },
+   "selectQuickActionButtonsToolTip": {
+      "message": "Примітка: Кнопки при стандартному перегляді пошти не буде змінено"
+   },
+   "send": {
+      "message": "Надіслати"
+   },
+   "sendPageLinkTitle": {
+      "message": "Надіслати посилання на цей сайт"
+   },
+   "sending": {
+      "message": "Надсилання"
+   },
+   "sent": {
+      "message": "Надіслано"
+   },
+   "sepia": {
+      "message": "Сепія"
+   },
+   "setPositionAndSize": {
+      "message": "Налаштувати розташування і розмір спливаючого вікна"
+   },
+   "setPositionAndSizeToolTip": {
+      "message": "Перевизначити налаштування за замовчуванням для Написаних/Відправлених спливаючих вікон і встановити положення і розмір спливаючого вікна в пікселях"
+   },
+   "severalUnreadText": {
+      "message": "нових листів"
+   },
+   "share": {
+      "message": "Поділіться"
+   },
+   "shareIntro": {
+      "message": "Спробуйте це дивовижне розширення для Chrome"
+   },
+   "shareTitle": {
+      "message": "Примітка: Це повідомлення зникне натиснувши сюди."
+   },
+   "shortcutKeysHeader": {
+      "message": "Ці ключі застосовуються \u003Cb>тільки\u003C/b> для спливаюче вікно, яке активується за допомогою кнопки"
+   },
+   "showActionButtonsOnHover": {
+      "message": "Показувати тільки керуючі кнопки при наведенні курсору у вікні повідомлення"
+   },
+   "showActionButtonsOnHoverToolTip": {
+      "message": "Рекомендується залишити включеним, але якщо у вас є Mac, ви можете вимкнути це для того, щоб залишити керуючі кнопки, завжди відображається тому-що іноді працюють при наведенні коли вікно Chrome не в фокусі"
+   },
+   "showAllEmails": {
+      "message": "Показати всі листи"
+   },
+   "showCheckerPlusButtonsOnlyOnHover": {
+      "message": "Показувати кнопки в разі наведення курсора"
+   },
+   "showCheckerPlusButtonsOnlyOnHoverToolTip": {
+      "message": "Не рекомендується, якщо використовується сенсорний пристрій без використання миші"
+   },
+   "showConsoleMessages": {
+      "message": "Журнал повідомлень в Javascript консолі"
+   },
+   "showConsoleMessagesTitle": {
+      "message": "Призначені тільки для налагодження і може сповільнити розширення небагато!"
+   },
+   "showContactPhoto": {
+      "message": "Показувати зображення контактів"
+   },
+   "showContactPhotoToolTip": {
+      "message": "Якщо контакт має фото, воно буде показано. Ви можете встановити власні малюнки контактів."
+   },
+   "showContextMenuItem": {
+      "message": "Показати контекстне меню елемента правою кнопкою миші"
+   },
+   "showDesktopNotifications": {
+      "message": "Спливаючі вікна"
+   },
+   "showDetails": {
+      "message": "Показати подробиці"
+   },
+   "showEOM": {
+      "message": "Додати маркер для позначення кінця повідомлення електронної пошти [МСВ]"
+   },
+   "showEOMToolTip": {
+      "message": "МСВ - кінець повідомлення. Корисно при надсиланні великої кількості невеликих повідомлень, дозволяє уникнути потреби натискати на кнопку перегляду, щоб побачити повний текст повідомлення"
+   },
+   "showEmailAccount": {
+      "message": "Завжди показувати ім'я облікового запису"
+   },
+   "showEmailAccountToolTip": {
+      "message": "Може бути корисним, якщо ви перевіряєте 2 або більше облікових записів. Відображається ім'я поточного облікового запису, на який отримано нове непрочитане повідомлення по електронній пошті"
+   },
+   "showHideEmailPreview": {
+      "message": "Показати/приховати попередній перегляд електронної пошти"
+   },
+   "showIconAnimation": {
+      "message": "Показувати анімацію"
+   },
+   "showIconAnimationToolTip": {
+      "message": "Анімація іконки, при нових листах"
+   },
+   "showLabelsTitle": {
+      "message": "Відображати позначки"
+   },
+   "showLeftColumnWhenPreviewingEmail": {
+      "message": "Показати ліву кнопку в спливаючому вікні при перегляді електронної пошти"
+   },
+   "showLeftColumnWhenPreviewingEmailToolTip": {
+      "message": "Примітка: Цей стовпець може автоматично приховуватись, якщо вміст повідомлення електронної пошти занадто широкий і потребує більше місця"
+   },
+   "showMarkAsReadEmails": {
+      "message": "Продовжити показ листів, після натискання на 'Позначити як прочитані'"
+   },
+   "showNotificationEmailImagePreview": {
+      "message": "Відображати попередній перегляд перше зображення всередині електронної пошти"
+   },
+   "showNotificationsForOlderDateEmails": {
+      "message": "Показувати сповіщення для старих повідомлень електронної пошти (корисно тільки для облікових записів POP3)"
+   },
+   "showNotificationsForOlderDateEmailsToolTip": {
+      "message": "Якщо \u003Cb>прапорець знято\u003C/b>, спливаючі повідомлення з'являтимуться тільки для нових листів (рекомендовано для більшості), але іноді листи отримані з протоколу POP3 з'являються в папці 'Вхідні' після новіших електронних листів і сортуються в середині папки 'Вхідні' згідно їх старішою датою. Якщо ви \u003Cb>відмітите\u003C/b> цей параметр ці листи також відображатимуться в спливаючих повідомленнях, але тільки максимум 20 непрочитаних листів у папці 'Вхідні'. Примітка: Якщо позначити повідомлення як непрочитані вони будуть також у спливаючому вікні знову!"
+   },
+   "showOptionsButton": {
+      "message": "Відображати кнопку 'Параметри'"
+   },
+   "showSendAndArchiveButton": {
+      "message": "Показувати кнопки 'Надіслати' та 'Архівувати'"
+   },
+   "showTransitions": {
+      "message": "Включити транскрипцію"
+   },
+   "showTransitionsToolTip": {
+      "message": "Показати анімації у спливаючому вікні, під час попереднього перегляду або закриття електронних листів"
+   },
+   "showUpdateNotificationsForEvertyhing": {
+      "message": "Відображати сповіщення для всіх оновлень і виправлень помилок"
+   },
+   "showUpdateNotificationsForInterestingUpdates": {
+      "message": "Показувати сповіщення тільки для важливих оновлень"
+   },
+   "signIn": {
+      "message": "Увійти"
+   },
+   "signInAsUserOfOrg": {
+      "message": "Ви повинні $1 з електронної пошти вашої організації "
+   },
+   "signInAsUserOfOrg2": {
+      "message": "вийти та ввійти у ваш Gmail"
+   },
+   "signInToYourAccount": {
+      "message": "Ввійдіть до ваших облікових записів спочатку, а потім перезавантажити сторінку!"
+   },
+   "social": {
+      "message": "Соціальні"
+   },
+   "sound": {
+      "message": "Звук"
+   },
+   "spam": {
+      "message": "Спам"
+   },
+   "speechEngine": {
+      "message": "Генератор мови"
+   },
+   "spokenWordsLimit": {
+      "message": "Обмежувати мовлення"
+   },
+   "spokenWordsLimitToolTip": {
+      "message": "Ви можете зупинити Озвучування у будь-який час, натиснувши на кнопку або вікно сповіщення. Примітка: Деякі генератори мови можуть встановлювати свої власні обмеження"
+   },
+   "standard": {
+      "message": "Стандарт"
+   },
+   "starAndArchive": {
+      "message": "Поставити зірочку та архівувати"
+   },
+   "starLinkTitle": {
+      "message": "Поставити зірочку"
+   },
+   "stayInTray": {
+      "message": "Залишити в системному треї"
+   },
+   "subject": {
+      "message": "Тема"
+   },
+   "summary": {
+      "message": "Звіт"
+   },
+   "summaryLinkTitle": {
+      "message": "Згорнути"
+   },
+   "switchToCheckerPlus": {
+      "message": "Перейти до Checker Plus"
+   },
+   "switchToInbox": {
+      "message": "Перейти до папки 'Вхідні'"
+   },
+   "switchToInboxToolTip": {
+      "message": "Клацніть правою кнопкою миші, для довідки..."
+   },
+   "syncDND": {
+      "message": "Синхронізація DND параметрів для всіх розширень, Jason'a"
+   },
+   "syncSignInOrder": {
+      "message": "Синхронізація знак в порядку"
+   },
+   "syncSignInOrderToolTip": {
+      "message": "Знак в порядку 'веб-сторінку' облікових записів Gmail може відрізнятися від цих облікових записів, перерахованих тут, і іноді відкриття посилань у розширенні будуть відкриті до неправильно. У такому випадку можна повторно синхронізувати облікові записи."
+   },
+   "tab": {
+      "message": "Вкладка"
+   },
+   "tabToolTip": {
+      "message": "Додавати вкладки в Gmail поштову скриньку спливаючого вікна"
+   },
+   "testIt": {
+      "message": "Перевірити це!"
+   },
+   "testOutPopupWindow": {
+      "message": "Перевірити відображення спливаючого вікна!"
+   },
+   "textNotification": {
+      "message": "Просте сповіщення"
+   },
+   "textNotificationToolTip": {
+      "message": "Повідомляє вас про останнього непрочитаного. Сумісний з OS X повідомлень центр і Growl"
+   },
+   "thankYouForYourContribution": {
+      "message": "Тепер вам доступні всі додаткові опції. Дякуємо вам за ваш внесок!"
+   },
+   "thankYouForYourContribution2": {
+      "message": "Закрити це вікно !"
+   },
+   "theme": {
+      "message": "Тема"
+   },
+   "to": {
+      "message": "кому"
+   },
+   "today": {
+      "message": "Сьогодні"
+   },
+   "tooManyUnread": {
+      "message": "Вибачте, але можна відмітити лише $1- або менше листів за один раз. Будь ласка, використовуйте Gmail веб-сайту для більшої кількості"
+   },
+   "turnOff": {
+      "message": "Вимкнути"
+   },
+   "turnOffRegularGmailChecking": {
+      "message": "Відключити автоматичну перевірку пошти"
+   },
+   "turnOffRegularGmailCheckingToolTip": {
+      "message": "Ваші облікові записи @gmail.com не перевірятимуться!"
+   },
+   "undo": {
+      "message": "Скасувати"
+   },
+   "unknownSender": {
+      "message": "Невідомий відправник"
+   },
+   "unlockFeatures": {
+      "message": "Розблокуйте ці функції та всі інші у майбутньому, зробіть внесок на будь-яку суму, і вони будуть одразу доступні!"
+   },
+   "unlockHeader": {
+      "message": "Отримати додаткові функції і підтримку розробника"
+   },
+   "unmuteVoice": {
+      "message": "Увімкнути звук"
+   },
+   "unreadLink": {
+      "message": "Непрочитано"
+   },
+   "unreadLinkTitle": {
+      "message": "Відмітити як непрочитане"
+   },
+   "unreadLinkTitleShort": {
+      "message": "Непрочитано"
+   },
+   "unreadMail": {
+      "message": "Непрочитані листи"
+   },
+   "updates": {
+      "message": "Оновлення"
+   },
+   "useBasicHTMLView": {
+      "message": "Використовується HTML перегляд"
+   },
+   "useTheseColors": {
+      "message": "Використовувати ці кольори"
+   },
+   "useTheseColorsToolTip": {
+      "message": "Грати з різними кольорами або встановити їх як для одного кольору, щоб мати тільки один колір. Спробуйте відповідності вашого Gmail тема для квітів цієї електронної пошти облікового запису або компанії логотипу. Потім встановіть прапорець, щоб активувати їх. Це вплине на спливаюче вікно попереднього перегляду і вікно Розширені повідомлення"
+   },
+   "voice": {
+      "message": "Голос"
+   },
+   "voiceInput": {
+      "message": "Голосовий ввід"
+   },
+   "voiceNotificationOnlyIfIdle": {
+      "message": "Якщо ви далеко від комп'ютера, то принаймні"
+   },
+   "voiceNotificationOnlyIfIdleTooltip": {
+      "message": "Використовуйте цей параметр, якщо ви хочете почути голос, коли комп'ютер не використовується протягом тривалого часу"
+   },
+   "voiceTest": {
+      "message": "Тестове повідомлення"
+   },
+   "volume": {
+      "message": "Гучність"
+   },
+   "voythas": {
+      "message": "Voythas"
+   },
+   "voythasToolTip": {
+      "message": "Значки, створені VoYtHAs"
+   },
+   "welcomeMessage": {
+      "message": "Ласкаво просимо, \u003Cbr>\u003Cbr>Насолоджуйтесь цим розширенням відразу або не поспішайте знайомство з великою кількістю опцій. \u003Cbr> \u003Cbr>За наявності будь-яких питань зв'язатися зі мною за допомогою посилання \u003Cu>перед\u003C/u> писати відгук \u003Cbr>я можу бути в змозі допомогти :)"
+   },
+   "wholeEmail": {
+      "message": "Уся електронна пошта"
+   },
+   "whyContribute": {
+      "message": "Чому мені потрібна ваша фінансова допомога?"
+   },
+   "whyContributeReason1": {
+      "message": "Я витратив багато часу на щотижневі оновлення і підтримку  $1 у відповідь на ваші пропозиції"
+   },
+   "whyContributeReason1_1": {
+      "message": "усі мої додатки"
+   },
+   "whyContributeReason2": {
+      "message": "Я читаю і швидко відповідаю на ваші коментарі і огляди"
+   },
+   "whyContributeReason3": {
+      "message": "Ви можете внести будь-яку суму, і я буду вдячний вам!"
+   },
+   "whyContributeReason4": {
+      "message": "Це розширення отримує все більше $1, завдяки вашим внескам, дякую Вам!"
+   },
+   "whyContributeReason4_1": {
+      "message": "відгуків"
+   },
+   "whyContributeReason5": {
+      "message": "Дізнайтеся більше про мене на $1"
+   },
+   "whyContributeReason5_1": {
+      "message": "JasonSavard.com/bio"
+   },
+   "whyContributeToCalendarReason1": {
+      "message": "Будьте більш продуктивним користувачем Google для себе чи для вашого бізнесу"
+   },
+   "whyContributeToCalendarReason2": {
+      "message": "Набагато дешевше, ніж $1"
+   },
+   "whyContributeToCalendarReason2_1": {
+      "message": "Microsoft Outlook"
+   },
+   "width": {
+      "message": "Ширина"
+   },
+   "woman": {
+      "message": "Жінка"
+   },
+   "yesterday": {
+      "message": "Вчора"
+   },
+   "youMustChooseTheCheckerPlusPopupWindow": {
+      "message": "Ви повинні перейти до \u003Ci>Checker Plus\u003C/i> спливаючому вікні, щоб бачити ці варіанти."
+   },
+   "zoom": {
+      "message": "Масштаб"
+   }
+}

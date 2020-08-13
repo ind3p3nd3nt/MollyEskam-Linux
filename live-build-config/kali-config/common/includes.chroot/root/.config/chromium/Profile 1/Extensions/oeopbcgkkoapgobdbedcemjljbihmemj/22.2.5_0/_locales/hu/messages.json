@@ -1,0 +1,1505 @@
+{
+   "24hourMode": {
+      "message": "24 órás idő megjelenítés"
+   },
+   "24hourModeTitle": {
+      "message": "24 órás megjelenítés. Pl.: 18:00"
+   },
+   "DND": {
+      "message": "Ne zavarj"
+   },
+   "DNDisEnabled": {
+      "message": "A Ne zavarj engedélyezve van"
+   },
+   "EOM": {
+      "message": "EOM"
+   },
+   "EOMToolTip": {
+      "message": "Üzenet vége"
+   },
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "DO NOT REMOVE"
+   },
+   "NAME_says": {
+      "message": "$1 azt mondja:"
+   },
+   "XNewEmails": {
+      "message": "$1 új e-mail"
+   },
+   "XSnoozedEmails": {
+      "message": "$1 elektronikus levél némítva"
+   },
+   "Xattachments": {
+      "message": "$1 melléklet"
+   },
+   "Xday": {
+      "message": "nap"
+   },
+   "Xdays": {
+      "message": "$1 nap"
+   },
+   "Xhour": {
+      "message": "$1 óra"
+   },
+   "Xhours": {
+      "message": "$1 óra"
+   },
+   "Xminute": {
+      "message": "$1 perc"
+   },
+   "Xminutes": {
+      "message": "$1 perc"
+   },
+   "Xseconds": {
+      "message": "$1 másodperce tétlen"
+   },
+   "Xuser": {
+      "message": "$1 felhasználó"
+   },
+   "Xusers": {
+      "message": "$1 felhasználó"
+   },
+   "aboutMe": {
+      "message": "Rólam"
+   },
+   "accessDetails": {
+      "message": "Hozzáférési adatok"
+   },
+   "account": {
+      "message": "Fiók"
+   },
+   "accounts": {
+      "message": "Fiókok"
+   },
+   "accountsAndLabels": {
+      "message": "Fiókok / Címkék"
+   },
+   "addAccount": {
+      "message": "Fiók hozzáadása"
+   },
+   "addAccountsStaySignedIn": {
+      "message": "Fiókok hozzáadása és bejelentkezési állapot megőrzése"
+   },
+   "addEmailAlias": {
+      "message": "Álnév hozzáadása az emailcímhez"
+   },
+   "addSkinsOrThemes": {
+      "message": "Kinézetek és Témák"
+   },
+   "addSpeechEngines": {
+      "message": "Beszédkezelő program hozzáadása"
+   },
+   "addToGoogleCalendar": {
+      "message": "Hozzáadás Google naptárhoz"
+   },
+   "added": {
+      "message": "Hozzáadva"
+   },
+   "admin": {
+      "message": "Admin"
+   },
+   "alias": {
+      "message": "Álnév"
+   },
+   "all": {
+      "message": "Összes"
+   },
+   "allMail": {
+      "message": "Összes levél"
+   },
+   "alreadyDonated": {
+      "message": "Már támogattam"
+   },
+   "alsoTryMy": {
+      "message": "Próbálja ki ezt is:"
+   },
+   "alwaysDisplayExternalContent": {
+      "message": "Külső képek megjelenítése mindig"
+   },
+   "alwaysSpeak": {
+      "message": "Mindig felolvassa"
+   },
+   "amount": {
+      "message": "Összeg"
+   },
+   "anyAmount": {
+      "message": "EGYÉNI összeg"
+   },
+   "archive": {
+      "message": "Archiválás"
+   },
+   "archiveLinkTitle": {
+      "message": "Levél archiválása"
+   },
+   "archive_read": {
+      "message": "Archivált levelek megjelölése olvasottként"
+   },
+   "archive_readToolTip": {
+      "message": "Levél megjelölése olvasottként, archiváláskor"
+   },
+   "autoAdvanceTo": {
+      "message": "Auto megnyitás"
+   },
+   "autoCollapseConversations": {
+      "message": "Beszélgetések automatikus összevonása"
+   },
+   "autoDetectAccounts": {
+      "message": "Ez a kiterjesztés automatikusan érzékeli melyik fiókba van bejelentkezve."
+   },
+   "autoDetectAccountsStaySignedIn": {
+      "message": "Bejelentkezett fiókok automatikus észlelése"
+   },
+   "available": {
+      "message": "Elérhető"
+   },
+   "back": {
+      "message": "Vissza"
+   },
+   "backToInbox": {
+      "message": "Vissza a Beérkező levelekhez"
+   },
+   "backgroundColor": {
+      "message": "Háttérszín"
+   },
+   "bitcoin": {
+      "message": "Bitcoin"
+   },
+   "blue": {
+      "message": "Kék"
+   },
+   "bubbly": {
+      "message": "Pezsgő"
+   },
+   "button": {
+      "message": "Gomb"
+   },
+   "buttonClickAction": {
+      "message": "Kattintson a gombra a művelet elvégzéséhez"
+   },
+   "buttonIcon": {
+      "message": "Gomb ikon"
+   },
+   "by": {
+      "message": "által"
+   },
+   "cancel": {
+      "message": "Mégse"
+   },
+   "card": {
+      "message": "Kártya"
+   },
+   "categories": {
+      "message": "Kategóriák"
+   },
+   "changeLabels": {
+      "message": "Feliratok módosítása"
+   },
+   "changeThisDomain": {
+      "message": "Az email megváltoztatásához $1"
+   },
+   "changeThisDomain2": {
+      "message": "jelentkezzen ki, és jelentkezzen be egy másik felhasználóval"
+   },
+   "changelog": {
+      "message": "Frissítésjegyzék"
+   },
+   "checkPrimaryOrMore": {
+      "message": "Ellenőrizze az elsődleges vagy többi címkét"
+   },
+   "chime": {
+      "message": "Hang"
+   },
+   "chooseNoUnreadEmail": {
+      "message": "Válassza ki a nincs nem olvasott levél ikonját"
+   },
+   "chooseSignedOutIcon": {
+      "message": "Válasssza ki a kijelentkezett ikont"
+   },
+   "chooseUnreadEmail": {
+      "message": "Válassza ki a nem olvasott levelek ikonját"
+   },
+   "clickToPreviewEmail": {
+      "message": "Kattintson ide a levél előnézetéhez"
+   },
+   "clickToolbarIconToContinue": {
+      "message": "A folytatáshoz kattintson az eszköztáron levő ikonra"
+   },
+   "clickingAnywhereOnNotification": {
+      "message": "Ha bárhova kattint az értesítési ablakban"
+   },
+   "clickingCheckerPlusLogo": {
+      "message": "Checker Plus for Gmail logóra kattintás"
+   },
+   "close": {
+      "message": "Bezár"
+   },
+   "closeAfterX": {
+      "message": "Bezárás utána"
+   },
+   "closeAfterX_andThen": {
+      "message": "majd"
+   },
+   "closesPopupWindow": {
+      "message": "Felugró ablak bezárása"
+   },
+   "colors": {
+      "message": "Színek"
+   },
+   "comfortable": {
+      "message": "Kényelmes"
+   },
+   "compact": {
+      "message": "Kompakt"
+   },
+   "compose": {
+      "message": "Új levél"
+   },
+   "composeLinkTitle": {
+      "message": "Új levél írása"
+   },
+   "contacts": {
+      "message": "Kapcsolatok"
+   },
+   "contactsHome": {
+      "message": "O"
+   },
+   "contactsLoaded": {
+      "message": "Kapcsolatok betöltve!"
+   },
+   "contactsMobile": {
+      "message": "Mo"
+   },
+   "contactsOther": {
+      "message": "E"
+   },
+   "contactsWork": {
+      "message": "Mu"
+   },
+   "continue": {
+      "message": "Tovább"
+   },
+   "contribute": {
+      "message": "Hozzájárulás"
+   },
+   "conversationList": {
+      "message": "Beszélgetés lista"
+   },
+   "conversationView": {
+      "message": "Beszélgetési nézet"
+   },
+   "conversationViewToolTip": {
+      "message": "Beállítja, hogy ugyanebben a témában az e-mail -ek csoportosítva vannak-e"
+   },
+   "copyEmailAddress": {
+      "message": "E-mail cím másolása"
+   },
+   "cozy": {
+      "message": "Normál"
+   },
+   "custom": {
+      "message": "Egyéni"
+   },
+   "customToThisExtension": {
+      "message": "Egyedi a kiterjesztésben"
+   },
+   "customizeNotifications": {
+      "message": "Az értesítések testreszabása"
+   },
+   "dark": {
+      "message": "Sötét"
+   },
+   "dayAgo": {
+      "message": "$1 napja"
+   },
+   "daysAgo": {
+      "message": "$1 napja"
+   },
+   "daysArray": {
+      "message": "vasárnap,hétfő,kedd,szerda,csütörtök,péntek,szombat"
+   },
+   "daysArrayShort": {
+      "message": "vas,hét,ked,sze,csü,pén,szo"
+   },
+   "default": {
+      "message": "Alapértelmezett"
+   },
+   "delete": {
+      "message": "Törlés"
+   },
+   "deleteCustomSounds": {
+      "message": "Egyéni hangok törlése"
+   },
+   "deleteLink": {
+      "message": "Törlés"
+   },
+   "deleteLinkTitle": {
+      "message": "Levél törlése"
+   },
+   "deletingMarksAsRead": {
+      "message": "Megjelölt leveket törlése olvasottként"
+   },
+   "deletingMarksAsReadToolTip": {
+      "message": "A levél megjelölése olvasottként, amikor törli"
+   },
+   "description": {
+      "message": "Megjeleníti az olvasatlan üzeneteket, asztali értesítéseket, vagy akár meghallgathatja, elolvashatja, vagy törölheti az üzeneteket."
+   },
+   "developingMore": {
+      "message": "és keményen dolgozom a javaslataik megvalósításán..."
+   },
+   "developingMoreSuggestions": {
+      "message": "és keményen dolgozom a $1 megvalósításán"
+   },
+   "developingMoreSuggestions_suggestions": {
+      "message": "javaslataik"
+   },
+   "differentSounds": {
+      "message": "Hangok különböző fiókokhoz, címkékhez és emberekhez"
+   },
+   "ding": {
+      "message": "Ding"
+   },
+   "disableAll": {
+      "message": "Összes tiltása"
+   },
+   "disabled": {
+      "message": "Kikapcsolva"
+   },
+   "discoverMyApps": {
+      "message": "Fedezze fel az alkalmazásaimat"
+   },
+   "dismiss": {
+      "message": "Elrejtés"
+   },
+   "display": {
+      "message": "Megjelenítés"
+   },
+   "displayAccountReceivingEmail": {
+      "message": "Felfogó bejövő levél figyelmeztetés"
+   },
+   "displayDensity": {
+      "message": "Megjelenítési sűrűség"
+   },
+   "displayImagesBelow": {
+      "message": "Képek megjelenítése alább"
+   },
+   "displaySenders_1": {
+      "message": "Küldő"
+   },
+   "dndDuringCalendarEvent": {
+      "message": "Naptári esemény során DND (ne zavarjon) állapot"
+   },
+   "dndInFullscreenMode": {
+      "message": "Áthelyezés egérrel teljes képernyős módban"
+   },
+   "doNotDisturb": {
+      "message": "Ne zavarj"
+   },
+   "doNotNotifyMeOfUpdates": {
+      "message": "Ne értesítsen a frissítésekről"
+   },
+   "doNotShowNotificationIfGmailTabOpen": {
+      "message": "Ne jelenítsen meg értesítést ha meg van nyitva a Gmail egy fülön"
+   },
+   "donate": {
+      "message": "Adományozás"
+   },
+   "donationRequired": {
+      "message": "Hozzájárulás szükséges"
+   },
+   "done": {
+      "message": "Kész"
+   },
+   "download": {
+      "message": "Letöltés"
+   },
+   "duplicateLabelWarning": {
+      "message": "Azt javaslom, csak egyet válasszon ki a 3 fő címke (beérkezett üzenetek, fontos, minden levél, elsődleges) közül, különben duplán láthat bizonyos leveleket!"
+   },
+   "duplicateWarning": {
+      "message": "Ismétlődő figyelmeztetés"
+   },
+   "email": {
+      "message": "E-mail"
+   },
+   "emailAccounts": {
+      "message": "E-mail fiókok"
+   },
+   "emailFrom_NAME": {
+      "message": "$1 e-mail -je"
+   },
+   "emailPreview": {
+      "message": "E-mail előnézet"
+   },
+   "emailPreviewToolTip": {
+      "message": "Ha ez a beállítás \u003Cb>be van jelölve\u003C/b> és bárhol rákattint egy e-mail -re a felugró ablakban (pl. az összefoglalóban), akkor egy nagyobb e-mail előnézet nyílik meg.\u003Cbr>Ha \u003Cb>nincs bejelölve\u003C/b> és bárhol rákattint egy e-mail -re, az a Gmail weboldalon fog megnyílni"
+   },
+   "email_from": {
+      "message": "Feladó"
+   },
+   "email_message": {
+      "message": "Üzenet"
+   },
+   "email_subject": {
+      "message": "Tárgy"
+   },
+   "enable": {
+      "message": "Engedélyez"
+   },
+   "enableVoiceInputToolTip": {
+      "message": "Hozzáad egy mikrofont az új üzenet vagy válasz aljához a Gmail fiókjában"
+   },
+   "enabled": {
+      "message": "Engedélyezve"
+   },
+   "enter": {
+      "message": "Enter"
+   },
+   "enterAnAmount": {
+      "message": "Meg kell adnia egy összeget!"
+   },
+   "esc": {
+      "message": "ESC"
+   },
+   "example": {
+      "message": "Példa"
+   },
+   "exceptionsToChooseFrom": {
+      "message": "Választható kivételek"
+   },
+   "extensionUpdated": {
+      "message": "Kiterjesztés frissítve!"
+   },
+   "extensionUpdates": {
+      "message": "Kiterjesztés frissítései"
+   },
+   "extraFeatures": {
+      "message": "Extra funkciók"
+   },
+   "extraFeaturesMonthlyBlurb": {
+      "message": "Ehhez a szolgáltatáshoz azért szükséges TETSZŐLEGES összeg \u003Cb>havi\u003C/b> fizetése, hogy fedezni tudjam a Gmail API használati költségeit. \u003Cbr>\u003Cbr>Megjegyzés: a kiterjesztés extra szolgáltatásainak többségénél elegendő csupán egyszeri hozzájárulással támogatnia engem."
+   },
+   "extraFeaturesPopup1": {
+      "message": "Ezek a kihalványított beállítások olyan extra funkciók, amelyek fejlesztésével sok időt töltöttem."
+   },
+   "extraFeaturesPopup2": {
+      "message": "Engedélyezheti ezeknek a szolgáltatásokat, ha hozzájárul TETSZŐLEGES összeggel a munkámhoz."
+   },
+   "failureWithPayPalPurchase": {
+      "message": "Megszakított vagy sikertelen tranzakció! Megpróbálja $1 összeggel?"
+   },
+   "feedback": {
+      "message": "Visszajelzés"
+   },
+   "finance": {
+      "message": "Pénzügy"
+   },
+   "firstAndLastName": {
+      "message": "keresztnevének és családnevének megjelenítése"
+   },
+   "firstNameOnly": {
+      "message": "keresztnevének megjelenítése"
+   },
+   "followMe": {
+      "message": "Kövessen"
+   },
+   "forever": {
+      "message": "Örökre"
+   },
+   "forums": {
+      "message": "Fórumok"
+   },
+   "forward": {
+      "message": "Előre"
+   },
+   "from": {
+      "message": "Feladó"
+   },
+   "general": {
+      "message": "Általános"
+   },
+   "googleAccountsSignIn": {
+      "message": "Google fiók bejelentkezés használata"
+   },
+   "grantAccess": {
+      "message": "Hozzáférés megadása"
+   },
+   "grantedTo": {
+      "message": "Támogató:"
+   },
+   "green": {
+      "message": "Zöld"
+   },
+   "guideForInboxByGmail": {
+      "message": "Útmutató Inbox by Gmail felhasználóknak"
+   },
+   "guideForInboxByGmailToolTip": {
+      "message": "Csak akkor használja ha aktiválta az Inbox by Gmail-t"
+   },
+   "guideForPrimaryCategory": {
+      "message": "Útmutató az elsődleges kategóriához"
+   },
+   "guideForPrimaryCategoryToolTip": {
+      "message": "Figyelemmel kíséri az egyes címkéket: Elsődleges, Közösségi, Frissítések, Beérkezett üzenetek stb."
+   },
+   "hearEmail": {
+      "message": "E-mail meghallgatása"
+   },
+   "hearEmailMessage": {
+      "message": "E-mail üzenet meghallgatása"
+   },
+   "hearEmailSubject": {
+      "message": "Tárgy meghallgatása"
+   },
+   "hearEmailToolTip": {
+      "message": "Válassza ki, hogy az e-mail mely részét akarja meghallgatni... feladó, tárgy vagy magát az üzenetet"
+   },
+   "height": {
+      "message": "Magasság"
+   },
+   "help": {
+      "message": "Segítség"
+   },
+   "hiddenGmailTabsNote": {
+      "message": "Rejtett Gmail fülek vannak, pl. Frissítések, vagy Fórumok, ami befolyásolja az olvasatlan emailek számát."
+   },
+   "hideButton": {
+      "message": "Gomb elrejtése"
+   },
+   "hideReadEmails": {
+      "message": "Elolvasott e-mail -ek elrejtése"
+   },
+   "hideSentFrom": {
+      "message": "Az \"xy eszközömről küldve\"-hez hasonló e-mail aláírások elrejtése az összefoglalókból"
+   },
+   "hideSentFromToolTip": {
+      "message": "Jelölje ezt be, ha el akarja rejteni 'Az én iPhone-omról vagy Blackberry-mről küldve' stb. aláírásokat"
+   },
+   "hideUnreadCount": {
+      "message": "Olvasatlan levelek számának elrejtése"
+   },
+   "hideUnreadCountToolTip": {
+      "message": "Az olvasatlan levelek számának elrejtése a böngésző akcióikonján"
+   },
+   "hourAgo": {
+      "message": "$1 órája"
+   },
+   "hours": {
+      "message": "óra"
+   },
+   "hoursAgo": {
+      "message": "$1 órája"
+   },
+   "icon": {
+      "message": "Ikon"
+   },
+   "ifNoUnreadMail": {
+      "message": "Ha nincs olvasatlan e-mail"
+   },
+   "ignoreThisAccount": {
+      "message": "Fiók kihagyása"
+   },
+   "ignored": {
+      "message": "Kihagyva"
+   },
+   "imagesAreNotDisplayed": {
+      "message": "A képek nem kerülnek megjelenítésre."
+   },
+   "important": {
+      "message": "Fontos"
+   },
+   "importantMail": {
+      "message": "Fontos levelek"
+   },
+   "in": {
+      "message": "itt:"
+   },
+   "inbox": {
+      "message": "Beérkező levelek"
+   },
+   "inboxFor": {
+      "message": "$1"
+   },
+   "includesExtraFeaturesForX": {
+      "message": "Magában foglalja az extra funkciókat ehhez: $1"
+   },
+   "indefinitely": {
+      "message": "Határozatlan ideig"
+   },
+   "keyboardShortcuts": {
+      "message": "billentyűzet gyorsgombok"
+   },
+   "keys": {
+      "message": "Gombok"
+   },
+   "label": {
+      "message": "Címke"
+   },
+   "labelAdded": {
+      "message": "Címke hozzáadása"
+   },
+   "labelRemoved": {
+      "message": "Címke eltávolítva"
+   },
+   "labels": {
+      "message": "Címkék"
+   },
+   "language": {
+      "message": "Nyelv"
+   },
+   "licenseOnlyValidFor": {
+      "message": "A licenc csak azon felhasználók számára lesz elérhető, akik bejelentkeznek a Google fiókjukba."
+   },
+   "listenToYourEmail": {
+      "message": "E-mail meghallgatása"
+   },
+   "loadOptions": {
+      "message": "Beállítások betöltése"
+   },
+   "loading": {
+      "message": "Betöltés..."
+   },
+   "loadingSettings": {
+      "message": "Beállítások betöltése"
+   },
+   "mailtoLinks": {
+      "message": "Mailto linkek megnyitása a Gmaillel"
+   },
+   "makeButtonOpenGmail": {
+      "message": "A gomb megnyitja a Gmailt"
+   },
+   "makeButtonOpenGmailGuideToolTip": {
+      "message": "Nem ajánlott, mert lecseréli a felugró ablak tartalmát"
+   },
+   "makeThisAMonthlyContribution": {
+      "message": "Legyen ez havi hozzájárulás"
+   },
+   "makeThisAMonthlyContributionTooltip": {
+      "message": "Segítsen fenntartani a terméktámogatás és frissítések biztosítását"
+   },
+   "man": {
+      "message": "Férfi"
+   },
+   "markAllAsDone": {
+      "message": "Összes megjelölése elvégzettként"
+   },
+   "markAllAsDoneWarning": {
+      "message": "Megjelöli elvégzettként az összes e-mailt ebben a felugró ablakban"
+   },
+   "markAllAsRead": {
+      "message": "Összes megjelölése olvasottként"
+   },
+   "markAllAsReadTitle": {
+      "message": "Összes megjelölése olvasottként"
+   },
+   "markAllAsReadWarning": {
+      "message": "Megjelöli olvasottként az összes e-mailt ebben a felugró ablakban"
+   },
+   "markAsReadInNotificationWindow": {
+      "message": "E-mail megjelölése olvasottként az értesítési ablakban"
+   },
+   "markAsReadR": {
+      "message": "\u003Cb>O\u003C/b>lvasottként megjelöl"
+   },
+   "markDone": {
+      "message": "Befejezettnek jelöl"
+   },
+   "markedAsDone": {
+      "message": "Elvégzettként megjelölve"
+   },
+   "markedAsRead": {
+      "message": "Olvasottként megjelölve"
+   },
+   "maxEmailsToShowPerAccount": {
+      "message": "Max. e-mailek megjelenítése fiókonként"
+   },
+   "me": {
+      "message": "Nekem"
+   },
+   "message": {
+      "message": "Üzenet"
+   },
+   "mini": {
+      "message": "Mini"
+   },
+   "minimumAmount": {
+      "message": "Legkisebb adomány: $1"
+   },
+   "minutesAgo": {
+      "message": "$1 perce"
+   },
+   "monitor": {
+      "message": "Figyelés"
+   },
+   "month": {
+      "message": "Hónap"
+   },
+   "monthly": {
+      "message": "Havi"
+   },
+   "monthlyContribution": {
+      "message": "Havi hozzájárulás"
+   },
+   "monthlyPaymentBonus": {
+      "message": "Havi bónusz fizetés"
+   },
+   "monthlySubtitle": {
+      "message": "Legjobb ajánlat! Bármikor lemondhatja"
+   },
+   "monthsArray": {
+      "message": "január,február,március,április,május,június,július,augusztus,szeptember,október,november,december"
+   },
+   "monthsArrayShort": {
+      "message": "jan,feb,már,ápr,máj,jún,júl,aug,szep,okt,nov,dec"
+   },
+   "more": {
+      "message": "több"
+   },
+   "moreInfo": {
+      "message": "További információk"
+   },
+   "morning": {
+      "message": "Reggel"
+   },
+   "moveLabel": {
+      "message": "Áthelyezés ide:"
+   },
+   "movedToTrash": {
+      "message": "Kukába helyezve"
+   },
+   "multipleUserLicense": {
+      "message": "Többfelhasználós licenc"
+   },
+   "multipleUserLicenseFor": {
+      "message": "Több felhasználós licenc $1"
+   },
+   "mustSignInToPay": {
+      "message": "Be kell jelentkeznie a Gmailbe és megvárni a kiterjesztés betöltődését!"
+   },
+   "muteVoiceWhileSleeping": {
+      "message": "Ne zavarj állapot ütemezése"
+   },
+   "native": {
+      "message": "natív"
+   },
+   "never": {
+      "message": "Soha"
+   },
+   "newEmail": {
+      "message": "Új e-mail"
+   },
+   "newer": {
+      "message": "Újabb"
+   },
+   "next": {
+      "message": "Következő"
+   },
+   "nickname": {
+      "message": "Felhasználónév"
+   },
+   "night": {
+      "message": "Éjszaka"
+   },
+   "no": {
+      "message": "Nem"
+   },
+   "noSubject": {
+      "message": "Nincs tárgy"
+   },
+   "noUnreadText": {
+      "message": "Nincs olvasatlan levél"
+   },
+   "noUpdateNotifications": {
+      "message": "Nincs frissítési értesítés"
+   },
+   "noUpdates": {
+      "message": "Nincsenek frissítések."
+   },
+   "none": {
+      "message": "Egyik sem"
+   },
+   "notSignedIn": {
+      "message": "Nincs bejelentkezve"
+   },
+   "notWorking": {
+      "message": "Nem működik?"
+   },
+   "notification": {
+      "message": "Értesítés"
+   },
+   "notificationButton1": {
+      "message": "2. értesítés gomb "
+   },
+   "notificationButton2": {
+      "message": "1. értesítés gomb "
+   },
+   "notificationSound": {
+      "message": "Hangjelzések"
+   },
+   "notificationTextToSpeech": {
+      "message": "Hangértesítések"
+   },
+   "notificationTryItOutInstructions": {
+      "message": "Jelölje meg elolvasatlanként legalább egy emailjét, majd kattintson ide és várja meg az értesítési ablakot!"
+   },
+   "notifications": {
+      "message": "Értesítések"
+   },
+   "notificationsGuideToolTip": {
+      "message": "Jelzések, hangok, asztali értesítések"
+   },
+   "of": {
+      "message": "/"
+   },
+   "off": {
+      "message": "Ki"
+   },
+   "ok": {
+      "message": " Rendben"
+   },
+   "older": {
+      "message": "Régebbi"
+   },
+   "onetime": {
+      "message": "Egyszeri"
+   },
+   "open": {
+      "message": "Megnyitás"
+   },
+   "openCheckerPlusDetached": {
+      "message": "Checker Plus megnyitása saját ablakban"
+   },
+   "openComposeInTab": {
+      "message": "Új levél írása egy másik fülön"
+   },
+   "openComposeInTabToolTip": {
+      "message": "Új levél írása egy másik fülön, nem pedig a felugró kis ablakban (mailto linkekre is vonatkozik)"
+   },
+   "openComposeReplyAction": {
+      "message": "Új e-mail és Válasz gombok"
+   },
+   "openComposeReplyActionInPopupWindow": {
+      "message": "Megnyitás külső felugró ablakban"
+   },
+   "openComposeReplyActionInTab": {
+      "message": "Megnyitás fülön"
+   },
+   "openEmailDisplayedInNotificationWindow": {
+      "message": "E-mail megnyitása az értesítési ablakban"
+   },
+   "openGmailInNewTab": {
+      "message": "Gmail megnyitása új fülön"
+   },
+   "openGmailPopupWindow": {
+      "message": "Gmail bejövő üzeneteinek megnyitása felugró ablakban"
+   },
+   "openGmailPopupWindowToolTip": {
+      "message": "Teljes Gmail használata egy felugróablakban, bármely címke megnyitása, NEM testreszabható, NEM ajánlott több fiók esetén."
+   },
+   "openGmailTab": {
+      "message": "Gmail megnyitása egy fülön"
+   },
+   "openGmailTabToolTip": {
+      "message": "Letiltja a felugró ablakot (nem ajánlott), és megnyitja vagy kiválasztja a első, olvasatlan levelekkel rendelkező Gmail fiókot"
+   },
+   "openHelp": {
+      "message": "Súgó megnyitása"
+   },
+   "openInNewTab": {
+      "message": "Megnyitás új lapon"
+   },
+   "openInPopup": {
+      "message": "Megnyitás felugró ablakban"
+   },
+   "openInboxByGmail": {
+      "message": "Inbox by Gmail megnyitása"
+   },
+   "openLabel": {
+      "message": "Címke megnyitása"
+   },
+   "openLabelTooltip": {
+      "message": "Alapértelmezett címke Gmailben való megnyitáshoz"
+   },
+   "openLinkTitle": {
+      "message": "Megnyitás a Gmailben"
+   },
+   "openLinksToInboxByGmailWarning": {
+      "message": "Béta szolgáltatás.\u003Cbr>\u003Cbr>Csak akkor használja ezt az opciót, \u003Cb>ha\u003C/b> bekapcsolja a 'Bejövő üzenetek a Gmailben' lehetőséget. Többet a 'További információk' linken olvashat"
+   },
+   "openPopout": {
+      "message": "Felugróablak megnyitása"
+   },
+   "openPopupPreview": {
+      "message": "Checker Plus felugró ablak megnyitása"
+   },
+   "openPopupPreviewToolTip": {
+      "message": "- \u003Cb>Csak\u003C/b> az ön által figyelt címkékkel rendelkező olvasatlan levelek megtekintése és kezelése\u003Cbr>-Mélyen testreszabható \u003Cbr>-Több fiókra optimalizált \u003Cbr>\u003Cbr>\u003Ci>Kattintson feljebb a 'További információk' linkre\u003C/i>"
+   },
+   "openReply": {
+      "message": "Megnyitás (válasz)"
+   },
+   "openThisLabel": {
+      "message": "Nyissa meg ezt a címkét"
+   },
+   "openThisLabelToolTip": {
+      "message": "Meghatározza, hogy hova irányítja a felhasználót, amikor rákattint az e-mail fiókra vagy a kiterjesztés ikonjára"
+   },
+   "option": {
+      "message": "Opció"
+   },
+   "options": {
+      "message": "Beállítások"
+   },
+   "or": {
+      "message": "vagy"
+   },
+   "original": {
+      "message": "Eredeti"
+   },
+   "otherAmount": {
+      "message": "Egyéni összeg"
+   },
+   "otherPlans": {
+      "message": "Egyéb lehetőségek"
+   },
+   "otherPlansDescription": {
+      "message": "Diák, éves..."
+   },
+   "paragraph": {
+      "message": "bekezdés"
+   },
+   "pitch": {
+      "message": "Hangmagasság"
+   },
+   "playVideosInsideGmail": {
+      "message": "Videók lejátszása Gmailben"
+   },
+   "pollingAccounts": {
+      "message": "Fiókok lekérdezése"
+   },
+   "pollingInterval": {
+      "message": "Lekérdezési időköz"
+   },
+   "popout": {
+      "message": "Felugróablak"
+   },
+   "positionFromLeft": {
+      "message": "Távolság balról"
+   },
+   "positionFromTop": {
+      "message": "Távolság fentről"
+   },
+   "pressCtrlToOpenInBackground": {
+      "message": "Nyomja meg a $1-t és kattintson egy linken hogy új lapon a háttérben nyíljon meg."
+   },
+   "preview": {
+      "message": "Előnézet"
+   },
+   "previewingMarksAsRead": {
+      "message": "Levél megjelölése olvasottként előnézet után"
+   },
+   "previewingMarksAsReadToolTip": {
+      "message": "A levél megjelölése olvasottként, amikor a felugró ablakban megtekinti"
+   },
+   "previous": {
+      "message": "Előző"
+   },
+   "primary": {
+      "message": "Elsődleges"
+   },
+   "priorityInbox": {
+      "message": "Kiemelt bejövő"
+   },
+   "profileLoaded": {
+      "message": "Profil betöltve!"
+   },
+   "promotions": {
+      "message": "Promóciók"
+   },
+   "purchases": {
+      "message": "Vásárlás"
+   },
+   "quickComposeEmail": {
+      "message": "Gyors kapcsolat"
+   },
+   "rate": {
+      "message": "Sebesség"
+   },
+   "read": {
+      "message": "Elolvasás"
+   },
+   "readLink": {
+      "message": "Megjelölés olvasottként"
+   },
+   "readLinkTitle": {
+      "message": "Megjelölés olvasottként"
+   },
+   "readLinkTitleShort": {
+      "message": ""
+   },
+   "realtime": {
+      "message": "Valós idejű"
+   },
+   "recommended": {
+      "message": "Ajánlott"
+   },
+   "recordSound": {
+      "message": "Hangrögzítés"
+   },
+   "reducedDonationAd_notification": {
+      "message": "Jó hírem van! Az extrák ára csak $1m kattintson az elrejtéshez/megjelenítéshez."
+   },
+   "reducedDonationAd_popup": {
+      "message": "Jó hírem van!\u003Cbr>A legújabb $1 már 50 centért megvásárolható!"
+   },
+   "refresh": {
+      "message": "Frissítés"
+   },
+   "refreshLinkTitle": {
+      "message": "Összes fiók frissítése"
+   },
+   "removeAccount": {
+      "message": "Fiók eltávolítása"
+   },
+   "removeAccountIcon": {
+      "message": "Fiók ikon eltávolítása"
+   },
+   "removeShareLinks": {
+      "message": "Megosztási linkek elrejtése"
+   },
+   "removeShareLinksTooltip": {
+      "message": "Eltávolítja a Facebook, Twitter stb. linkeket"
+   },
+   "repeatNotification": {
+      "message": "Értesítések ismétlése"
+   },
+   "reply": {
+      "message": "Válasz"
+   },
+   "replyInGmail": {
+      "message": "Válasz Gmailben"
+   },
+   "replyInPopup": {
+      "message": "Válasz felugró ablakban"
+   },
+   "replyLinkTitle": {
+      "message": "Válasz küldése"
+   },
+   "replyOnlyToSender": {
+      "message": "Válasz csak küldőnek"
+   },
+   "replyR": {
+      "message": "\u003Cb>V\u003C/b>álasz"
+   },
+   "replyToAll": {
+      "message": "Válasz mindenkinek"
+   },
+   "replyingMarksAsRead": {
+      "message": "Megválaszolt levelek olvasottként jelölése"
+   },
+   "reportSpam": {
+      "message": "Megjelölés spamként"
+   },
+   "reset": {
+      "message": "Visszaállítás"
+   },
+   "revertAutoSizing": {
+      "message": "Auto-méret visszaállítása"
+   },
+   "richNotification": {
+      "message": "Részletes értesítés"
+   },
+   "richNotificationToolTip": {
+      "message": "Részletes értesítés gombokkal"
+   },
+   "runInBackground": {
+      "message": "Futtatás a háttérben a Google Chrome bezárása után."
+   },
+   "runInBackgroundToolTip": {
+      "message": "Új e-mail értesítések fogadása, még akkor is, ha a böngésző be van zárva! Csak gyakorlott felhasználók számára javaslom."
+   },
+   "runInBackgroundWarning1": {
+      "message": "Kérjük, olvassa el figyelmesen a $1"
+   },
+   "runInBackgroundWarning1b": {
+      "message": "háttéralkalmazásokról szóló részt"
+   },
+   "runInBackgroundWarning2": {
+      "message": "Ha korábban letiltotta a háttéralkalmazásokat a Chrome-ban, újra engedélyezheti azokat, ha elolvassa az $1"
+   },
+   "runInBackgroundWarning2b": {
+      "message": "utolsó kattintható szakaszt"
+   },
+   "runInBackgroundWarning3": {
+      "message": "Lehetséges, hogy használnia kell a $1 lehetőséget a Gmail bejelentkezési oldalán"
+   },
+   "runInBackgroundWarning3b": {
+      "message": "maradjon bejelentkezve"
+   },
+   "save": {
+      "message": "Mentés"
+   },
+   "saveOptions": {
+      "message": "Beállítások mentése"
+   },
+   "schedule": {
+      "message": "Ütemezés"
+   },
+   "search": {
+      "message": "Keresés"
+   },
+   "seeUpdates": {
+      "message": "Frissítések megtekintése"
+   },
+   "selectEmailAccount": {
+      "message": "Válasszon ki egy e-mail fiókot"
+   },
+   "selectQuickActionButtons": {
+      "message": "Akciógombok megjelenítése vagy elrejtése"
+   },
+   "selectQuickActionButtonsToolTip": {
+      "message": "Megjegyzés: Ez nem fogja elrejteni a gombokat az emailek teljes nézetében!"
+   },
+   "send": {
+      "message": "Küldés"
+   },
+   "sendPageLinkTitle": {
+      "message": "Oldal küldése"
+   },
+   "sendVoiceOrVideoEmails": {
+      "message": "Küldjön hang vagy videó e-maileket"
+   },
+   "sending": {
+      "message": "Küldés"
+   },
+   "sent": {
+      "message": "Elküldve"
+   },
+   "setAccountIcon": {
+      "message": "Fiók ikon beállítása"
+   },
+   "setPositionAndSize": {
+      "message": "Külső felugró ablak helyének és méretének beállítása"
+   },
+   "share": {
+      "message": "Megosztás"
+   },
+   "shareIntro": {
+      "message": "Próbálja ki ezt a nagyszerű Chrome kiterjesztést"
+   },
+   "shortcutKeysHeader": {
+      "message": "Ezek a gombok \u003Cb>csak\u003C/b> a felső felugró ablakra vonatkoznak, amit a gomb aktivál"
+   },
+   "showAllEmails": {
+      "message": "Összes e-mail megjelenítése"
+   },
+   "showButtonTooltip": {
+      "message": "Eszközleírás megjelenítése, amikor a gomb ikonja fölött áll"
+   },
+   "showConsoleMessages": {
+      "message": "Naplózás a Javascript konzolban"
+   },
+   "showConsoleMessagesTitle": {
+      "message": "Csak hibakereséshez ajánlott és némileg lelassíthatja a kiterjesztés működését!"
+   },
+   "showContactPhoto": {
+      "message": "Fénykép és részletek megjelenítése a felugró ablakban"
+   },
+   "showContactPhotos": {
+      "message": "Profilképek megjelenítése"
+   },
+   "showContextMenuItem": {
+      "message": "Menüpont megjelenítése jobb klikkre"
+   },
+   "showDesktopNotifications": {
+      "message": "Asztali értesítések"
+   },
+   "showDetails": {
+      "message": "Részletek megjelenítése"
+   },
+   "showEOM": {
+      "message": "Egy e-mail összegzés végét jelölő jelzés hozzáadása [EOM]"
+   },
+   "showEOMToolTip": {
+      "message": "EOM - Üzenet vége. Hasznos, ha sok rövid e-mail -t kap rövid idő alatt és ne kelljen rákattintani az előnézetre, hogy van-e még az üzenetnek folytatása"
+   },
+   "showGrayIconInDND": {
+      "message": "Szürke ikon megjelenítése mindig"
+   },
+   "showHideEmailPreview": {
+      "message": "E-mail előnézet megjelenítése/elrejtése"
+   },
+   "showIconAnimation": {
+      "message": "Ikon animációjának megjelenítése"
+   },
+   "showIconAnimationToolTip": {
+      "message": "Animálja az ikont, ha új üzenet érkezik"
+   },
+   "showNotificationEmailImagePreview": {
+      "message": "Az első kép előnézetének megjelenítése az e-mail -en belül"
+   },
+   "showNotificationsForOlderDateEmails": {
+      "message": "Régebbi e-mail -ek értesítéseinek megjelenítése (csak a POP3-as fiókok esetében hasznos)"
+   },
+   "showNotificationsForOlderDateEmailsToolTip": {
+      "message": "Ha \u003Cb>nincs bejelölve\u003C/b>, a felugró értesítések csak a legújabb e-mail -ek esetében jelennek meg (legtöbbhöz ez ajánlott), de néha a POP3-on keresztül lekérdezett e-mail -ek a Beérkezett üzenetek mappába a legújabb e-mail -ek után kerülnek, és régebbi dátumuk miatt a Beérkezett üzenetek mappa közepére kerülnek. Ha Ön \u003Cb>bejelöli\u003C/b> ezt a lehetőséget, az e-mail -ek a felugró ablakban is megjelennek, de legfeljebb 20 olvasatlan. Megjegyzés: Ha e-mail -eket olvasatlannak jelöl, akkor azok is felugró értesítéseket jelenítenek meg!"
+   },
+   "showSendAndArchiveButton": {
+      "message": "\"Küldés és archiválás\" gomb megjelenítése"
+   },
+   "showSendAndDeleteButton": {
+      "message": "\"Küldés és törlés\" gomb megjelenítése"
+   },
+   "showUpdateNotificationsForEvertyhing": {
+      "message": "Az összes frissítés és hibajavítás értesítéseinek megjelenítése"
+   },
+   "showUpdateNotificationsForInterestingUpdates": {
+      "message": "Csak a fontos frissítések értesítéseinek megjelenítése"
+   },
+   "signIn": {
+      "message": "Bejelentkezés"
+   },
+   "signInAsUserOfOrg": {
+      "message": "Kérem $1 a szervezetének e-mail címét használva"
+   },
+   "signInAsUserOfOrg2": {
+      "message": "jelentkezzen ki, és jelentkezzen be a Gmail fiókjába"
+   },
+   "signOutAndIn": {
+      "message": "Kijelentkezés / bejelentkezés"
+   },
+   "signature": {
+      "message": "Aláírás"
+   },
+   "skin": {
+      "message": "Kinézet"
+   },
+   "skins": {
+      "message": "Kinézet"
+   },
+   "snoozed": {
+      "message": "Némítva"
+   },
+   "social": {
+      "message": "Közösségi"
+   },
+   "sound": {
+      "message": "Hang"
+   },
+   "spam": {
+      "message": "Spam"
+   },
+   "spokenWordsLimit": {
+      "message": "Felolvasott szavak számának korlátozása:"
+   },
+   "standard": {
+      "message": "Általános"
+   },
+   "starAndArchive": {
+      "message": "Levél csillagozása és archiválása "
+   },
+   "starLinkTitle": {
+      "message": "Levél csillagozása"
+   },
+   "starringAppliesInboxLabel": {
+      "message": "Csillagozottak a Beérkező mappába"
+   },
+   "subject": {
+      "message": "Tárgy"
+   },
+   "summary": {
+      "message": "összefoglaló"
+   },
+   "support": {
+      "message": "Támogatás"
+   },
+   "switchToAddAccounts": {
+      "message": "A fiókok hozzáadása módszer-hoz használ ez vonás át kell váltani."
+   },
+   "switchToCheckerPlus": {
+      "message": "Váltás a Checker Plus-ra"
+   },
+   "switchToInbox": {
+      "message": "Váltás Inboxra"
+   },
+   "syncContacts": {
+      "message": "Kapcsolatok szinkronizálása"
+   },
+   "syncDND": {
+      "message": "Ne zavarj állapot szinkronizálása Jason összes kiterjesztésével"
+   },
+   "syncSignInOrder": {
+      "message": "Bejelentkezési sorrend szinkronizálása"
+   },
+   "syncSignInOrderTooltip": {
+      "message": "Fiókok újraszinkronizálása: A Gmail weboldal bejelentkezési sorrendje különbözhet az itt felsorolt listáétól, így a linkek megnyitása a kiterjesztésben rossz profilt nyithat meg"
+   },
+   "systemLabels": {
+      "message": "Rendszer címkék"
+   },
+   "tab": {
+      "message": "Fül"
+   },
+   "tabToolTip": {
+      "message": "Fülek hozzáadása a Gmail Bejövő üzeneteinek felugró ablakba"
+   },
+   "testIt": {
+      "message": "Próbálja ki!"
+   },
+   "textNotification": {
+      "message": "Szöveges értesítés"
+   },
+   "textNotificationToolTip": {
+      "message": "Tájékoztat a legutóbbi olvasatlan levélről. Kompatibilis az OS X értesítési központtal és a Growl-lal"
+   },
+   "thankYouForYourContribution": {
+      "message": "A funkciók feloldásra kerültek. Köszönöm a hozzájárulását!"
+   },
+   "theme": {
+      "message": "Téma"
+   },
+   "theresAProblem": {
+      "message": "Van egy probléma"
+   },
+   "tip": {
+      "message": "Tipp"
+   },
+   "to": {
+      "message": "Címzett"
+   },
+   "today": {
+      "message": "Ma"
+   },
+   "tomorrow": {
+      "message": "Holnap"
+   },
+   "tooManyUnread": {
+      "message": "Sajnálom, egyszerre csak $1 vagy kevesebb e-mail -t tudok megjelölni. Kérem inkább használja a Gmail honlapot"
+   },
+   "transparent": {
+      "message": "Átlátszó"
+   },
+   "tryAgain": {
+      "message": "Kérem próbálja újra"
+   },
+   "tryAgainLater": {
+      "message": "Kérem próbálja újra később"
+   },
+   "tryCheckerPlusWindowFirst": {
+      "message": "Tegyen egy próbát a Checker Plusz felugróablakkal pár napig, hogy megtapasztalhassa milyen hatékony"
+   },
+   "turnOff": {
+      "message": "Letiltás"
+   },
+   "uncheckInboxLabel": {
+      "message": "Beérkező mappa kihagyása"
+   },
+   "undo": {
+      "message": "Visszavonás"
+   },
+   "unknownSender": {
+      "message": "Ismeretlen feladó"
+   },
+   "unlimited": {
+      "message": "Korlátlan"
+   },
+   "unlockOtherExtensions": {
+      "message": "Oldja fel a többi kiterjesztést is megnyitva a Támogatás oldalt, rákattintva a Már támogattam linkre az oldal tetején."
+   },
+   "unread": {
+      "message": "Olvasatlan"
+   },
+   "unreadLink": {
+      "message": "Olvasatlan"
+   },
+   "unreadLinkTitle": {
+      "message": "Megjelölés olvasatlanként"
+   },
+   "unreadLinkTitleShort": {
+      "message": "Olvasatlan"
+   },
+   "unreadMail": {
+      "message": "Olvasatlan levelek"
+   },
+   "unreadMailCountColor": {
+      "message": "Olvasatlan levél számláló színe"
+   },
+   "update": {
+      "message": "Frissítés"
+   },
+   "updates": {
+      "message": "Frissítések"
+   },
+   "uploadSound": {
+      "message": "Hang feltöltése"
+   },
+   "useBasicHTMLView": {
+      "message": "Alap HTML nézet használata"
+   },
+   "useChromeSignIn": {
+      "message": "Chrome bejelentkezés használata"
+   },
+   "useInboxByGmail": {
+      "message": "Használja az Inbox by Gmail-t"
+   },
+   "videoEmail": {
+      "message": "Videó e-mail"
+   },
+   "videoMessage": {
+      "message": "Video üzenet"
+   },
+   "voice": {
+      "message": "Hang"
+   },
+   "voiceCommands": {
+      "message": "Hangutasítások"
+   },
+   "voiceEmail": {
+      "message": "Hang e-mail"
+   },
+   "voiceInput": {
+      "message": "Hangbemenet"
+   },
+   "voiceInputSuggestions": {
+      "message": "Javaslatok engedélyezése"
+   },
+   "voiceMessage": {
+      "message": "Hangüzenetet"
+   },
+   "voiceNotificationOnlyIfIdle": {
+      "message": "Csak akkor, ha a számítógép legalább"
+   },
+   "voiceTest": {
+      "message": "Tesztüzenet"
+   },
+   "volume": {
+      "message": "Hangerő"
+   },
+   "welcome": {
+      "message": "Kezdőlap"
+   },
+   "wholeEmail": {
+      "message": "teljes e-mail"
+   },
+   "widget": {
+      "message": "Widget"
+   },
+   "width": {
+      "message": "Szélesség"
+   },
+   "woman": {
+      "message": "Nő"
+   },
+   "yellow": {
+      "message": "Sárga"
+   },
+   "yes": {
+      "message": "Igen"
+   },
+   "yesterday": {
+      "message": "Tegnap"
+   },
+   "zoom": {
+      "message": "Nagyítás"
+   }
+}

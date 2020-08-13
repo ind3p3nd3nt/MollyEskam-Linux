@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The short description of the extension, displayed in the web store",
+      "message": "Privacy, simplified. Protect your data as you search and browse. ***Permissions are to block hidden trackers lurking everywhere.***"
+   },
+   "appName": {
+      "description": "The title of the extension, displayed in the web store",
+      "message": "DuckDuckGo Privacy Essentials"
+   }
+}

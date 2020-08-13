@@ -1,0 +1,74 @@
+{
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "NEODSTRAŇUJTE"
+   },
+   "archive": {
+      "message": "Arhiveeri"
+   },
+   "archiveLinkTitle": {
+      "message": "Arhiveeri kiri"
+   },
+   "composeLinkTitle": {
+      "message": "Koosta uus kiri"
+   },
+   "deleteLink": {
+      "message": "Kustuta"
+   },
+   "deleteLinkTitle": {
+      "message": "Kustuta kiri"
+   },
+   "fullLinkTitle": {
+      "message": "Näita kogu kirja"
+   },
+   "languageName": {
+      "message": "Eesti keel"
+   },
+   "monthsArray": {
+      "message": "jaan,veeb,märts,apr,mai,juun,juul,aug,sep,okt,nov,dets"
+   },
+   "noUnreadText": {
+      "message": "Pole uusi kirju"
+   },
+   "oneUnreadText": {
+      "message": "lugemata kiri"
+   },
+   "openLinkTitle": {
+      "message": "Ava veebilehel"
+   },
+   "popupText": {
+      "message": "Sulle on uus kiri!"
+   },
+   "readLink": {
+      "message": "Loe"
+   },
+   "readLinkTitle": {
+      "message": "Märgi loetuna"
+   },
+   "refreshLinkTitle": {
+      "message": "Uuenda kõiki postkaste"
+   },
+   "replyLinkTitle": {
+      "message": "Vasta kirjale"
+   },
+   "reportSpam": {
+      "message": "Märgi rämpspostina"
+   },
+   "severalUnreadText": {
+      "message": "lugemata kirja"
+   },
+   "spam": {
+      "message": "Rämpspost"
+   },
+   "starLinkTitle": {
+      "message": "Märgista kiri"
+   },
+   "summaryLinkTitle": {
+      "message": "Näita kokkuvõtet"
+   },
+   "unreadLink": {
+      "message": "Lugemata"
+   },
+   "unreadLinkTitle": {
+      "message": "Märgi lugemata"
+   }
+}
