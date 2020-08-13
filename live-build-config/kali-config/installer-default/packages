@@ -3,7 +3,8 @@ kali-defaults
 network-manager
 network-manager-gnome
 kali-menu
-vlc
+mplayer
+mplayer-gui
 openvpn
 curl
 wget
