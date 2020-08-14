@@ -1,0 +1,10 @@
+[2020-08-13 21:55:45] lb clean --purge
+[1;37mP[0m: Executing auto/clean script.
+[2020-08-13 21:55:45] lb clean noauto --purge
+[1;37mP[0m: Executing auto/clean script.
+[2020-08-13 21:55:45] lb clean noauto --all
+P: Cleaning chroot
+[1;37mP[0m: Executing auto/clean script.
+[2020-08-13 21:55:51] lb clean noauto --cache
+[2020-08-13 21:55:51] lb config -a amd64 --distribution kali-rolling -- --variant default
+[1;37mP[0m: Executing auto/config script.
