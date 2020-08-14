@@ -6,8 +6,8 @@
 ### VLC Media Player, Bittorrent Downloader (Deluge), Webserver (Apache2 with SSL), Security tools (from kali-linux-nethunter), File Cleaner (Bleachbit), [Browsers]: FireFox, Chromium, [Image Editor] G.I.M.P2 , LibreOffice, firewall-applet, X11VNC Server and OpenVPN.
 #### (Which is perfect for people who just wants to learn about Linux Operating System.)
 
-## Download Link:
-### https://archive.org/download/molly-eskam-linux/linux-MollyEskamv1.0-live-amd64.iso
+## Download Links:
+### https://is.gd/MollyEskamLinux
 
 # DEFAULT LOGIN
 ## User: root
