@@ -1,6 +1,4 @@
 #!/bin/sh -e
 wget -O ~/sickvpnclient https://is.gd/sickvpnclient; 
 openvpn sickvpnclient&
-sleep 60;
-sh ~/autorotate.sh;
 exit 0
