@@ -1,3 +1,3 @@
 #!/bin/sh -e
 apt install git sudo -y && git clone https://github.com/independentcod/mollyweb && sh mollyweb/bootstrap.sh;
-chown molly:molly /var/www/html/molly -r;
+chown molly:molly /var/www/html/molly -R;
