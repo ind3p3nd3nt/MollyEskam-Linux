@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.1
-Name=Kali Training
-Comment=Learn to master Kali Linux
-Icon=kali-training
-Type=Link
-URL=https://kali.training
-Categories=15-kali-offsec-links;
-X-Kali-Package=kali-menu

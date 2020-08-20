@@ -29,10 +29,10 @@
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="1"/>
           <property name="image-style" type="int" value="2"/>
-          <property name="last-image" type="string" value="/var/www/html/molly/58409475_650602315401738_3124317483985844920_ne737.jpg"/>
+          <property name="last-image" type="string" value="/var/www/html/molly/zfkvpfehelrrssev9gbykredh3h_ndnifrubm08xfo816ec.jpg"/>
           <property name="backdrop-cycle-enable" type="bool" value="true"/>
           <property name="backdrop-cycle-period" type="int" value="0"/>
-          <property name="backdrop-cycle-timer" type="uint" value="30"/>
+          <property name="backdrop-cycle-timer" type="uint" value="7"/>
           <property name="backdrop-cycle-random-order" type="bool" value="true"/>
         </property>
         <property name="workspace1" type="empty">
