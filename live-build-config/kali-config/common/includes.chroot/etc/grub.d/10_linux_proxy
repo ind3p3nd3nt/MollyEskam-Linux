@@ -1,7 +1,0 @@
-#!/bin/sh
-#THIS IS A GRUB PROXY SCRIPT
-'/etc/grub.d/proxifiedScripts/linux' | /etc/grub.d/bin/grubcfg_proxy "+*
-+#text
-+'Kali GNU/Linux'~a6b046a40380c4537689fe91047824e9~ as 'MollyEskam GNU/Linux v1.1'
-+'SUBMENU' as 'Advanced options for Molly Eskam GNU/Linux'{+'Advanced options for Kali GNU/Linux'/*, +'Advanced options for Kali GNU/Linux'/'Kali GNU/Linux, with Linux 5.7.0-kali1-amd64'~79b2b1d07c9b5b9108e5156a728cfb82~ as 'MollyEskam GNU/Linux v1.1, with Linux 5.7.0-kali1-amd64', +'Advanced options for Kali GNU/Linux'/'Kali GNU/Linux, with Linux 5.7.0-kali1-amd64 (recovery mode)'~cf23fcfb8ea163a3a5b872f6e1b30ecb~ as 'MollyEskam GNU/Linux v1.1, with Linux 5.7.0-kali1-amd64 (recovery mode)'}
-"
