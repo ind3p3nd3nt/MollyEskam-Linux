@@ -1,5 +1,11 @@
 #!/bin/bash
-VARIANT=default
+function argv {
+    for a in ${BASH_ARGV[*]} ; do
+      echo -n "$a "
+    done
+    echo
+}
+VARIANT=$argv[1]
 ARCH=amd64
 cp /etc/apt/sources.list /root/sources.list.bak -r;
 apt install gnupg -y;
