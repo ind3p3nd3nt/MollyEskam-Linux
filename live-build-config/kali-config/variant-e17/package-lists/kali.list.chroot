@@ -13,7 +13,7 @@ kali-linux-default
 
 # Graphical desktop
 kali-desktop-e17
-kali-linux-core
+kali-linux-nethunter
 network-manager
 network-manager-gnome
 kali-menu
@@ -33,6 +33,4 @@ firmware-linux-nonfree
 xfce4
 gimp
 libreoffice
-deluge
 kali-root-login
-cryptsetup
