@@ -8,5 +8,5 @@ apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys ED444FF07D8D0B
 apt update;
 apt install -y live-build kali-archive-keyring curl cdebootstrap git;
 cd live-build-config/;
-./build.sh --verbose --variant $VARIANT --arch=$ARCH;
+./build.sh --verbose --variant $VARIANT --arch $ARCH;
 cp /root/sources.list.bak /etc/apt/sources.list -r;
