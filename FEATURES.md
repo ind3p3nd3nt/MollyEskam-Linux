@@ -1,14 +1,19 @@
 # Complete list of features:
- ## xfce background rotator
+ ## kde-full
+ ## Sublime Text 3
+ ## Frostwire Bittorrent Downloader (For x64 Versions ONLY)
+ ## Wine32 Windows APPs Loader (While building x64 version ONLY)
  ## www.mollyeskam.net website (accessible on localhost 127.0.0.1)
  ## Pre-Compiled Chiaki (PS4 Remote Play client with vaapi accelerator)
  ## Web-for-Instagram-Direct-DM-4.0.0-x86_64
- ## vlc
+ ## Firefox-ESR
+ ## Chromium Browser
+ ## mplayer-gui
  ## openvpn
  ## git
  ## net-tools
  ## openssh client & server
- ## x11vnc
+ ## x11vnc (Share Desktop with other Devices)
  ## bleachbit (Unnecessary file cleaner)
  ## kali-root-login (root:toor)
  ## firmware-linux
