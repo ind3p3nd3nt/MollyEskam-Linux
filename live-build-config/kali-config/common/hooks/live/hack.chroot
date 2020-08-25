@@ -11,10 +11,13 @@ apt install apt-transport-https;
 echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list;
 sudo apt-get update;
 sudo apt-get install sublime-text -y;
+if [ $(uname -m) = x86_64 ]
+then
 sudo apt install mplayer mplayer-gui openjdk-14-jre-headless -y;
 wget https://wc1.frostwire.com/frostwire/6.8.6/frostwire-6.8.6.amd64.deb;
 dpkg -i frostwire-6.8.6.amd64.deb;
 sudo apt install -f -y;
+fi
 sudo useradd -m molly;
 echo molly:eskam123 | sudo chpasswd;
 sudo usermod -g sudo molly;
