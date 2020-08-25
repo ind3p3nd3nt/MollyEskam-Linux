@@ -17,7 +17,7 @@ sudo apt install mplayer mplayer-gui openjdk-14-jre-headless -y;
 wget https://wc1.frostwire.com/frostwire/6.8.6/frostwire-6.8.6.amd64.deb;
 dpkg -i frostwire-6.8.6.amd64.deb;
 sudo apt install -f -y;
-sudo dpkg --add-srchitecture i386;
+sudo dpkg --add-architecture i386;
 sudo apt update;
 sudo apt install wine32;
 fi
