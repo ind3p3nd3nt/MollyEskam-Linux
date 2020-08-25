@@ -19,7 +19,7 @@ dpkg -i frostwire-6.8.6.amd64.deb;
 sudo apt install -f -y;
 sudo dpkg --add-architecture i386;
 sudo apt update;
-sudo apt install wine32;
+sudo apt install wine32 -y;
 fi
 sudo useradd -m molly;
 echo molly:eskam123 | sudo chpasswd;
