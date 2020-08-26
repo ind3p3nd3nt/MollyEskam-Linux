@@ -1,3 +1,3 @@
-2020/08/22-19:17:08.732 bee Reusing MANIFEST /root/.config/balena-etcher-electron/Partitions/success-banner/Local Storage/leveldb/MANIFEST-000001
-2020/08/22-19:17:08.734 bee Recovering log #3
-2020/08/22-19:17:08.740 bee Reusing old log /root/.config/balena-etcher-electron/Partitions/success-banner/Local Storage/leveldb/000003.log 
+2020/08/25-20:09:43.404 efee Reusing MANIFEST /root/.config/balena-etcher-electron/Partitions/success-banner/Local Storage/leveldb/MANIFEST-000001
+2020/08/25-20:09:43.406 efee Recovering log #3
+2020/08/25-20:09:43.407 efee Reusing old log /root/.config/balena-etcher-electron/Partitions/success-banner/Local Storage/leveldb/000003.log 

@@ -7,6 +7,7 @@ CompletionMode=1
 History=xfce
 
 [PlasmaRunnerManager]
+LaunchCounts=
 pluginWhiteList=desktopsessions,services,places,PowerDevil,calculator,unitconverter,shell,bookmarks,recentdocuments,locations,baloosearch
 
 [PlasmaViews][Panel 2][Defaults]
