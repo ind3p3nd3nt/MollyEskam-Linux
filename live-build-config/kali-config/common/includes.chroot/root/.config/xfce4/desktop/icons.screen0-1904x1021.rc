@@ -1,89 +1,41 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/root/Desktop/update_everything.sh]
-row=3
-col=6
-
-[/root/Desktop/linux-MollyEskamv1.0-live-amd64.iso]
-row=5
-col=0
-
-[/root/Desktop/offsec-training.desktop]
-row=0
-col=17
-
-[/root/Desktop/Web-for-Instagram-Direct-DM-4.0.0-x86_64.AppImage]
-row=6
-col=0
-
-[/root/Desktop/balenaEtcher-1.5.102-x64.AppImage]
-row=6
-col=17
-
 [/root/Desktop/chiaki.desktop]
 row=8
-col=0
-
-[/root/Desktop/Screenshot_2020-08-14_09-39-38.png]
-row=0
-col=2
-
-[/root/Desktop/exo-terminal-emulator.desktop]
-row=1
 col=0
 
 [/root/Desktop/kali-training.desktop]
 row=1
 col=17
 
-[/root/Desktop/Screenshot_2020-08-13_21-24-10.png]
-row=1
-col=1
-
 [/root/Desktop/sublime_text.desktop]
 row=3
 col=0
 
-[/root/Desktop/Screenshot_2020-08-14_04-17-28.png]
-row=5
-col=1
-
-[/root/Desktop/Screenshot_2020-08-14_03-07-23.png]
-row=3
-col=1
-
-[/root/Desktop/Screenshot_2020-08-14_06-08-37.png]
-row=7
-col=1
+[/root/Desktop/offsec-training.desktop]
+row=0
+col=17
 
 [/root/Desktop/bleachbit-root.desktop]
 row=8
 col=17
 
-[/root/Desktop/linux-MollyEskamv1.0-live-amd64.log]
-row=7
+[/root/Desktop/exo-terminal-emulator.desktop]
+row=1
 col=0
 
-[/root/Desktop/Screenshot_2020-08-14_09-33-00.png]
-row=8
-col=1
+[/root/Desktop/update_everything.sh]
+row=3
+col=6
 
 [/root/Desktop/exo-web-browser.desktop]
 row=2
 col=0
 
-[/root/Desktop/Screenshot_2020-08-14_03-07-44.png]
-row=4
-col=1
-
-[/root/Desktop/Screenshot_2020-08-14_02-48-11.png]
-row=2
-col=1
-
-[/root/Desktop/Screenshot_2020-08-14_05-39-39.png]
-row=6
-col=1
+[1EC83F56C83F2C01]
+row=5
+col=0
 
 [Trash]
 row=4

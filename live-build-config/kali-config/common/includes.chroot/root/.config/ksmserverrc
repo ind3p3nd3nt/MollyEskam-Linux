@@ -1,0 +1,30 @@
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=106b616c69000159840057600000018050003
+clientId2=106b616c69000159840057600000018050006
+clientId3=106b616c69000159840057600000018050007
+clientId4=106b616c69000159840057600000018050010
+count=4
+discardCommand1[$e]=rm,$HOME/.config/session/kwin_106b616c69000159840057600000018050003_1598400621_983210
+program1=/usr/bin/kwin_x11
+program2=pulseaudio
+program3=/usr/lib/x86_64-linux-gnu/libexec/DiscoverNotifier
+program4=/usr/bin/korgac
+restartCommand1=/usr/bin/kwin_x11,-session,106b616c69000159840057600000018050003_1598400621_983210
+restartCommand2=
+restartCommand3=/usr/lib/x86_64-linux-gnu/libexec/DiscoverNotifier,-session,106b616c69000159840057600000018050007_1598400621_865773
+restartCommand4=/usr/bin/korgac,-session,106b616c69000159840057600000018050010_1598400621_865905
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+userId1=root
+userId2=root
+userId3=root
+userId4=root
+wasWm1=true
+wasWm2=false
+wasWm3=false
+wasWm4=false
