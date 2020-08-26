@@ -1,5 +1,6 @@
 # Complete list of features:
  ## kde-full
+ ## obs-studio (Streaming & Recording APP)
  ## Sublime Text 3
  ## Frostwire Bittorrent Downloader (For x64 Versions ONLY)
  ## Wine32 Windows APPs Loader (While building x64 version ONLY)
