@@ -23,7 +23,9 @@
 ## type (In a terminal window): passwd root
 ### (Also consider making an installation instead of using the live build, because it might be buggy)
 
-# ISO Image will be updated daily to ensure functions are working correctly.
+# ISO Image will be updated periodically to ensure functions are working correctly.
+
+[![How to install MollyEskam-Linux in A REAL PC](https://img.youtube.com/vi/rr-4EITXS-c/0.jpg)](https://www.youtube.com/watch?v=rr-4EITXS-c)
 
 # Installation instructions
 ## 1. Download this program: https://www.balena.io/etcher/
