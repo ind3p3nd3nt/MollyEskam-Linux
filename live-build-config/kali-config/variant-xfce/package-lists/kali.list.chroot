@@ -19,6 +19,7 @@ kali-root-login
 firmware-linux
 firmware-linux-nonfree
 kde-full
-gimp
+xfce4
+kali-desktop-xfce
 libreoffice
 kali-root-login
