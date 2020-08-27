@@ -1,23 +1,12 @@
-# You always want those
 kali-linux-core
-kali-desktop-live
-
-# Kali applications
-#<package>
-# You can customize the set of Kali metapackages (groups of tools) to install
-# For the complete list see: https://tools.kali.org/kali-metapackages
+kali-defaults
 kali-linux-nethunter
-# kali-linux-large
-# kali-linux-everything
-# kali-tools-top10
-
-# Graphical desktop
-kde-full
-kali-linux-core
+fern-wifi-cracker
 network-manager
 network-manager-gnome
 kali-menu
-vlc
+mplayer
+mplayer-gui
 openvpn
 curl
 wget
@@ -25,11 +14,11 @@ git
 net-tools
 ssh
 x11vnc
-nmap
 bleachbit
 kali-root-login
 firmware-linux
 firmware-linux-nonfree
+kde-full
 gimp
 libreoffice
 kali-root-login

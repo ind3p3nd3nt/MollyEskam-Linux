@@ -1,7 +1,7 @@
 #!/bin/bash
 if [ -z "$1" ]
 then
-VARIANT=default
+VARIANT=kde
 else
 VARIANT=$1
 fi
