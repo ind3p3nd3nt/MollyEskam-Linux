@@ -1,6 +1,6 @@
 kali-linux-core
 kali-defaults
-kali-linux-nethunter
+kali-tools-top10
 fern-wifi-cracker
 network-manager
 network-manager-gnome
@@ -18,7 +18,6 @@ bleachbit
 kali-root-login
 firmware-linux
 firmware-linux-nonfree
-kali-desktop-xfce
 gimp
 libreoffice
 kali-root-login

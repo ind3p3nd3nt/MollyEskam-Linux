@@ -6,7 +6,7 @@ kali-desktop-live
 #<package>
 # You can customize the set of Kali metapackages (groups of tools) to install
 # For the complete list see: https://tools.kali.org/kali-metapackages
-kali-linux-default
+kali-defaults
 # kali-linux-large
 # kali-linux-everything
 # kali-tools-top10
@@ -31,6 +31,7 @@ libreoffice
 kali-root-login
 # Graphical desktop
 kali-desktop-mate
+mate
 # | NOTE: With Kali 1.x, the mate desktop requires other changes to the live config.
 # | See https://docs.kali.org/live-build/customize-the-kali-desktop-environment
 # | for details

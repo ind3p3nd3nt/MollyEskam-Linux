@@ -6,13 +6,14 @@ kali-desktop-live
 #<package>
 # You can customize the set of Kali metapackages (groups of tools) to install
 # For the complete list see: https://tools.kali.org/kali-metapackages
-kali-linux-nethunter
+kali-tools-top10
 # kali-linux-large
 # kali-linux-everything
 # kali-tools-top10
 
 # Graphical desktop
 kali-desktop-lxde
+lxde
 kali-linux-core
 network-manager
 network-manager-gnome
@@ -30,7 +31,6 @@ bleachbit
 kali-root-login
 firmware-linux
 firmware-linux-nonfree
-xfce4
 gimp
 libreoffice
 kali-root-login

@@ -7,7 +7,8 @@ kali-desktop-live
 # For the complete list see: https://tools.kali.org/kali-metapackages
 
 # Graphical desktop
-kali-desktop-xfce
+kali-desktop-kde
+kde-standard
 network-manager
 network-manager-gnome
 kali-menu
@@ -15,7 +16,6 @@ kali-linux-core
 network-manager
 network-manager-gnome
 kali-menu
-vlc
 openvpn
 curl
 wget
