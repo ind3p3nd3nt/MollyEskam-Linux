@@ -32,7 +32,10 @@ bleachbit
 kali-root-login
 firmware-linux
 firmware-linux-nonfree
-xfce4
+gtk-chtheme
+gtk2-engines
+lxappearance
+lxde-settings-daemon
 gimp
 libreoffice
 kali-root-login
