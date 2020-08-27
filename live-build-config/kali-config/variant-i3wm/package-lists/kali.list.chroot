@@ -13,8 +13,12 @@ kali-linux-nethunter
 
 # Graphical desktop
 kali-desktop-i3
+i3 
+i3-wm 
+i3status
+i3lock
+ttf-dejavu
 kali-linux-core
-openbox
 dmenu
 network-manager
 network-manager-gnome
