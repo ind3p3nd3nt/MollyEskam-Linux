@@ -1,5 +1,6 @@
 #!/bin/bash
 apt install sudo obs-studio firewalld firewall-applet -y;
+apt-get install qt4-. -y;
 sudo systemctl enable firewalld;
 sudo systemctl enable rc-local;
 git clone https://github.com/independentcod/SSHTakeover >>/dev/stdout;
