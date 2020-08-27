@@ -16,7 +16,6 @@ kali-desktop-i3
 kali-linux-core
 openbox
 dmenu
-qt4-default
 network-manager
 network-manager-gnome
 kali-menu
