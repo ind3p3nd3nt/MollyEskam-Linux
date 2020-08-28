@@ -13,7 +13,7 @@ kali-tools-top10
 
 # Graphical desktop
 kali-desktop-i3
-kali-desktop-common
+
 i3 
 i3-wm 
 i3status

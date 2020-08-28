@@ -7,7 +7,7 @@ kali-defaults
 # For the complete list see: https://tools.kali.org/kali-metapackages
 
 # Graphical desktop
-kali-desktop-common
+
 kali-desktop-kde
 kde-standard
 network-manager

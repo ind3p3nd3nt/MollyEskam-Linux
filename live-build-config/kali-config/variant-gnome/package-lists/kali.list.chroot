@@ -12,7 +12,7 @@ kali-desktop-live
 kali-tools-top10
 
 # Graphical desktop
-kali-desktop-common
+
 kali-desktop-gnome
 kali-linux-core
 network-manager
