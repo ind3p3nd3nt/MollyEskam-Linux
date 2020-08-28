@@ -8,6 +8,7 @@ kali-desktop-live
 # For the complete list see: https://tools.kali.org/kali-metapackages
 kali-defaults
 kali-linux-light
+kali-linux-default
 kali-desktop-live
 # kali-linux-large
 # kali-linux-everything
