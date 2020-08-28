@@ -6,8 +6,7 @@ kali-desktop-live
 #<package>
 # You can customize the set of Kali metapackages (groups of tools) to install
 # For the complete list see: https://tools.kali.org/kali-metapackages
-kali-defaults
-kali-linux-light
+
 kali-linux-default
 kali-desktop-live
 # kali-linux-large
