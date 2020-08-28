@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+useradd -m molly;
+echo molly:eskam123 | chpasswd;
+usermod -g sudo molly;

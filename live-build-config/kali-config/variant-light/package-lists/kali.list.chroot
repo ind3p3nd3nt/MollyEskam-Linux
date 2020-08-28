@@ -1,12 +1,13 @@
 # You always want those
 kali-linux-core
 kali-desktop-live
-
+kali-defaults
 # Kali applications
 # You can customize the set of Kali metapackages (groups of tools) to install
 # For the complete list see: https://tools.kali.org/kali-metapackages
 
 # Graphical desktop
+kali-desktop-common
 kali-desktop-kde
 kde-standard
 network-manager

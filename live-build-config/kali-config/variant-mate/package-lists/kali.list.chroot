@@ -1,7 +1,7 @@
 # You always want those
 kali-linux-core
 kali-desktop-live
-
+kali-defaults
 # Kali applications
 #<package>
 # You can customize the set of Kali metapackages (groups of tools) to install
@@ -31,6 +31,7 @@ firmware-linux-nonfree
 gimp
 libreoffice
 kali-root-login
+kali-desktop-common
 # Graphical desktop
 kali-desktop-mate
 mate

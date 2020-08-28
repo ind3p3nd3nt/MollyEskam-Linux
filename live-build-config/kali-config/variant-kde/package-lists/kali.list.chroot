@@ -1,6 +1,8 @@
 kali-linux-core
-
+lightdm
+kali-desktop-common
 kali-linux-default
+kali-defaults
 kali-desktop-live
 kali-tools-top10
 kali-desktop-kde

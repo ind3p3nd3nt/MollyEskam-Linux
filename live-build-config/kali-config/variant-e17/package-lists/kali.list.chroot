@@ -1,7 +1,7 @@
 # You always want those
 kali-linux-core
 kali-desktop-live
-
+kali-defaults
 # Kali applications
 #<package>
 # You can customize the set of Kali metapackages (groups of tools) to install
@@ -14,6 +14,7 @@ kali-desktop-live
 # kali-tools-top10
 
 # Graphical desktop
+kali-desktop-common
 kali-desktop-e17
 kali-tools-top10
 network-manager

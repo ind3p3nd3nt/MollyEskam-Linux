@@ -20,10 +20,10 @@
 			"buffers":
 			[
 				{
-					"file": "/root/Desktop/update_everything.sh",
+					"file": "/home/independent/MollyEskam-Linux/live-build-config/kali-config/common/package-lists/firmware.list.chroot",
 					"settings":
 					{
-						"buffer_size": 45,
+						"buffer_size": 848,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -61,7 +61,6 @@
 			},
 			"file_history":
 			[
-				"/sbin/update"
 			],
 			"find":
 			{
@@ -101,24 +100,24 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/root/Desktop/update_everything.sh",
+							"file": "/home/independent/MollyEskam-Linux/live-build-config/kali-config/common/package-lists/firmware.list.chroot",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 45,
+								"buffer_size": 848,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										11,
-										11
+										780,
+										780
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -166,7 +165,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,301,82,941,562,1920,1080",
+			"position": "0,1,0,0,0,317,317,957,797,1920,1080",
 			"project": "",
 			"replace":
 			{

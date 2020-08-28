@@ -7,4 +7,19 @@
 #if ARCHITECTURES i386 amd64
 firmware-b43legacy-installer
 firmware-b43-installer
+firmware-atheros
+firmware-amd-graphics                                             
+firmware-free                      
+firmware-intel-sound               
+firmware-intelwimax                
+firmware-ipw2x00                   
+firmware-ivtv                      
+firmware-iwlwifi                   
+firmware-libertas                  
+firmware-linux                     
+firmware-linux-free                
+firmware-linux-nonfree                 
+firmware-realtek
+firmware-misc-nonfree
+firmware-nonfree
 #endif

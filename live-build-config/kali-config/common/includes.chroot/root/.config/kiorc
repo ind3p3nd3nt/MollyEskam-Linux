@@ -1,2 +1,2 @@
-[Confirmations]
-ConfirmDelete=false
+[Executable scripts]
+behaviourOnLaunch=execute

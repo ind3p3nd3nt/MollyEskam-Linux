@@ -7,8 +7,8 @@ wheel:Vertical;NoModifier=org.kde.switchdesktop
 RightButton;NoModifier=org.kde.contextmenu
 
 [Containments][1]
-ItemGeometriesHorizontal=
-activityId=ff03d5dc-912d-4d9b-9b8c-85f2d6041efa
+ItemGeometriesHorizontal=Applet-21:1648,800,256,240,0;
+activityId=39ebbaa5-59d7-4cbb-8872-72e9bf995289
 formfactor=0
 immutability=1
 lastScreen=0
@@ -16,25 +16,37 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.slideshow
 
+[Containments][1][Applets][21]
+immutability=1
+plugin=org.kde.plasma.notes
+
+[Containments][1][Applets][21][Configuration]
+PreloadWeight=42
+
+[Containments][1][Applets][21][Configuration][General]
+noteId=ac50ef19-3a90-4213-8fbf-d87fc51cbc
+
 [Containments][1][ConfigDialog]
 DialogHeight=540
 DialogWidth=720
 
 [Containments][1][Configuration]
-PreloadWeight=26
+PreloadWeight=42
 
 [Containments][1][General]
-positions=9,17,desktop:/kcm_cron.desktop,6,1,desktop:/systemsettings.desktop,6,0,desktop:/org.kde.Help.desktop,8,1,desktop:/org.kde.discover.desktop,8,0,desktop:/gimp.desktop,2,1,desktop:/org.kde.kdf.desktop,4,2,desktop:/kali-training.desktop,2,0,desktop:/kali-fern-wifi-cracker.desktop,4,1,desktop:/sublime_text.desktop,4,0,desktop:/firewall-config.desktop,0,2,desktop:/firefox-esr.desktop,0,1,desktop:/x11vnc.desktop,2,2,desktop:/bleachbit-root.desktop,0,0,desktop:/org.kde.dolphin.desktop,7,0,desktop:/org.kde.kmag.desktop,5,2,desktop:/offsec-training.desktop,3,0,desktop:/xfce4-taskmanager.desktop,5,1,desktop:/update_everything.sh,5,0,desktop:/componentchooser.desktop,7,1,desktop:/com.obsproject.Studio.desktop,1,2,desktop:/frostwire.desktop,1,1,desktop:/org.kde.kmail2.desktop,3,2,desktop:/chiaki.desktop,1,0,desktop:/libreoffice-writer.desktop,3,1
+ToolBoxButtonState=topright
+ToolBoxButtonX=1890
+positions=2,17,desktop:/gapps,1,2,desktop:/Screenshot_20200828_023707.png,0,3,desktop:/ats.gapps,0,2,desktop:/firefox-esr.desktop,0,1,desktop:/android-studio,0,0
 sortMode=-1
 
 [Containments][1][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/backgrounds/kali/kali-mesh-16x9.png
+Image=file:///usr/share/wallpapers/KaliMesh/contents/images/1920x1080.png
 
 [Containments][1][Wallpaper][org.kde.slideshow][General]
 Blur=true
 FillMode=1
-Image=file:///var/www/html/molly/72hhy6tu4tq3117ed.jpg
-SlideInterval=10
+Image=file:///var/www/html/molly/d88f9fd15bd2998dfa585c8b3e8b868f.jpg
+SlideInterval=13
 SlidePaths=/var/www/html/molly
 SlideshowMode=4
 
@@ -52,8 +64,8 @@ immutability=1
 plugin=org.kde.plasma.icon
 
 [Containments][2][Applets][19][Configuration]
-PreloadWeight=34
-localPath=/root/.local/share/plasma_icons/firefox-esr.desktop
+PreloadWeight=42
+localPath=/home/independent/.local/share/plasma_icons/firefox-esr.desktop
 url=file:///usr/share/applications/firefox-esr.desktop
 
 [Containments][2][Applets][20]
@@ -61,18 +73,17 @@ immutability=1
 plugin=org.kde.plasma.icon
 
 [Containments][2][Applets][20][Configuration]
-PreloadWeight=34
-localPath=/root/.local/share/plasma_icons/xfce4-terminal.desktop
+PreloadWeight=42
+localPath=/home/independent/.local/share/plasma_icons/xfce4-terminal.desktop
 url=file:///usr/share/applications/xfce4-terminal.desktop
 
-[Containments][2][Applets][21]
+[Containments][2][Applets][22]
 immutability=1
 plugin=org.kde.plasma.icon
 
-[Containments][2][Applets][21][Configuration]
-PreloadWeight=34
-localPath=/root/.local/share/plasma_icons/org.kde.dolphin.desktop
-url=file:///usr/share/applications/org.kde.dolphin.desktop
+[Containments][2][Applets][22][Configuration]
+localPath=/home/independent/.local/share/plasma_icons/frostwire.desktop
+url=file:///usr/share/applications/frostwire.desktop
 
 [Containments][2][Applets][3]
 immutability=1
@@ -95,24 +106,21 @@ immutability=1
 plugin=org.kde.plasma.pager
 
 [Containments][2][Applets][4][Configuration]
-PreloadWeight=26
+PreloadWeight=42
 
 [Containments][2][Applets][5]
 immutability=1
 plugin=org.kde.plasma.taskmanager
 
 [Containments][2][Applets][5][Configuration]
-PreloadWeight=26
-
-[Containments][2][Applets][5][Configuration][General]
-launchers=applications:com.obsproject.Studio.desktop
+PreloadWeight=42
 
 [Containments][2][Applets][6]
 immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][2][Applets][6][Configuration]
-PreloadWeight=26
+PreloadWeight=100
 SystrayContainmentId=7
 
 [Containments][2][Applets][8]
@@ -120,24 +128,20 @@ immutability=1
 plugin=org.kde.plasma.digitalclock
 
 [Containments][2][Applets][8][Configuration]
-PreloadWeight=26
+PreloadWeight=47
 
 [Containments][2][Applets][9]
 immutability=1
 plugin=org.kde.plasma.showdesktop
 
 [Containments][2][Applets][9][Configuration]
-PreloadWeight=26
-
-[Containments][2][ConfigDialog]
-DialogHeight=84
-DialogWidth=1920
+PreloadWeight=42
 
 [Containments][2][Configuration]
-PreloadWeight=26
+PreloadWeight=42
 
 [Containments][2][General]
-AppletOrder=3;4;21;20;19;5;6;8;9
+AppletOrder=3;4;19;20;22;5;6;8;9
 
 [Containments][7]
 activityId=
@@ -153,74 +157,71 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][7][Applets][10][Configuration]
-PreloadWeight=26
+PreloadWeight=52
 
 [Containments][7][Applets][11]
 immutability=1
 plugin=org.kde.plasma.clipboard
 
 [Containments][7][Applets][11][Configuration]
-PreloadWeight=26
+PreloadWeight=42
 
 [Containments][7][Applets][12]
 immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][7][Applets][12][Configuration]
-PreloadWeight=26
+PreloadWeight=100
 
 [Containments][7][Applets][13]
 immutability=1
 plugin=org.kde.kdeconnect
 
 [Containments][7][Applets][13][Configuration]
-PreloadWeight=26
+PreloadWeight=42
 
 [Containments][7][Applets][14]
 immutability=1
 plugin=org.kde.plasma.keyboardindicator
 
 [Containments][7][Applets][14][Configuration]
-PreloadWeight=26
+PreloadWeight=42
 
 [Containments][7][Applets][15]
 immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][7][Applets][15][Configuration]
-PreloadWeight=26
+PreloadWeight=42
 
 [Containments][7][Applets][16]
 immutability=1
 plugin=org.kde.plasma.printmanager
 
 [Containments][7][Applets][16][Configuration]
-PreloadWeight=26
+PreloadWeight=42
 
 [Containments][7][Applets][17]
 immutability=1
 plugin=org.kde.plasma.battery
 
 [Containments][7][Applets][17][Configuration]
-PreloadWeight=26
+PreloadWeight=42
 
 [Containments][7][Applets][18]
 immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][7][Applets][18][Configuration]
-PreloadWeight=36
+PreloadWeight=64
 
 [Containments][7][Configuration]
-PreloadWeight=26
+PreloadWeight=42
 
 [Containments][7][General]
-extraItems=org.kde.plasma.printmanager,org.kde.plasma.bluetooth,org.kde.plasma.volume,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.battery,org.kde.plasma.keyboardindicator,org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.kdeconnect
-knownItems=org.kde.plasma.printmanager,org.kde.plasma.bluetooth,org.kde.plasma.volume,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.battery,org.kde.plasma.keyboardindicator,org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.kdeconnect
-
-[General]
-immutability=2
+extraItems=org.kde.plasma.volume,org.kde.plasma.clipboard,org.kde.plasma.printmanager,org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.bluetooth,org.kde.plasma.networkmanagement,org.kde.plasma.battery,org.kde.kdeconnect,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardindicator
+knownItems=org.kde.plasma.volume,org.kde.plasma.clipboard,org.kde.plasma.printmanager,org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.bluetooth,org.kde.plasma.networkmanagement,org.kde.plasma.battery,org.kde.kdeconnect,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardindicator
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/bleachbit-root.desktop,0,desktop:/org.kde.Help.desktop,0,desktop:/kali-training.desktop,0,desktop:/offsec-training.desktop,0,desktop:/gimp.desktop,0,desktop:/org.kde.kdf.desktop,0,desktop:/kcm_cron.desktop,0,desktop:/chiaki.desktop,0,desktop:/update_everything.sh,0,desktop:/frostwire.desktop,0,desktop:/xfce4-taskmanager.desktop,0,desktop:/firefox-esr.desktop,0,desktop:/com.obsproject.Studio.desktop,0,desktop:/org.kde.dolphin.desktop,0,desktop:/x11vnc.desktop,0,desktop:/org.kde.kmail2.desktop,0,desktop:/systemsettings.desktop,0,desktop:/sublime_text.desktop,0,desktop:/componentchooser.desktop,0,desktop:/org.kde.discover.desktop,0,desktop:/org.kde.kmag.desktop,0,desktop:/firewall-config.desktop,0,desktop:/libreoffice-writer.desktop,0,desktop:/kali-fern-wifi-cracker.desktop,0
+screenMapping=desktop:/ats.gapps,0,desktop:/gapps,0,desktop:/Screenshot_20200828_023707.png,0,desktop:/firefox-esr.desktop,0,desktop:/android-studio,0

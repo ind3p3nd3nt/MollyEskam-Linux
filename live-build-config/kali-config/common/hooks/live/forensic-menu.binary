@@ -10,6 +10,6 @@ label live-forensic
 	menu label Live (^forensic mode)
 	linux /live/vmlinuz
 	initrd /live/initrd.img
-	append boot=live username=kali hostname=kali systemd.swap=no noautomount
+	append boot=live username=root hostname=mollyeskam.net systemd.swap=no noautomount
 END
 
