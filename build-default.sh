@@ -13,6 +13,7 @@ ARCH=$2
 fi
 echo "Backing up sources.list";
 cp /etc/apt/sources.list /root/sources.list.bak -r;
+python3 mirrorscript-v2.py -v;
 echo "Install required components";
 apt install gnupg -y;
 echo "Adding Kali Sources";
