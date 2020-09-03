@@ -1,0 +1,5 @@
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-c311e56b-b568-4e74-a463-4f050b11042f]
+ordering=applications:steam.desktop,applications:skypeforlinux.desktop,file:///usr/share/kservices5/autostart.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-global]
+ordering=applications:steam.desktop,applications:skypeforlinux.desktop,file:///usr/share/kservices5/autostart.desktop

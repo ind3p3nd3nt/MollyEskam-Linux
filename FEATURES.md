@@ -1,5 +1,9 @@
 # Complete list of features:
- ## kde-full
+
+ ## Skype
+ ## Steam
+ ## Android mirroring tool
+ ## Device localization tool (Anti theft)
  ## obs-studio (Streaming & Recording APP)
  ## Sublime Text 3
  ## Frostwire Bittorrent Downloader (For x64 Versions ONLY)

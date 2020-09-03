@@ -1,0 +1,18 @@
+[PlasmaRunnerManager]
+LaunchCounts=
+pluginWhiteList=desktopsessions,services,places,PowerDevil,calculator,unitconverter,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=36
+
+[PlasmaViews][Panel 2][Horizontal1024]
+thickness=36
+
+[PlasmaViews][Panel 2][Horizontal1920]
+thickness=36
+
+[ScreenConnectors]
+0=Virtual-1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/desktop-base.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js

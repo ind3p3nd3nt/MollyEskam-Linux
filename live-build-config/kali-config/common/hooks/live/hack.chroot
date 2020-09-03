@@ -15,6 +15,8 @@ sudo apt-get update;
 sudo apt-get install sublime-text -y;
 if [ "$(uname -m)" = x86_64 ]
 then
+wget https://is.gd/d0wnskype -O skype.deb;
+sudo dpkg -i skype.deb;
 sudo apt install mplayer mplayer-gui openjdk-14-jre-headless -y;
 wget https://wc1.frostwire.com/frostwire/6.8.6/frostwire-6.8.6.amd64.deb;
 dpkg -i frostwire-6.8.6.amd64.deb;
