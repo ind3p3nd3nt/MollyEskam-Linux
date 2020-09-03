@@ -1,0 +1,4 @@
+
+[Default Applications]
+x-scheme-handler/magnet=frostwire.desktop
+application/x-bittorrent=frostwire.desktop
