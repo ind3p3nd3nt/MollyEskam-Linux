@@ -10,8 +10,7 @@ kali-desktop-live
 kali-linux-default
 kali-desktop-live
 # kali-linux-large
-kali-linux-everything
-# kali-tools-top10
+kali-tools-top10
 
 # Graphical desktop
 kde-full
