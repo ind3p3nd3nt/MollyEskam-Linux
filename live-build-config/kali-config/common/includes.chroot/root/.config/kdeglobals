@@ -98,7 +98,7 @@ History Items[$e]=file:///var/www/html/molly
 [General]
 ColorScheme=Kali-Dark
 Name=Kali-Dark
-dbfile=/home/independent/.mozilla/firefox/fjc7bbga.default/places.sqlite
+dbfile=/root/.mozilla/firefox/itgkud72.default/places.sqlite
 shadeSortColumn=true
 
 [Icons]

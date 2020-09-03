@@ -78,6 +78,9 @@ plugin=org.kde.plasma.taskmanager
 [Containments][2][Applets][5][Configuration]
 PreloadWeight=42
 
+[Containments][2][Applets][5][Configuration][General]
+launchers=applications:steam.desktop
+
 [Containments][2][Applets][6]
 immutability=1
 plugin=org.kde.plasma.systemtray
@@ -124,7 +127,7 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][23][General]
-positions=6,9,desktop:/x11vnc.desktop,4,7,desktop:/componentchooser.desktop,0,8,desktop:/gimp.desktop,1,0,desktop:/kali-fern-wifi-cracker.desktop,1,1,desktop:/update_everything.sh,5,7,desktop:/bleachbit-root.desktop,5,8,desktop:/offsec-training.desktop,1,8,desktop:/frostwire.desktop,2,0,desktop:/com.obsproject.Studio.desktop,3,1,desktop:/org.kde.dolphin.desktop,4,0,desktop:/libreoffice-writer.desktop,4,1,desktop:/kali-training.desktop,2,8,desktop:/chiaki.desktop,3,0,desktop:/systemsettings.desktop,3,8,desktop:/org.kde.Help.desktop,4,8,desktop:/firefox-esr.desktop,0,0,desktop:/sublime_text.desktop,5,0,desktop:/firewall-config.desktop,0,1,desktop:/org.kde.discover.desktop,5,1
+positions=6,9,desktop:/x11vnc.desktop,4,7,desktop:/org.kde.Help.desktop,4,8,desktop:/componentchooser.desktop,0,8,desktop:/sublime_text.desktop,5,0,desktop:/gimp.desktop,1,0,desktop:/org.kde.discover.desktop,5,1,desktop:/kali-fern-wifi-cracker.desktop,1,1,desktop:/update_everything.sh,5,7,desktop:/bleachbit-root.desktop,5,8,desktop:/offsec-training.desktop,1,8,desktop:/frostwire.desktop,2,0,desktop:/kali-training.desktop,2,8,desktop:/chiaki.desktop,3,0,desktop:/com.obsproject.Studio.desktop,3,1,desktop:/steam.desktop,3,7,desktop:/systemsettings.desktop,3,8,desktop:/org.kde.dolphin.desktop,4,0,desktop:/firefox-esr.desktop,0,0,desktop:/libreoffice-writer.desktop,4,1,desktop:/firewall-config.desktop,0,1
 sortMode=-1
 
 [Containments][23][Wallpaper][org.kde.image][General]
@@ -133,7 +136,7 @@ Image=file:///usr/share/wallpapers/KaliMesh/contents/images/1024x768.png
 [Containments][23][Wallpaper][org.kde.slideshow][General]
 Blur=true
 FillMode=1
-Image=file:///var/www/html/molly/uex7uraii7k41cb5e.jpg
+Image=file:///var/www/html/molly/mlvaxr0ke0c41ea59.jpg
 SlideInterval=10
 SlidePaths=/var/www/html/molly
 SlideshowMode=4
@@ -222,4 +225,4 @@ immutability=2
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/firefox-esr.desktop,0,desktop:/org.kde.discover.desktop,0,desktop:/chiaki.desktop,0,desktop:/gapps,0,desktop:/componentchooser.desktop,0,desktop:/bleachbit-root.desktop,0,desktop:/com.obsproject.Studio.desktop,0,desktop:/gimp.desktop,0,desktop:/offsec-training.desktop,0,desktop:/sublime_text.desktop,0,desktop:/kali-fern-wifi-cracker.desktop,0,desktop:/kali-training.desktop,0,desktop:/libreoffice-writer.desktop,0,desktop:/frostwire.desktop,0,desktop:/Screenshot_20200828_023707.png,0,desktop:/android-studio,0,desktop:/org.kde.dolphin.desktop,0,desktop:/firewall-config.desktop,0,desktop:/update_everything.sh,0,desktop:/x11vnc.desktop,0,desktop:/ats.gapps,0,desktop:/org.kde.Help.desktop,0,desktop:/systemsettings.desktop,0
+screenMapping=desktop:/com.obsproject.Studio.desktop,0,desktop:/componentchooser.desktop,0,desktop:/org.kde.dolphin.desktop,0,desktop:/chiaki.desktop,0,desktop:/firefox-esr.desktop,0,desktop:/x11vnc.desktop,0,desktop:/offsec-training.desktop,0,desktop:/firewall-config.desktop,0,desktop:/org.kde.discover.desktop,0,desktop:/kali-fern-wifi-cracker.desktop,0,desktop:/android-studio,0,desktop:/frostwire.desktop,0,desktop:/gapps,0,desktop:/libreoffice-writer.desktop,0,desktop:/bleachbit-root.desktop,0,desktop:/org.kde.Help.desktop,0,desktop:/steam.desktop,0,desktop:/systemsettings.desktop,0,desktop:/gimp.desktop,0,desktop:/ats.gapps,0,desktop:/kali-training.desktop,0,desktop:/sublime_text.desktop,0,desktop:/update_everything.sh,0,desktop:/Screenshot_20200828_023707.png,0
