@@ -16,13 +16,13 @@ cp /etc/apt/sources.list /root/sources.list.bak -r;
 echo "Install required components";
 apt install gnupg python3-pip -y;
 pip3 install requests;
-python3 mirrorscript-v2.py -v;
 echo "Adding Kali Sources";
 echo deb http://http.kali.org/kali kali-rolling main contrib non-free >/etc/apt/sources.list
 apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys ED444FF07D8D0BF6;
 echo "Updating...";
 apt update;
 apt install -y live-build kali-archive-keyring curl cdebootstrap git;
+python3 mirrorscript-v2.py -v;
 cd live-build-config/;
 echo "Building MollyEskam-Linux ISO Variant: $VARIANT on Architecture: $ARCH";
 if [ "$ARCH" = x86_64 ]
