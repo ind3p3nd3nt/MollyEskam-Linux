@@ -21,8 +21,8 @@ dpkg -i frostwire-6.8.6.amd64.deb;
 sudo apt install -f -y;
 sudo dpkg --add-architecture i386;
 sudo apt update;
-sudo apt install wine32 steam -y;
 fi
+sudo apt install wine32 steam -y;
 sudo useradd -m molly;
 echo molly:eskam123 | sudo chpasswd;
 sudo usermod -g sudo molly;
