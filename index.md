@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/independentcod/MollyEskam-Linux/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# OUR CORE VALUES
+## Family | Passion | Integrity | Community | Innovation
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### At Offensive Security we have a big mission: to empower the world to fight cyber threats by inspiring the Try Harder mindset. This Try Harder mindset has created a special culture here — one we are determined to protect as we grow.
 
-### Markdown
+### Our values help us do that. They are our code of conduct for engaging with each other and the world around us, and help inform our decisions. We hope you appreciate them and the behaviors that support them.
+## Family
+## Treat each other as family
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### We care about one another’s well-being and personal growth
+### We respect one another
+### We welcome new members who respect our values
+### We are authentic in our interactions
+### We work as a team and build on each other’s strengths
 
-```markdown
-Syntax highlighted code block
+## Passion
+## Be passionate in your contribution
 
-# Header 1
-## Header 2
-### Header 3
+### We take pride in what we do and give the best of ourselves every day
+### We believe in our mission, and its value to our customers and communities
+### We maintain a spirit of humility and perspective
 
-- Bulleted
-- List
+## Integrity
+## Act with integrity
 
-1. Numbered
-2. List
+### We behave honestly and ethically
+### We respect the gravity of our mission and the importance of our reputation
+### We strive for model behavior and hold ourselves to the highest standards
+### We strive for transparency whenever we can
+### We define goals that encourage team cooperation, not competition
 
-**Bold** and _Italic_ and `Code` text
+## Community
+## Foster and grow with communities
 
-[Link](url) and ![Image](src)
-```
+### We appreciate the value of communities, particularly open-source communities
+### As good community members, we contribute and cooperate to help everyone succeed
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Innovation
+## Innovate to lead the market
 
-### Jekyll Themes
+### We balance the fine line between technical excellence, good design, and time to market
+### We accept mistakes as an opportunity to learn
+### We constantly challenge ourselves to create new ideas and adapt to our world
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/independentcod/MollyEskam-Linux/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Join our family!
 
-### Support or Contact
+## If your values match ours, visit our Careers page to see how you can join the OffSec family.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://www.offensive-security.com/values/
