@@ -1,4 +1,9 @@
 ## Molly Eskam Linux Operating System / Webserver
+
+# Read our core values
+## https://independentcod.github.io/MollyEskam-Linux/
+
+
 *** INTRODUCING NEW FLAVORS ***
 #### To activate the new flavor you will need to add a new user with the command adduser then login with that username, to get the background rotator working it's pretty doable the same way as in windows 10 Molly's images are located in /var/www/html/molly directory.
 
