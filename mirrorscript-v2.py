@@ -212,7 +212,6 @@ if __name__ == "__main__":
 	new_mirror = schema + matching[0]
 	if verbose:
 		print("\t- Your new mirror: " + new_mirror + "\n")
-	os.system("python3 snrpl.py " + new_mirror)
 	filename = "./live-build-config/auto/config"
 	print("[+] PART EDITED BY @independentcod")
 	with open(filename, 'r+') as f:
