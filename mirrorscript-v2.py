@@ -1,5 +1,5 @@
 #!/usr/env/bin python3
-# Mirrorscript v2 By Hazmirul Afiq
+# Mirrorscript v2 By Hazmirul Afiq modified by @independentcod
 import subprocess, requests, re, sys
 import operator
 import argparse, apt, os
