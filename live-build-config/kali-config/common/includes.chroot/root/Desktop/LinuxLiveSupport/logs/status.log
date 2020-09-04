@@ -1,0 +1,42 @@
+
+Session Start: Fri Sep 04 10:37:37 2020
+Session Ident: Status Window
+* Connect cancelled
+-
+* Connecting to irc-3.iownyour.biz (+6697)
+-
+-Master.MollyEskam.Net- *** Looking up your hostname...
+-
+-Master.MollyEskam.Net- *** Found your hostname
+-
+Caps supported: unrealircd.org/link-security=2 unrealircd.org/plaintext-policy=user=allow,oper=deny,server=deny extended-join chghost cap-notify userhost-in-names multi-prefix away-notify sasl=EXTERNAL,PLAIN tls account-notify message-tags batch account-tag server-time echo-message labeled-response
+Caps set: extended-join chghost cap-notify userhost-in-names multi-prefix away-notify account-notify batch account-tag server-time
+-
+Welcome to the MollyEskam.Net IRC Network psyBNC_!~Elite3133@modemcable108.90-203-24.mc.videotron.ca
+Your host is Master.MollyEskam.Net, running version UnrealIRCd-5.0.3.1
+This server was created Tue Feb 11 18:38:57 2020
+-
+Master.MollyEskam.Net UnrealIRCd-5.0.3.1 iowrsxzdHtIDZRqpWGTSB lvhopsmntikraqbeIHzMQNRTOVKDdGLPZSCcf
+-
+AWAYLEN=307 CASEMAPPING=ascii CHANLIMIT=#:15 CHANMODES=beI,kLf,lH,psmntirzMQNRTOVKDdGPZSCc CHANNELLEN=32 CHANTYPES=# DEAF=d ELIST=MNUCT EXCEPTS EXTBAN=~,ptmTSOcarnqjf HCN INVEX are supported by this server
+KICKLEN=307 KNOCK MAP MAXCHANNELS=15 MAXLIST=b:60,e:60,I:60 MAXNICKLEN=30 MINNICKLEN=0 MODES=12 NAMESX NETWORK=MollyEskam.Net NICKLEN=30 PREFIX=(qaohv)~&@%+ are supported by this server
+QUITLEN=307 SAFELIST SILENCE=15 STATUSMSG=~&@%+ TARGMAX=DCCALLOW:,ISON:,JOIN:,KICK:4,KILL:,LIST:,NAMES:1,NOTICE:1,PART:,PRIVMSG:4,SAJOIN:,SAPART:,USERHOST:,USERIP:,WATCH:,WHOIS:1,WHOWAS:1 TOPICLEN=360 UHNAMES USERIP WALLCHOPS WATCH=128 WATCHOPTS=A WHOX are supported by this server
+-
+-Master.MollyEskam.Net- *** You are connected to Master.MollyEskam.Net with TLSv1.2-ECDHE-ECDSA-CHACHA20-POLY1305
+-
+There are 1 users and 17 invisible on 2 servers
+8 operator(s) online
+10 channels formed
+I have 11 clients and 0 servers
+-
+Current local  users: 11  Max: 16
+Current global users: 18  Max: 24
+-
+- Master.MollyEskam.Net Message of the Day - 
+-
+End of /MOTD command.
+-
+Local host: mollyeskam.net (127.0.0.1)
+-
+* psyBNC_ sets mode: +izR
+-
