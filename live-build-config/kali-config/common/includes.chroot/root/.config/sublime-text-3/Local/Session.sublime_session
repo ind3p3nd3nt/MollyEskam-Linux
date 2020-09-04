@@ -20,10 +20,10 @@
 			"buffers":
 			[
 				{
-					"file": "/root/MollyEskam-Linux/live-build-config/kali-config/common/hooks/live/hack.chroot",
+					"file": "/root/Desktop/LinuxLiveSupport/runsupport.sh",
 					"settings":
 					{
-						"buffer_size": 1105,
+						"buffer_size": 32,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -61,6 +61,12 @@
 			},
 			"file_history":
 			[
+				"/root/Desktop/mirror_android.sh",
+				"/root/MollyEskam-Linux/live-build-config/kali-config/common/hooks/live/hack.chroot",
+				"/root/Desktop/LinuxLiveSupport/defaults/scripts/script3.mrc",
+				"/root/MollyEskam-Linux/mirrorscript-v2.py",
+				"/root/Desktop/mirror_android",
+				"/root/MollyEskam-Linux/snrpl.py",
 				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/variant-mate/package-lists/kali.list.chroot",
 				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/variant-light/package-lists/kali.list.chroot",
 				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/variant-e17/package-lists/kali.list.chroot",
@@ -83,7 +89,7 @@
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 24.0
 			},
 			"find_in_files":
 			{
@@ -97,6 +103,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"nick"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -119,19 +126,19 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/root/MollyEskam-Linux/live-build-config/kali-config/common/hooks/live/hack.chroot",
+							"file": "/root/Desktop/LinuxLiveSupport/runsupport.sh",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1105,
+								"buffer_size": 32,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1105,
-										1105
+										32,
+										32
 									]
 								],
 								"settings":
@@ -150,7 +157,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 24.0
 			},
 			"input":
 			{
@@ -184,11 +191,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,379,224,1019,704,1024,768",
+			"position": "0,1,0,0,0,0,0,0,0,1024,768",
 			"project": "",
 			"replace":
 			{
-				"height": 0.0
+				"height": 44.0
 			},
 			"save_all_on_build": true,
 			"select_file":
