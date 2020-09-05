@@ -49,126 +49,154 @@
 
 https://www.offensive-security.com/values/
 
-# Citizen Code of Conduct
+# Kali Linux User Policy
 
-## 1. Purpose
+## In order to execute commands at a privileged level, Kali uses two methods todo so:
+#### pkexec (GUI & cli)
+#### sudo (cli)
 
-A primary goal of Molly Eskam Linux is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+### It is also worth bearing in mind, some tools may perform differently without super-user privileges. An example of this is nmap. As stated on the website:
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+## By default, Nmap performs a SYN Scan, though it substitutes a connect scan if the user does not have proper privileges to send raw packets (requires root access on Unix).
 
-We invite all those who participate in Molly Eskam Linux to help us create safe and positive experiences for everyone.
+## This means:
 
-## 2. Open [Source/Culture/Tech] Citizenship
+### SYN scan (-sS) is the default for a root user. This is quicker as it only sends a SYN packet, but it requires special capabilities in order to perform this, requiring root.
+### Connect scan (-sT) is the default for a non-root user. This will complete the 3-way handshake, as a result takes longer and uses more packets than a SYN scan.
 
-A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
+## If you wish to restore how Kali previous operated, you can install the following package:
 
-Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
+#### kali@kali:~$ sudo apt update
+#### kali@kali:~$
+#### kali@kali:~$ sudo apt install -y kali-grant-root
+#### kali@kali:~$
 
-If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
+## This policy is since Kali Linux 2020.1. Here is our previous root policy.
 
-## 3. Expected Behavior
+#### Updated on: 2020-Feb-22
+#### Author: g0tmi1k
 
-The following behaviors are expected and requested of all community members:
+# Kali Linux Network Service Policies
 
- * Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
- * Exercise consideration and respect in your speech and actions.
- * Attempt collaboration before conflict.
- * Refrain from demeaning, discriminatory, or harassing behavior and speech.
- * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
- * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+## Kali Linux is a penetration testing toolkit, and may potentially be used in “hostile” environments. Accordingly, Kali Linux deals with network services in a very different way than typical Linux distributions. Specifically, Kali does not enable any externally-listening services by default with the goal of minimizing exposure when in a default state.
+Default Disallow Policy
 
-## 4. Unacceptable Behavior
+## Kali Linux, as a standard policy, will disallow network services from persisting across reboots by default. The following example can be seen when attempting to install a tool which would by default would start a network proxy service on TCP port 3142:
 
-The following behaviors are considered harassment and are unacceptable within our community:
+#### root@kali:~# apt install -y apt-cacher-ng
+#### ...SNIP...
+#### Setting up apt-cacher-ng (0.7.11-1) ...
+#### update-rc.d: We have no instructions for the apt-cacher-ng init script.
+#### update-rc.d: It looks like a network service, we disable it.
+#### ...SNIP...
+#### root@kali:~#
 
- * Violence, threats of violence or violent language directed against another person.
- * Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
- * Posting or displaying sexually explicit or violent material.
- * Posting or threatening to post other people's personally identifying information ("doxing").
- * Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
- * Inappropriate photography or recording.
- * Inappropriate physical contact. You should have someone's consent before touching them.
- * Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
- * Deliberate intimidation, stalking or following (online or in person).
- * Advocating for, or encouraging, any of the above behavior.
- * Sustained disruption of community events, including talks and presentations.
+### Notice how the update-rc.d script disallowed persistence of the apt-cacher-ng daemon by default.
+### Overriding the Default Policy
 
-## 5. Weapons Policy
+## In certain situations, you may actually want certain services to persist over reboots. To allow for this, you can enable a service to persist through reboots using the systemctl command as follows:
 
-No weapons will be allowed at Molly Eskam Linux events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
+#### root@kali:~# systemctl enable apt-cacher-ng
+#### Synchronizing state of apt-cacher-ng.service with SysV service script with /lib/systemd/systemd-sysv-install.
+#### Executing: /lib/systemd/systemd-sysv-install enable apt-cacher-ng
+#### insserv: warning: current start runlevel(s) (empty) of script `apt-cacher-ng' overrides LSB defaults (2 3 4 5).
+#### insserv: warning: current stop runlevel(s) (0 1 2 3 4 5 6) of script `apt-cacher-ng' overrides LSB defaults (0 1 6).
 
-## 6. Consequences of Unacceptable Behavior
+### Service whitelists and blacklists
 
-Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
+#### Service whitelists and blacklists can be found in the /usr/sbin/update-rc.d file. You can edit this file to explicitly allow or deny services the ability to automatically start up at boot time.
 
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
+#### root@kali:~# tail -95 /usr/sbin/update-rc.d | more
+#### ...SNIP...
+#### __DATA__
+#### #
+#### # List of blacklisted init scripts
+#### #
+#### apache2 disabled
+#### avahi-daemon disabled
+#### bluetooth disabled
+#### cups disabled
+#### dictd disabled
+#### ssh disabled
+#### ...SNIP...
+#### #
+#### # List of whitelisted init scripts
+#### #
+#### acpid enabled
+#### acpi-fakekey enabled
+#### acpi-support enabled
+#### alsa-utils enabled
+#### anacron enabled
+#### ...SNIP...
 
-If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
+##### Updated on: 2020-Jan-10
+##### Author: g0tmi1k
 
-## 7. Reporting Guidelines
+# Penetration Testing Tools Policy
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. remigirard28@gmail.com.
+## One of the key tasks in transitioning from Backtrack Linux to Kali was combing through the packages and selecting the “best of breed” from what was available.
 
-[Reporting guidelines](https://independentcod.github.io/MollyEskam-Linux/)
+## We realize that there are many tools or scripts that can do the same job. Some are clearly better than others in some respect, some are more a matter of personal preference. With this in mind, keeping an updated, useful penetration testing tool repository is a challenging task. The Kali Development team uses some of these questions to help decide whether a specific tool should be included in Kali Linux.
 
-Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
+#### Is the tool useful/functional in a Penetration Testing environment?
+#### Does the tool overlap functionality of other existing tools?
+#### Does the licensing of the tool allow for free redistribution?
+#### How much resources does the tool require? Will it work in a “standard” environment?
 
-## 8. Addressing Grievances
+## The answers to questions such as these, among other considerations, help us come to a decision whether the tool should be included in Kali.
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify  with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. [Policy](https://www.kali.org/docs/policy/)
+## Most of the members of the Kali development team are working penetration testers, and we rely on our combined experience and expertise to select the best tools to add the most value to the Kali distribution as we continue its development.
 
-I love Molly.
+## Tools which are specifically aimed at DOS, DDOS or anonymity are rarely used in legitimate engagements, and are therefore not installed by default in Kali Linux.
+New Tool Requests
 
-## 9. Scope
+## We are always open to adding new and better tools to our distribution, but we ask that a case be made for each tool. Please put some thought and effort into the tool submission, and please do not just send the developers a one line request. Submissions for new tool requests can be made through our Kali Linux bug tracker.
 
-We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues--online and in-person--as well as in all one-on-one communications pertaining to community business.
+##### Updated on: 2019-Nov-29
+##### Author: g0tmi1k
 
-This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
+# Kali Linux Open Source Policy
 
-## 10. Contact info
+## Kali Linux is a Linux distribution that aggregates thousands of free software packages in its main section. As a Debian derivative, all of the core software in Kali Linux complies with the Debian Free Software Guidelines.
 
-remigirard28@gmail.com
+## As the specific exception to the above, Kali Linux’s non-free section contains several tools which are not open source, but which have been made available for redistribution by Offensive Security through default  or specific licensing agreements with the vendors of those tools.
 
-## 11. License and attribution
+## If you want to build a Kali derivative, you should review the license of each Kali-specific non-free package before including it in your distribution — but note that non-free packages which are imported from Debian are safe to redistribute.
 
-The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
+## More importantly, all of the specific developments in Kali Linux’s infrastructure or its integration with the included software have been put under the GNU GPL.
 
-Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+## If you want more information about the license of any given piece of software, you can either check debian/copyright in the source package or /usr/share/doc/package/copyright for a package that you have already installed.
 
-_Revision 2.3. Posted 6 March 2017._
+##### Updated on: 2019-Nov-25
+##### Author: g0tmi1k
 
-_Revision 2.2. Posted 4 February 2016._
+# Kali Linux Trademark Policy
 
-_Revision 2.1. Posted 23 June 2014._
+## Kali Linux and Offensive Security want to promote the widespread recognition of our trademarks among the Internet community however, we also need to ensure our trademarks solely identify our company and our products. At the heart of our trademark policy is trust - we want to avoid the public from being confused into believing they are dealing with Kali Linux and/or Offensive Security when, in fact, they are not. This is of particular importance with regards to the development and distribution of trusted penetration testing distribution such as Kali Linux. This document identifies and the describes our trademarks and provides guidance as to their fair use. We are generally quite accommodating when it comes to fair and honest use of our trademarks so if you are so inclined, feel free to contact us for further guidance.
 
-_Revision 2.0, adopted by the [Stumptown Syndicate](http://stumptownsyndicate.org) board on 10 January 2013. Posted 17 March 2013._
+# Kali Linux Update Policies
 
+## The majority of the packages comprising the Kali Linux distribution are drawn directly from the Debian repositories. For those packages which have been incorporated into Kali Linux “as-is” — i.e. the vast majority — security updates arrive at essentially the same time for Kali Linux as for the main Debian distribution.
 
-Kali Linux User Policy
+## Other packages are supported on a best-effort basis by the Kali Linux development team.
 
-In order to execute commands at a privileged level, Kali uses two methods todo so:
+##### Updated on: 2019-Nov-25
+##### Author: g0tmi1k
 
-    pkexec (GUI & cli)
-    sudo (cli)
+# Kali's Relationship With Debian
 
-It is also worth bearing in mind, some tools may perform differently without super-user privileges. An example of this is nmap. As stated on the website:
+## The Kali Linux distribution is based on Debian Testing. Therefore, most of the Kali packages are imported, as-is, from the Debian repositories. In some cases, newer packages may be imported from Debian Unstable or Debian Experimental, either to improve user experience, or to incorporate needed bug fixes.
+Forked Packages
 
-By default, Nmap performs a SYN Scan, though it substitutes a connect scan if the user does not have proper privileges to send raw packets (requires root access on Unix).
+## In order to implement some of Kali’s unique features, we had to fork some packages. The Kali development team strives to keep such packages to a minimum by improving the upstream packages whenever possible, either by integrating the feature directly, or by adding the required hooks so that it’s straightforward to enable the desired features without further modifying the upstream packages themselves.
 
-This means:
+## Each package forked by Kali is maintained in a Git repository with a “debian” branch so that updating a forked package can be easily done with a simple git merge debian in its master branch.
 
-    SYN scan (-sS) is the default for a root user. This is quicker as it only sends a SYN packet, but it requires special capabilities in order to perform this, requiring root.
-    Connect scan (-sT) is the default for a non-root user. This will complete the 3-way handshake, as a result takes longer and uses more packets than a SYN scan.
+# Additional Packages
 
-If you wish to restore how Kali previous operated, you can install the following package:
+## Beyond this, Kali incorporates many additional packages which are specific to the penetration testing and security auditing field. The majority of these packages constitute “free software” according to Debian’s Free Software Guidelines. Kali intends to contribute those packages back to Debian and to maintain them directly within Debian.
 
-kali@kali:~$ sudo apt update
-kali@kali:~$
-kali@kali:~$ sudo apt install -y kali-grant-root
-kali@kali:~$
+## To facilitate this, Kali packaging strives to comply with the Debian Policy and follow the best practices in use in Debian.
 
-This policy is since Kali Linux 2020.1. Here is our previous root policy.
-
-Updated on: 2020-Feb-22
-Author: g0tmi1k
+##### Updated on: 2019-Nov-25
+##### Author: g0tmi1k
