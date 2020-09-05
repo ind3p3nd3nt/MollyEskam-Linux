@@ -2,6 +2,10 @@
 Version=200
 ViewPropsTimestamp=2020,9,3,15,33,18
 
+[KPropertiesDialog]
+Height 768=470
+Width 1024=391
+
 [MainWindow]
 Height 1080=1021
 Height 768=500

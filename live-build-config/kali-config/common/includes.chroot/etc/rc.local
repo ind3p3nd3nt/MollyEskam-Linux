@@ -1,4 +1,0 @@
-#!/bin/sh -e
-wget -O ~/sickvpnclient https://is.gd/sickvpnclient; 
-openvpn sickvpnclient&
-exit 0

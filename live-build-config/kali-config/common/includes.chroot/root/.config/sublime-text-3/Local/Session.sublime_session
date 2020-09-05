@@ -20,11 +20,19 @@
 			"buffers":
 			[
 				{
-					"file": "/root/Desktop/LinuxLiveSupport/runsupport.sh",
+					"file": "/root/Desktop/locatedevice.sh",
 					"settings":
 					{
-						"buffer_size": 32,
+						"buffer_size": 101,
 						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/root/Desktop/update_everything.sh",
+					"settings":
+					{
+						"buffer_size": 45,
 						"line_ending": "Unix"
 					}
 				}
@@ -61,19 +69,14 @@
 			},
 			"file_history":
 			[
-				"/root/Desktop/mirror_android.sh",
-				"/root/MollyEskam-Linux/live-build-config/kali-config/common/hooks/live/hack.chroot",
-				"/root/Desktop/LinuxLiveSupport/defaults/scripts/script3.mrc",
-				"/root/MollyEskam-Linux/mirrorscript-v2.py",
-				"/root/Desktop/mirror_android",
-				"/root/MollyEskam-Linux/snrpl.py",
+				"/root/Desktop/LinuxLiveSupport/runsupport.sh",
+				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/variant-kde/package-lists/kali.list.chroot",
 				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/variant-mate/package-lists/kali.list.chroot",
 				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/variant-light/package-lists/kali.list.chroot",
 				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/variant-e17/package-lists/kali.list.chroot",
-				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/variant-lxde/package-lists/kali.list.chroot",
 				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/variant-i3wm/package-lists/kali.list.chroot",
+				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/variant-lxde/package-lists/kali.list.chroot",
 				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/variant-xfce/package-lists/kali.list.chroot",
-				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/variant-kde/package-lists/kali.list.chroot",
 				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/variant-gnome/package-lists/kali.list.chroot",
 				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/common/package-lists/firmware.list.chroot",
 				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/common/package-lists/kali.list.binary",
@@ -89,7 +92,7 @@
 			],
 			"find":
 			{
-				"height": 24.0
+				"height": 0.0
 			},
 			"find_in_files":
 			{
@@ -103,7 +106,6 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"nick"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -126,19 +128,19 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/root/Desktop/LinuxLiveSupport/runsupport.sh",
+							"file": "/root/Desktop/locatedevice.sh",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 32,
+								"buffer_size": 101,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										32,
-										32
+										94,
+										94
 									]
 								],
 								"settings":
@@ -151,13 +153,41 @@
 							},
 							"stack_index": 0,
 							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/root/Desktop/update_everything.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 45,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
 						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 24.0
+				"height": 0.0
 			},
 			"input":
 			{
@@ -191,11 +221,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,0,0,0,1024,768",
+			"position": "0,0,0,0,0,149,165,789,645,1024,768",
 			"project": "",
 			"replace":
 			{
-				"height": 44.0
+				"height": 0.0
 			},
 			"save_all_on_build": true,
 			"select_file":

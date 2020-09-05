@@ -1,0 +1,1 @@
+[1712:0904/221332.851473:FATAL:electron_main_delegate.cc(223)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
