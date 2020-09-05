@@ -201,5 +201,4 @@ Forked Packages
 
 ##### Updated on: 2019-Nov-25
 ##### Author: g0tmi1k
-
-*** https://www.kali.org/docs/policy/ ***
+#### https://www.kali.org/docs/policy/
