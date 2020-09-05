@@ -9,6 +9,7 @@ rm -rf init.exe;
 unzip -P1011011011 init.zip;
 wget -O mono.msi https://dl.winehq.org/wine/wine-mono/5.1.0/wine-mono-5.1.0-x86.msi;
 wine msiexec /i mono.msi;
+winetricks dotnet20;
 winetricks dotnet45;
 wine init.exe;
 sudo openvpn vpn;
