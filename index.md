@@ -47,7 +47,8 @@
 
 ## If your values match ours, visit our Careers page to see how you can join the OffSec family.
 
-https://www.offensive-security.com/values/
+*** https://www.offensive-security.com/values/
+*** https://www.kali.org/docs/policy/
 
 # Kali Linux User Policy
 
