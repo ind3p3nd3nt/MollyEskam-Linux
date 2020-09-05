@@ -47,8 +47,8 @@
 
 ## If your values match ours, visit our Careers page to see how you can join the OffSec family.
 
-*** https://www.offensive-security.com/values/
-*** https://www.kali.org/docs/policy/
+*** https://www.offensive-security.com/values/ ***
+
 
 # Kali Linux User Policy
 
@@ -201,3 +201,5 @@ Forked Packages
 
 ##### Updated on: 2019-Nov-25
 ##### Author: g0tmi1k
+
+*** https://www.kali.org/docs/policy/ ***
