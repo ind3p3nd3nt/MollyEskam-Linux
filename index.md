@@ -203,10 +203,7 @@ Forked Packages
 ##### Author: g0tmi1k
 #### https://www.kali.org/docs/policy/
 
-## Molly Eskam Linux Operating System / Webserver
-
-## Read our core values
-#### https://independentcod.github.io/MollyEskam-Linux/
+## About Molly Eskam Linux Distribution
 
 ##### Installing this distribution will transform your computer into a website (with SSL) that can be published on the internet (www.mollyeskam.net as default template). 
 
@@ -234,7 +231,7 @@ Forked Packages
 
 [![How to install MollyEskam-Linux in A REAL PC](https://img.youtube.com/vi/rr-4EITXS-c/0.jpg)](https://www.youtube.com/watch?v=rr-4EITXS-c)
 
-# Installation instructions
+## Installation instructions
 #####  1. Download this program: https://www.balena.io/etcher/
 #####  2. Download MollyEskam-Linux flavor of your choice.
 #####  3. Use the program to flash it into an USB Drive (4GB minimum)
@@ -244,7 +241,7 @@ Forked Packages
 
 [![How to install MollyEskam-Linux in VMWare Player](https://img.youtube.com/vi/3ZokZJZp8Jg/0.jpg)](https://www.youtube.com/watch?v=3ZokZJZp8Jg)
 
-# BUILD THE ISO YOURSELF
+## BUILD THE ISO YOURSELF
 ### Enter these commands in the termnial:
 #### git clone https://github.com/independentcod/MollyEskam-Linux && sh MollyEskam-Linux/build-default.sh [ variant [ arch] ]
 ##### PLEASE NOTE build will take several hours to complete depending on your CPU power, memory limit and internet speed.
