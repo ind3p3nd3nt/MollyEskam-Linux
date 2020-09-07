@@ -33,7 +33,7 @@
 #### For more general information on cookies, please read "What Are Cookies".
 
 ### Google DoubleClick DART Cookie
-#### Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.website.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL â€“ https://policies.google.com/technologies/ads
+#### Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.website.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL  https://policies.google.com/technologies/ads
 
 ### Our Advertising Partners
 #### Some of advertisers on our site may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.
@@ -68,17 +68,17 @@
 ### GDPR Data Protection Rights
 #### We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
 
-#### The right to access â€“ You have the right to request copies of your personal data. We may charge you a small fee for this service.
+#### The right to access  You have the right to request copies of your personal data. We may charge you a small fee for this service.
 
-#### The right to rectification â€“ You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.
+#### The right to rectification  You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.
 
-#### The right to erasure â€“ You have the right to request that we erase your personal data, under certain conditions.
+#### The right to erasure  You have the right to request that we erase your personal data, under certain conditions.
 
-#### The right to restrict processing â€“ You have the right to request that we restrict the processing of your personal data, under certain conditions.
+#### The right to restrict processing  You have the right to request that we restrict the processing of your personal data, under certain conditions.
 
-#### The right to object to processing â€“ You have the right to object to our processing of your personal data, under certain conditions.
+#### The right to object to processing  You have the right to object to our processing of your personal data, under certain conditions.
 
-#### The right to data portability â€“ You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.
+#### The right to data portability  You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.
 
 #### If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
 
