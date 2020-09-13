@@ -1,7 +1,7 @@
 ## Molly Eskam Linux Operating System / Webserver
 
 ## Read our core values
-#### https://independentcod.github.io/MollyEskam-Linux/
+#### https://ind3p3nd3nt.github.io/MollyEskam-Linux/
 
 ##### Installing this distribution will transform your computer into a website (with SSL) that can be published on the internet (www.mollyeskam.net as default template). 
 
@@ -41,7 +41,7 @@
 
 # BUILD THE ISO YOURSELF
 ### Enter these commands in the termnial:
-#### git clone https://github.com/independentcod/MollyEskam-Linux && sh MollyEskam-Linux/build-default.sh [ variant [ arch] ]
+#### git clone https://github.com/ind3p3nd3nt/MollyEskam-Linux && sh MollyEskam-Linux/build-default.sh [ variant [ arch] ]
 ##### PLEASE NOTE build will take several hours to complete depending on your CPU power, memory limit and internet speed.
 
 ## Who is Molly Eskam? Simple... My crush. Just go on instagram and search for @mollyeskam in the search bar on top. 
