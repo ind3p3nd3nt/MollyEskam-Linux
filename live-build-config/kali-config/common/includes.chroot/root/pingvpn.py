@@ -71,7 +71,7 @@ if __name__ == "__main__":
 		sys.exit("[!] Must run as root/sudo\n")
 	print("[+] Getting VPN list ...")
 	response = requests.get('https://pastebin.com/raw/6bUSXSrY', verify=False).text
-	urls = re.findall(r'://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+',response)
+	urls = re.findall(r"\^*.*\.sickvpn\.vip+",response)
 	print(urls)
 	# Banner
 	print("#")
@@ -80,7 +80,7 @@ if __name__ == "__main__":
 	print("#\n")
 	# Preparing
 	https = True
-	schema = 'https' if https else 'http'
+	schema = 'https://' if https else 'http://'
 	new_urls = fetch_url(urls,schema)
 
 	VPNs = {}
@@ -103,8 +103,7 @@ if __name__ == "__main__":
 	sorted_VPNs = sorted(VPNs.items(), key=operator.itemgetter(1))
 	print("[+] Fastest VPN: " + str(sorted_VPNs[0]))
 	print("[+] Preparing ...")
-	matching = [s for s in urls if sorted_VPNs[0][0] in s]
-	new_VPN = matching[0]
+	new_VPN = str(sorted_VPNs[1])
 	filename = "sickvpn.conf"
 	with open(filename, 'r+') as f:
 	    text = f.read()
