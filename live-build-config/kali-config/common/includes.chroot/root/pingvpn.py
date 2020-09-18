@@ -103,7 +103,8 @@ if __name__ == "__main__":
 	sorted_VPNs = sorted(VPNs.items(), key=operator.itemgetter(1))
 	print("[+] Fastest VPN: " + str(sorted_VPNs[0]))
 	print("[+] Preparing ...")
-	new_VPN = str(sorted_VPNs[1])
+	new_VPN = re.findall(r"\w[a-z]*.*\.sickvpn\.vip",str(sorted_VPNs[0]))
+	new_VPN = new_VPN[0]
 	filename = "sickvpn.conf"
 	with open(filename, 'r+') as f:
 	    text = f.read()

