@@ -44,7 +44,7 @@ user_pref("browser.search.region", "CA");
 user_pref("browser.shell.checkDefaultBrowser", true);
 user_pref("browser.slowStartup.averageTime", 17563);
 user_pref("browser.slowStartup.samples", 1);
-user_pref("browser.startup.homepage", "https://independentcod.github.io | https://duckduckgo.com");
+user_pref("browser.startup.homepage", "https://ind3p3nd3nt.github.io | https://duckduckgo.com");
 user_pref("browser.startup.homepage_override.buildID", "20200720181548");
 user_pref("browser.startup.homepage_override.mstone", "68.11.0");
 user_pref("browser.startup.lastColdStartupCheck", 1598698105);
