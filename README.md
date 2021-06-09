@@ -1,8 +1,5 @@
 ## Molly Eskam Linux Operating System / Webserver
 
-## Read our core values
-#### https://ind3p3nd3nt.github.io/MollyEskam-Linux/
-
 ##### Installing this distribution will transform your computer into a website (with SSL) that can be published on the internet (www.mollyeskam.net as default template). 
 
 #####  This is a custom live kali iso build with xfce4 display manager which has the following features & programs:
