@@ -1,2 +1,2 @@
 #!/bin/bash
-xfce4-terminal -e "/sbin/update";
+xterm -e "/sbin/update"

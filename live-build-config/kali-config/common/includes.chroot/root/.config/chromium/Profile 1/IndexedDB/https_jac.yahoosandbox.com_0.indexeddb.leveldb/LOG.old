@@ -1,0 +1,6 @@
+2021/09/02-03:53:00.135 1284 Creating DB /root/.config/chromium/Profile 1/IndexedDB/https_jac.yahoosandbox.com_0.indexeddb.leveldb since it was missing.
+2021/09/02-03:53:00.141 1284 Reusing MANIFEST /root/.config/chromium/Profile 1/IndexedDB/https_jac.yahoosandbox.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/02-03:53:04.269 1282 Level-0 table #5: started
+2021/09/02-03:53:04.271 1282 Level-0 table #5: 371 bytes OK
+2021/09/02-03:53:04.272 1282 Delete type=0 #3
+2021/09/02-03:53:04.272 1282 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

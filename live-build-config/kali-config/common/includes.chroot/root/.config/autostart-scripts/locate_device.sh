@@ -1,0 +1,1 @@
+/root/Desktop/locate_device.sh

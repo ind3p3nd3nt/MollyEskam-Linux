@@ -1,0 +1,34 @@
+{
+   "background": {
+      "scripts": [ "data/panel/utils.js", "common.js" ]
+   },
+   "browser_action": {
+      "default_popup": "data/panel/index.html"
+   },
+   "default_locale": "en",
+   "description": "Manage and switch between multiple proxy types (SOCKS, PAC, and Direct) with profile support",
+   "homepage_url": "https://add0n.com/proxy-switcher.html",
+   "icons": {
+      "128": "data/icons/128.png",
+      "16": "data/icons/16.png",
+      "24": "data/icons/24.png",
+      "256": "data/icons/256.png",
+      "32": "data/icons/32.png",
+      "48": "data/icons/48.png",
+      "64": "data/icons/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAt+TSPmuLXOHSoJmN59X5QsaRt9ksE3SOOxL//FVHdtwWpfUVk+3mnsaKm650QKk+w1KlXceH/nSiwmTJEVBX3VUnaYqt1xwY+QHD819Qje1JlDCfifVNfCuncDG5PUq0NYWbkEHWCEzASIvfx6O8IDw0EBrPV3tROWWYW8QwDSW0a2kMDiR+GHOurEJzVn5n9S9Z8diR3/qRI/xWvcUM/8VtKinG11rg6dmLeA1yJqJbELlY6Q0uRSmLZn+pG8TED7Qu72ZgZyNRM7k5jgBeDznSRU3Uw7dUSQhEuTbXAVjEMuEZJ6d7WUM9obTWV0GOozMqQl8b3N+k1utfIKNtxwIDAQAB",
+   "manifest_version": 2,
+   "name": "Proxy Switcher and Manager",
+   "optional_permissions": [ "*://*/*", "webRequest" ],
+   "options_ui": {
+      "chrome_style": true,
+      "page": "data/options/index.html"
+   },
+   "permissions": [ "storage", "notifications", "proxy" ],
+   "storage": {
+      "managed_schema": "schema.json"
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.5.1"
+}

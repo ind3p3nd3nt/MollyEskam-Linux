@@ -2,14 +2,15 @@
 	"folder_history":
 	[
 	],
-	"last_version": 3211,
+	"last_version": 4113,
 	"last_window_id": 1,
 	"log_indexing": false,
 	"settings":
 	{
-	},
-	"windows":
-	[
+		"new_window_full_screen": false,
+		"new_window_height": 0.0,
+		"new_window_maximized": true,
+		"new_window_settings":
 		{
 			"auto_complete":
 			{
@@ -17,27 +18,6 @@
 				[
 				]
 			},
-			"buffers":
-			[
-				{
-					"file": "/root/Desktop/locatedevice.sh",
-					"settings":
-					{
-						"buffer_size": 101,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/root/Desktop/update_everything.sh",
-					"settings":
-					{
-						"buffer_size": 45,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
 			"build_system_choices":
 			[
 			],
@@ -69,6 +49,23 @@
 			},
 			"file_history":
 			[
+				"/root/Desktop/locatedevice.sh",
+				"/root/s.reg",
+				"/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/kali-config/common/includes.chroot/root/s.reg",
+				"/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/kali-config/common/includes.chroot/etc/live/config.conf.d/kali.conf",
+				"/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/kali-config/common/hooks/live/hack.chroot",
+				"/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/kali-config/common/includes.chroot/root/Desktop/locatedevice.sh",
+				"/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/kali-config/common/includes.chroot/root/Desktop/update_everything.sh",
+				"/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/kali-config/common/includes.chroot/sbin/update",
+				"/root/Desktop/update_everything.sh",
+				"/root/Desktop/locate_device.sh",
+				"/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/kali-config/common/package-lists/linux-headers.list.chroot",
+				"/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/kali-config/common/includes.chroot/usr/lib/live/config/0031-mollypass",
+				"/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/kali-config/common/hooks/live/installmollyweb.chroot",
+				"/root/client.ovpn",
+				"/root/BlueRDPSploit/bluerdpsploit",
+				"/root/Desktop/res.txt",
+				"/media/root/C2CA41BFCA41B089/Users/Admin/Recent/ind3p3nd3nt.cer.lnk",
 				"/root/Desktop/LinuxLiveSupport/runsupport.sh",
 				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/variant-kde/package-lists/kali.list.chroot",
 				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/variant-mate/package-lists/kali.list.chroot",
@@ -115,52 +112,274 @@
 				[
 				],
 				"reverse": false,
+				"scrollbar_highlights": true,
 				"show_context": true,
 				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/auto/config",
+					"settings":
+					{
+						"buffer_size": 4252,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/build.sh",
+					"settings":
+					{
+						"buffer_size": 7269,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							3,
+							12,
+							"left_delete",
+							null,
+							"DAAAAKgAAAAAAAAAqAAAAAAAAAABAAAAcKcAAAAAAAAApwAAAAAAAAABAAAAb6YAAAAAAAAApgAAAAAAAAABAAAAdKUAAAAAAAAApQAAAAAAAAABAAAAa6QAAAAAAAAApAAAAAAAAAABAAAAc6MAAAAAAAAAowAAAAAAAAABAAAAZaIAAAAAAAAAogAAAAAAAAABAAAARKEAAAAAAAAAoQAAAAAAAAABAAAAL6AAAAAAAAAAoAAAAAAAAAABAAAAdJ8AAAAAAAAAnwAAAAAAAAABAAAAb54AAAAAAAAAngAAAAAAAAABAAAAb50AAAAAAAAAnQAAAAAAAAABAAAAcg",
+							"AQAAAAAAAAABAAAAqQAAAAAAAACpAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							4,
+							1,
+							"left_delete",
+							null,
+							"AQAAAJwAAAAAAAAAnAAAAAAAAAABAAAALw",
+							"AQAAAAAAAAABAAAAnQAAAAAAAACdAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							5,
+							1,
+							"insert",
+							{
+								"characters": "./"
+							},
+							"AgAAAJwAAAAAAAAAnQAAAAAAAAAAAAAAnQAAAAAAAACeAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAnAAAAAAAAACcAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							6,
+							1,
+							"insert",
+							{
+								"characters": "iso"
+							},
+							"AwAAAJ4AAAAAAAAAnwAAAAAAAAAAAAAAnwAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAAKEAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAngAAAAAAAACeAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							7,
+							1,
+							"insert",
+							{
+								"characters": "/"
+							},
+							"AQAAAKEAAAAAAAAAogAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAoQAAAAAAAAChAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/media/root/Nouveau volume/git/MollyEskam-Linux/build-default.sh",
+					"settings":
+					{
+						"buffer_size": 990,
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/root/Desktop/locatedevice.sh",
+				"/root/s.reg",
+				"/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/kali-config/common/includes.chroot/root/s.reg",
+				"/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/kali-config/common/includes.chroot/etc/live/config.conf.d/kali.conf",
+				"/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/kali-config/common/hooks/live/hack.chroot",
+				"/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/kali-config/common/includes.chroot/root/Desktop/locatedevice.sh",
+				"/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/kali-config/common/includes.chroot/root/Desktop/update_everything.sh",
+				"/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/kali-config/common/includes.chroot/sbin/update",
+				"/root/Desktop/update_everything.sh",
+				"/root/Desktop/locate_device.sh",
+				"/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/kali-config/common/package-lists/linux-headers.list.chroot",
+				"/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/kali-config/common/includes.chroot/usr/lib/live/config/0031-mollypass",
+				"/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/kali-config/common/hooks/live/installmollyweb.chroot",
+				"/root/client.ovpn",
+				"/root/BlueRDPSploit/bluerdpsploit",
+				"/root/Desktop/res.txt",
+				"/media/root/C2CA41BFCA41B089/Users/Admin/Recent/ind3p3nd3nt.cer.lnk",
+				"/root/Desktop/LinuxLiveSupport/runsupport.sh",
+				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/variant-kde/package-lists/kali.list.chroot",
+				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/variant-mate/package-lists/kali.list.chroot",
+				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/variant-light/package-lists/kali.list.chroot",
+				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/variant-e17/package-lists/kali.list.chroot",
+				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/variant-i3wm/package-lists/kali.list.chroot",
+				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/variant-lxde/package-lists/kali.list.chroot",
+				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/variant-xfce/package-lists/kali.list.chroot",
+				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/variant-gnome/package-lists/kali.list.chroot",
+				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/common/package-lists/firmware.list.chroot",
+				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/common/package-lists/kali.list.binary",
+				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/common/package-lists/standard.list.chroot",
+				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/installer-default/packages",
+				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/common/hooks/live/forensic-menu.binary",
+				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/common/hooks/live/accessibility-menu.binary",
+				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/common/includes.chroot/etc/live/config.conf.d/kali.conf",
+				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/common/includes.chroot/usr/lib/live/config/1165-fix-openssh-server",
+				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/common/includes.chroot/usr/lib/live/config/0031-mollypass",
+				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/common/includes.installer/preseed.cfg",
+				"/home/independent/MollyEskam-Linux/live-build-config/kali-config/common/hooks/live/persistence-menu.binary"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
 				"whole_word": false,
 				"wrap": true
 			},
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/root/Desktop/locatedevice.sh",
+							"file": "/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/auto/config",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 101,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										94,
-										94
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/root/Desktop/update_everything.sh",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 45,
+								"buffer_size": 4252,
 								"regions":
 								{
 								},
@@ -173,13 +392,77 @@
 								],
 								"settings":
 								{
-									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1350.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/build.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7269,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										162,
+										162
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/media/root/Nouveau volume/git/MollyEskam-Linux/build-default.sh",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 990,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										381,
+										342
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
 							"type": "text"
 						}
 					]
@@ -221,7 +504,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,149,165,789,645,1024,768",
+			"position": "0,1,0,0,0,0,0,0,0,1920,1200,0",
 			"project": "",
 			"replace":
 			{

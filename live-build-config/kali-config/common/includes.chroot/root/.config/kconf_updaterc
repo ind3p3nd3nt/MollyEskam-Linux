@@ -10,45 +10,65 @@ ctime=1598423608
 done=akregator-15.08-kickoff
 mtime=1589232840
 
+[breezetobreezelight.upd]
+ctime=1630676694
+done=BreezeToBreezeLight
+mtime=1620128613
+
+[delete_cursor_old_default_size.upd]
+ctime=1630676747
+done=DeleteCursorOldDefaultSize
+mtime=1620132570
+
 [disable_kmix.upd]
-ctime=1598904300
+ctime=1630677060
 done=PlasmaVolume_DisableKMixAutostart
-mtime=1578411731
+mtime=1620131940
 
 [filepicker.upd]
-ctime=1598904300
+ctime=1630676679
 done=filepicker-remove-old-previews-entry
-mtime=1589617751
+mtime=1623486382
 
 [fonts_akregator.upd]
-ctime=1598904300
+ctime=1630676742
 done=Plasma_Fonts_Akregator
-mtime=1578411635
+mtime=1620131651
 
 [fonts_global.upd]
-ctime=1598904300
+ctime=1630676742
 done=Fonts_Global
-mtime=1578411635
+mtime=1620131651
 
 [fonts_global_toolbar.upd]
-ctime=1598904300
+ctime=1630676742
 done=Fonts_Global_Toolbar
-mtime=1578411635
+mtime=1620131651
 
 [fonts_kate.upd]
-ctime=1598904300
+ctime=1630676742
 done=Plasma_Fonts_Kate
-mtime=1578411635
+mtime=1620131651
 
 [gtkbreeze5.5.upd]
 ctime=1598904300
 done=GTKBreeze5.5
 mtime=1578410302
 
+[gtkconfig.upd]
+ctime=1630676939
+done=gtk_theme,dont_use_gtk_css_for_window_decorations
+mtime=1620129307
+
 [gwenview.upd]
-ctime=1598904300
+ctime=1630676912
 done=SideBar_StatusBar_Rename,ImageView_AlphaBackgroundMode_Update,DeleteThumbnailSetting_Rename
-mtime=1596698240
+mtime=1628113975
+
+[icons_remove_effects.upd]
+ctime=1630676747
+done=IconsRemoveEffects
+mtime=1620132570
 
 [kaddressbook.upd]
 ctime=1598494069
@@ -65,13 +85,23 @@ ctime=1598423608
 mtime=1596614535
 
 [kcalcrc.upd]
-ctime=1598904300
-mtime=1596614052
+ctime=1630676933
+mtime=1628114082
+
+[kcminputrc_fix_botched_5_21_0.upd]
+ctime=1630676745
+done=kcminputrc_fix_botched_5_21_0_pre,kcminputrc_fix_botched_5_21_0
+mtime=1620131331
+
+[kcminputrc_repeat.upd]
+ctime=1630676745
+done=kcminputrc_migrate_key_repeat
+mtime=1620131331
 
 [kde4breeze.upd]
-ctime=1598904300
+ctime=1630676694
 done=5.0KDE4Breeze_2
-mtime=1578410195
+mtime=1620128613
 
 [kget.upd]
 ctime=1598423608
@@ -120,29 +150,49 @@ done=korganizer-15.08-kickoff
 mtime=1589232937
 
 [krdb_libpathwipe.upd]
-ctime=1598904300
+ctime=1630676747
 done=LibraryPathWipeOut
-mtime=1578411538
+mtime=1620132570
 
 [krunnerglobalshortcuts.upd]
-ctime=1598904300
+ctime=1630676747
 done=5.17KRunnerGlobalShortcuts
-mtime=1578411968
+mtime=1620132570
+
+[krunnerhistory.upd]
+ctime=1630676747
+done=5.21KRunnerHistory
+mtime=1620132570
 
 [krunnerplugins.upd]
-ctime=1598904300
+ctime=1630524621
 done=5.9KRunnerPlugins
-mtime=1578411968
+mtime=1609850579
 
 [kscreenlocker.upd]
-ctime=1598904300
+ctime=1630676699
 done=0.1-autolock
-mtime=1578410975
+mtime=1620130146
+
+[ksmserver_update_loginMode_value.upd]
+ctime=1630676745
+done=ksmserver_update_loginMode_value_default_enum
+mtime=1620131331
 
 [kwin.upd]
-ctime=1598904300
-done=replace-scalein-with-scale,port-minimizeanimation-effect-to-js,port-scale-effect-to-js,port-dimscreen-effect-to-js,auto-bordersize
-mtime=1578411178
+ctime=1630676703
+done=replace-scalein-with-scale,port-minimizeanimation-effect-to-js,port-scale-effect-to-js,port-dimscreen-effect-to-js,auto-bordersize,animation-speed,desktop-grid-click-behavior,no-swap-encourage
+mtime=1620130672
+
+[kwinrules.upd]
+ctime=1630676703
+done=replace-placement-string-to-enum
+mtime=1620130672
+
+[kxkb_variants.upd]
+ctime=1630676745
+done=split-variants
+mtime=1620131331
 
 [languagetool_kmail.upd]
 ctime=1598494082
@@ -154,9 +204,9 @@ done=messageviewer_move_gravatar
 mtime=1589180272
 
 [okular.upd]
-ctime=1598904300
-done=annotation-toolbar
-mtime=1596753259
+ctime=1630676934
+done=annotation-toolbar,builtin-annotations
+mtime=1628251082
 
 [pimsettingexporter.upd]
 ctime=1598423608
@@ -168,15 +218,30 @@ ctime=1598494234
 done=sieveeditor-15.08-kickoff
 mtime=1589232968
 
+[spectacle_clipboard.upd]
+ctime=1630676936
+done=clipboard-settings-change
+mtime=1628114018
+
 [spectacle_newConfig.upd]
-ctime=1598904300
+ctime=1630676936
 done=spectacle-new-config
-mtime=1596613913
+mtime=1628114018
 
 [spectacle_shortcuts.upd]
-ctime=1598904300
+ctime=1630676936
 done=spectacle-migrate-shortcuts
-mtime=1596613913
+mtime=1628114018
+
+[style_widgetstyle_default_breeze.upd]
+ctime=1630676747
+done=StyleWidgetStyleDefaultBreeze
+mtime=1620132570
+
+[webenginepart.upd]
+ctime=1630676928
+done=MoveNonPasswordStorableSites
+mtime=1628113708
 
 [webengineurlinterceptoradblock.upd]
 ctime=1598494082

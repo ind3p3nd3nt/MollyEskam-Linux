@@ -1,0 +1,15 @@
+2021/09/02-03:27:42.033 68e Reusing MANIFEST /root/.config/chromium/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/02-03:27:42.033 68e Recovering log #7
+2021/09/02-03:27:42.033 68e Reusing old log /root/.config/chromium/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000007.log 
+2021/09/02-03:28:14.498 7dd Level-0 table #12: started
+2021/09/02-03:28:14.500 7dd Level-0 table #12: 734 bytes OK
+2021/09/02-03:28:14.502 7dd Delete type=0 #7
+2021/09/02-03:28:14.502 7dd Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/09/02-03:28:14.502 7dd Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x019\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00H\x00i\x00t\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00m\x00a\x00i\x00l\x00.\x00g\x00o\x00o\x00g\x00l\x00e\x00.\x00c\x00o\x00m\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/' @ 1311 : 1
+2021/09/02-03:28:14.502 7dd Compacting 1@1 + 1@2 files
+2021/09/02-03:28:14.508 7dd Generated table #13@1: 102 keys, 62645 bytes
+2021/09/02-03:28:14.508 7dd Compacted 1@1 + 1@2 files => 62645 bytes
+2021/09/02-03:28:14.511 7dd compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/09/02-03:28:14.511 7dd Delete type=2 #9
+2021/09/02-03:28:14.511 7dd Delete type=2 #12
+2021/09/02-03:28:14.512 7dd Manual compaction at level-1 from '\x00\x01\x01\x02\x019\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00H\x00i\x00t\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00m\x00a\x00i\x00l\x00.\x00g\x00o\x00o\x00g\x00l\x00e\x00.\x00c\x00o\x00m\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/' @ 1311 : 1 .. (end); will stop at (end)

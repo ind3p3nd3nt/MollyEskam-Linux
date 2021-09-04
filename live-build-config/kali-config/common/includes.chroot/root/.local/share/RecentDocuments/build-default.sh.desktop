@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-shellscript
+Name=build-default.sh
+Type=Link
+URL[$e]=file:///media/root/Nouveau volume/git/MollyEskam-Linux/build-default.sh
+X-KDE-LastOpenedWith=sublime_text

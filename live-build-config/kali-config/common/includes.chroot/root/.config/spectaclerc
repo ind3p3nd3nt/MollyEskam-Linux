@@ -1,2 +1,8 @@
+[$Version]
+update_info=spectacle_clipboard.upd:clipboard-settings-change
+
 [GuiConfig]
 window-position=45,27
+
+[Save]
+lastSaveLocation=file:///root/Screenshot_20210901_154058.png

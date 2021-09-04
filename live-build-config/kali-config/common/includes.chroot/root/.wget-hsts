@@ -1,0 +1,12 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+ia803204.us.archive.org	0	0	1626176623	15724800
+raw.githubusercontent.com	0	0	1630750595	31536000
+go.skype.com	0	1	1626176481	31536000
+get.skype.com	0	1	1626176481	31536000
+repo.skype.com	0	0	1626176482	31536000
+ia801902.us.archive.org	0	0	1626176611	15724800
+archive.org	0	0	1626176623	15724800
+github.com	0	1	1630758542	31536000
+github-releases.githubusercontent.com	0	0	1630758542	31536000

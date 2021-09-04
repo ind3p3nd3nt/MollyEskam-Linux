@@ -975,10 +975,15 @@ Key=Meta+E
 Type=SHORTCUT
 Uuid={6fb53a4d-e495-4b59-aba4-a577987150dd}
 
+[DirSelect Dialog]
+DirSelectDialog Size[$d]
+History Items[$d]
+
 [General]
 BrowserApplication[$d]
 ColorScheme[$d]
 Name[$d]
+dbfile[$d]
 fixed[$d]
 shadeSortColumn[$d]
 widgetStyle[$d]
@@ -996,9 +1001,29 @@ WindowsCount=0
 Theme[$d]
 
 [KDE]
+ColorScheme[$d]
 LookAndFeelPackage[$d]
 contrast[$d]
 widgetStyle[$d]
+
+[KFileDialog Settings]
+Allow Expansion[$d]
+Automatically select filename extension[$d]
+Breadcrumb Navigation[$d]
+Decoration position[$d]
+LocationCombo Completionmode[$d]
+PathCombo Completionmode[$d]
+Show Bookmarks[$d]
+Show Full Path[$d]
+Show Inline Previews[$d]
+Show Preview[$d]
+Show Speedbar[$d]
+Show hidden files[$d]
+Sort by[$d]
+Sort directories first[$d]
+Sort reversed[$d]
+Speedbar Width[$d]
+View Style[$d]
 
 [Main]
 AlreadyImported=defaults,konsole,konqueror_gestures_kde321,kde32b1

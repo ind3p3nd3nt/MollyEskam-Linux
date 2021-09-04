@@ -1,0 +1,103 @@
+{
+   "checksum": "0f5a26601e30a68dc499a7242d9ef696",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "0",
+            "guid": "991c6ec6-4063-4c17-9a30-90b2186e0c41",
+            "id": "5",
+            "name": "Kali Linux",
+            "type": "url",
+            "url": "https://www.kali.org/"
+         }, {
+            "date_added": "0",
+            "guid": "51eaed68-6e88-4295-ba20-4f00e398bd38",
+            "id": "6",
+            "name": "Kali Training",
+            "type": "url",
+            "url": "https://kali.training/"
+         }, {
+            "date_added": "0",
+            "guid": "997c572e-45dd-45c5-887b-3016f0fd5518",
+            "id": "7",
+            "name": "Kali Tools",
+            "type": "url",
+            "url": "https://tools.kali.org/"
+         }, {
+            "date_added": "0",
+            "guid": "57dfcbfd-60a0-4d16-a1b7-eb4201505cc7",
+            "id": "8",
+            "name": "Kali Docs",
+            "type": "url",
+            "url": "https://www.kali.org/docs/"
+         }, {
+            "date_added": "0",
+            "guid": "b432a982-02d6-4920-a6d5-fbf1a84abb73",
+            "id": "9",
+            "name": "Kali Forums",
+            "type": "url",
+            "url": "https://forums.kali.org/"
+         }, {
+            "date_added": "0",
+            "guid": "d1a6d0c1-9ef0-4452-9432-2159e5d8b644",
+            "id": "10",
+            "name": "NetHunter",
+            "type": "url",
+            "url": "https://www.kali.org/kali-linux-nethunter/"
+         }, {
+            "date_added": "0",
+            "guid": "90c65c2a-6520-4b79-8698-03bed5a7c791",
+            "id": "11",
+            "name": "Offensive Security",
+            "type": "url",
+            "url": "https://www.offensive-security.com/"
+         }, {
+            "date_added": "0",
+            "guid": "6176a067-555e-4708-9746-0b84e560cf90",
+            "id": "12",
+            "name": "Exploit-DB",
+            "type": "url",
+            "url": "https://www.exploit-db.com/"
+         }, {
+            "date_added": "0",
+            "guid": "8d320342-7421-497e-8298-5a34949e9b7c",
+            "id": "13",
+            "name": "GHDB",
+            "type": "url",
+            "url": "https://www.exploit-db.com/google-hacking-database"
+         }, {
+            "date_added": "0",
+            "guid": "ba86fab7-2eb0-4c5e-98fd-fff0352ca6d0",
+            "id": "14",
+            "name": "MSFU",
+            "type": "url",
+            "url": "http://www.offensive-security.com/metasploit-unleashed/"
+         } ],
+         "date_added": "13275044238931246",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13275044238931249",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13275044238931251",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,8 @@
+2021/09/02-03:53:04.361 1284 Reusing MANIFEST /root/.config/chromium/Profile 1/IndexedDB/https_jac.yahoosandbox.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/02-03:53:04.361 1284 Recovering log #4
+2021/09/02-03:53:04.361 1284 Reusing old log /root/.config/chromium/Profile 1/IndexedDB/https_jac.yahoosandbox.com_0.indexeddb.leveldb/000004.log 
+2021/09/02-03:53:21.740 1284 Level-0 table #8: started
+2021/09/02-03:53:21.740 1284 Level-0 table #8: 0 bytes OK
+2021/09/02-03:53:21.743 1284 Delete type=0 #4
+2021/09/02-03:53:21.743 1284 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/09/02-03:53:21.743 1284 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,35 @@
+{
+   "modeAuto": {
+      "message": "Auto-Detect - automatically detect the proxy settings for your network"
+   },
+   "modeAutoMSG": {
+      "message": "Automatically detect the proxy settings for your network"
+   },
+   "modeDirect": {
+      "message": "No Proxy - directly connected to network which bypasses system proxy"
+   },
+   "modeDirectMSG": {
+      "message": "Directly connect to network and bypass system proxy"
+   },
+   "modeFixed": {
+      "message": "Manual Proxy - proxy server for each scheme (HTTP, HTTPS, and FTP) is defined in the settings page"
+   },
+   "modeFixedMSG": {
+      "message": "Define proxy server for each protocol"
+   },
+   "modePACD": {
+      "message": "PAC Script - inline-script mode"
+   },
+   "modePACMSG": {
+      "message": "Proxy is determined from a PAC script"
+   },
+   "modePACU": {
+      "message": "PAC Script - "
+   },
+   "modeSystem": {
+      "message": "System - use system-wide proxy"
+   },
+   "modeSystemMSG": {
+      "message": "Use system-wide proxy"
+   }
+}

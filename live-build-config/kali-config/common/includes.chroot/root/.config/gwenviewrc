@@ -1,0 +1,40 @@
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+LVDS-1 Height 1200=480
+LVDS-1 Height 1920x1200=1141
+LVDS-1 Width 1920=759
+LVDS-1 Width 1920x1200=1920
+LVDS-1 XPosition=5
+LVDS-1 XPosition 1920x1200=0
+LVDS-1 YPosition=23
+LVDS-1 YPosition 1920x1200=23
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAARHAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Desktop/JESSYERINN/web/jpg/p1wkrumrnzzrrcqu.jpg
+File10[$e]=/home/molly/Desktop/mollyof/-1_nyypri24qx8qoho8zbirvipllnishfv3ypnegbza1ccc.jpg
+File2[$e]=$HOME/Desktop/JESSYERINN/web/jpg/odvzlnuquavhzilq.jpg
+File3[$e]=$HOME/Desktop/JESSYERINN/web/jpg/muxgvgvk-ce0mrqf.jpg
+File4[$e]=$HOME/Desktop/JESSYERINN/web/jpg/a6cxxcpuicpvqwls.jpg
+File5[$e]=$HOME/Desktop/JESSYERINN/web/jpg/5fqgtkutg-mn33-6.jpg
+File6[$e]=$HOME/Desktop/JESSYERINN/web/jpg/vksysujc1n-wsg-k.jpg
+File7[$e]=$HOME/Desktop/JESSYERINN/web/jpg/77q04sfsa_wlvzgc.jpg
+File8[$e]=$HOME/Desktop/JESSYERINN/web/jpg/k1okpr3yydpjkqeo.jpg
+File9[$e]=$HOME/Desktop/JESSYERINN/web/jpg/vtac2ebng8lvduto.jpg
+Name1[$e]=p1wkrumrnzzrrcqu.jpg
+Name10[$e]=-1_nyypri24qx8qoho8zbirvipllnishfv3ypnegbza1ccc.jpg
+Name2[$e]=odvzlnuquavhzilq.jpg
+Name3[$e]=muxgvgvk-ce0mrqf.jpg
+Name4[$e]=a6cxxcpuicpvqwls.jpg
+Name5[$e]=5fqgtkutg-mn33-6.jpg
+Name6[$e]=vksysujc1n-wsg-k.jpg
+Name7[$e]=77q04sfsa_wlvzgc.jpg
+Name8[$e]=k1okpr3yydpjkqeo.jpg
+Name9[$e]=vtac2ebng8lvduto.jpg
+
+[SideBar]
+SideBarSplitterSizes=242,514

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-shellscript
+Name=config
+Type=Link
+URL[$e]=file:///media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/auto/config
+X-KDE-LastOpenedWith=sublime_text
