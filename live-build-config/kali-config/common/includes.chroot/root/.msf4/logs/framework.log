@@ -1,7 +1,0 @@
-[09/03/2021 19:07:42] [e(0)] core: Failed to connect to the database: No database YAML file
-[09/03/2021 19:07:42] [d(0)] core: Created user based module store
-[09/03/2021 19:07:45] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
-[09/03/2021 19:07:45] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
-[09/03/2021 19:07:45] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
-[09/03/2021 19:07:46] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
-[09/03/2021 19:07:46] [d(0)] core: HistoryManager.push_context name: :msfconsole

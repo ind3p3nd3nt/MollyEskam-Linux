@@ -1,0 +1,41 @@
+[1]
+Active=2
+Tabs=[{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":1}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":2}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":3}]}]
+
+[Number]
+NumberOfSessions=3
+NumberOfWindows=1
+
+[Session1]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/Kali-Dark.profile
+RemoteTab=(%u) %H
+SessionGuid={59297253-025c-4c1c-bb90-19d8c9cd618c}
+TabColor=
+WorkingDir[$e]=$HOME/Desktop
+
+[Session2]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/Kali-Dark.profile
+RemoteTab=(%u) %H
+SessionGuid={185219ff-bf11-4cdf-865e-7dc1ca7a802e}
+TabColor=
+WorkingDir[$e]=$HOME/Desktop
+
+[Session3]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/Kali-Dark.profile
+RemoteTab=(%u) %H
+SessionGuid={df49eb66-1bcc-4b78-97ea-2a8c937a8844}
+TabColor=
+WorkingDir[$e]=$HOME/Desktop
+
+[WindowProperties1]
+ClassName=Konsole::MainWindow
+LVDS-1 Window-Maximized 1920x1200=true
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAfsAAAAcAFMAUwBIAE0AYQBuAGEAZwBlAHIARABvAGMAawAAAAAA/////wAAANUBAAADAAAHgAAABCkAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAgAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAAAAAAcAHMAZQBzAHMAaQBvAG4AVABvAG8AbABiAGEAcgEAAAU3/////wAAAAAAAAAA
+StatusBar=Disabled

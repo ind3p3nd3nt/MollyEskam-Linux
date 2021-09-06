@@ -1,0 +1,1 @@
+/root/init/locatedevice.sh

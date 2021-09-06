@@ -1,5 +1,5 @@
 [PlasmaRunnerManager]
-LaunchCounts=2 shell_chromium --no-sandbox,1 services_applications:chromium.desktop,2 services_applications:httraqt.desktop,1 locations_file:///var/www/html/molly
+LaunchCounts=1 services_applications:chromium.desktop,2 services_applications:httraqt.desktop,1 locations_file:///var/www/html/molly,1 services_applications:wireshark.desktop,1 services_applications:bleachbit-root.desktop,4 shell_chromium --no-sandbox
 
 [PlasmaRunnerManager][History]
 c311e56b-b568-4e74-a463-4f050b11042f=

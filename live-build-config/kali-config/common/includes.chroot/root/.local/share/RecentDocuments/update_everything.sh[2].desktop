@@ -1,6 +1,0 @@
-[Desktop Entry]
-Icon=application-x-shellscript
-Name=update_everything.sh
-Type=Link
-URL[$e]=file:$HOME/Desktop/update_everything.sh
-X-KDE-LastOpenedWith=sublime_text

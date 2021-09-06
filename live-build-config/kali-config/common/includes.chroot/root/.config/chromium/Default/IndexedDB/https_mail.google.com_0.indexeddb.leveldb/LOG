@@ -1,6 +1,3 @@
-2021/09/02-04:18:52.100 5c6 Creating DB /root/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb since it was missing.
-2021/09/02-04:18:52.105 5c6 Reusing MANIFEST /root/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/09/02-04:20:42.566 5c6 Level-0 table #5: started
-2021/09/02-04:20:42.567 5c6 Level-0 table #5: 2116 bytes OK
-2021/09/02-04:20:42.569 5c6 Delete type=0 #3
-2021/09/02-04:20:42.569 5c6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/09/05-06:00:01.013 a51 Reusing MANIFEST /root/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/05-06:00:01.013 a51 Recovering log #4
+2021/09/05-06:00:01.013 a51 Reusing old log /root/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 

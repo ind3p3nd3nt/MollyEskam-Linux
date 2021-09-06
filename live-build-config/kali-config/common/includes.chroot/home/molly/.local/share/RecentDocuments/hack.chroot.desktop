@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-shellscript
+Name=hack.chroot
+Type=Link
+URL[$e]=file:///media/molly/Nouveau volume/git/MollyEskam-Linux/live-build-config/kali-config/common/hooks/live/hack.chroot
+X-KDE-LastOpenedWith=sublime_text

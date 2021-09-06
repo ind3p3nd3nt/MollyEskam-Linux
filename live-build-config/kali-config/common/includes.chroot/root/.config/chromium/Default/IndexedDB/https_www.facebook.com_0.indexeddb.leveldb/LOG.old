@@ -1,0 +1,6 @@
+2021/09/05-07:48:09.724 b00 Creating DB /root/.config/chromium/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb since it was missing.
+2021/09/05-07:48:09.728 b00 Reusing MANIFEST /root/.config/chromium/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/05-07:48:41.750 b01 Level-0 table #5: started
+2021/09/05-07:48:41.752 b01 Level-0 table #5: 1230 bytes OK
+2021/09/05-07:48:41.754 b01 Delete type=0 #3
+2021/09/05-07:48:41.754 b01 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

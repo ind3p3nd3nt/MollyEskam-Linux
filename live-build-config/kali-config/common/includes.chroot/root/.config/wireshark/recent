@@ -1,4 +1,4 @@
-# Recent settings file for Wireshark 3.4.4.
+# Recent settings file for Wireshark 3.4.8.
 #
 # This file is regenerated each time Wireshark is quit
 # and when changing configuration profile.
@@ -86,7 +86,7 @@ column.width:
         %d, -1,
         %p, -1,
         %L, -1,
-        %i, -1
+        %i, 1304
 
 # Open conversation dialog tabs.
 # List of conversation names, e.g. "TCP", "IPv6".

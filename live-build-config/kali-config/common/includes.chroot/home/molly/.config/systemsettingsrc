@@ -1,0 +1,10 @@
+[KFileDialog Settings]
+Recent Files[$e]=locatedevice.sh,file:$HOME/init/locatedevice.sh
+Recent URLs[$e]=file:$HOME/init/
+detailViewIconSize=16
+
+[MainWindow]
+LVDS-1 Height 1920x1200=700
+LVDS-1 Width 1920x1200=1020
+LVDS-1 XPosition 1920x1200=5
+LVDS-1 YPosition 1920x1200=23

@@ -1,0 +1,1 @@
+/home/molly/init/locatedevice.sh

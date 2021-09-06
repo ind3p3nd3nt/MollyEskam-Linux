@@ -1,0 +1,43 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[General]
+LastUsedVersion=210800
+SideBarPage=folders
+
+[ImageView]
+ThumbnailSplitterSizes=807,231
+
+[MainWindow]
+LVDS-1 Window-Maximized 1920x1200=true
+LVDS-1 XPosition 1920x1200=0
+LVDS-1 YPosition 1920x1200=23
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAQ9AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Desktop/mollyof/zcamxnhxede1knoupfp3yitzrbaepmjigxh7vkcfzfwedcc.jpg
+File10[$e]=$HOME/Desktop/mollyof/ucsv0s4c99w610adc.jpg
+File2[$e]=$HOME/Desktop/mollyof/zbxu2lw397v61c62e.jpg
+File3[$e]=$HOME/Desktop/mollyof/z3bmdhyx59w613200.jpg
+File4[$e]=$HOME/Desktop/mollyof/yxhoeb45pkw6118c1.jpg
+File5[$e]=$HOME/Desktop/mollyof/yykom61q25p614106.jpg
+File6[$e]=$HOME/Desktop/mollyof/yiikrctcjdj61706d.jpg
+File7[$e]=$HOME/Desktop/mollyof/wxux8kq1bcl61197d.jpg
+File8[$e]=$HOME/Desktop/mollyof/vqigks8xrz071fa7b.jpg
+File9[$e]=$HOME/Desktop/mollyof/vj9bo2duv7x61d6ae.jpg
+Name1[$e]=zcamxnhxede1knoupfp3yitzrbaepmjigxh7vkcfzfwedcc.jpg
+Name10[$e]=ucsv0s4c99w610adc.jpg
+Name2[$e]=zbxu2lw397v61c62e.jpg
+Name3[$e]=z3bmdhyx59w613200.jpg
+Name4[$e]=yxhoeb45pkw6118c1.jpg
+Name5[$e]=yykom61q25p614106.jpg
+Name6[$e]=yiikrctcjdj61706d.jpg
+Name7[$e]=wxux8kq1bcl61197d.jpg
+Name8[$e]=vqigks8xrz071fa7b.jpg
+Name9[$e]=vj9bo2duv7x61d6ae.jpg
+
+[SideBar]
+IsVisible ViewMode=true
+SideBarSplitterSizes=227,1692

@@ -1,6 +1,0 @@
-[Desktop Entry]
-Icon=text-x-ms-regedit
-Name=s.reg
-Type=Link
-URL[$e]=file:$HOME/s.reg
-X-KDE-LastOpenedWith=sublime_text

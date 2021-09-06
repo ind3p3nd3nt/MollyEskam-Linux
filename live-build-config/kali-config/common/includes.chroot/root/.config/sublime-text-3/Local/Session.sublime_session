@@ -50,6 +50,9 @@
 			"file_history":
 			[
 				"/root/Desktop/locatedevice.sh",
+				"/media/root/Nouveau volume/git/MollyEskam-Linux/build-default.sh",
+				"/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/build.sh",
+				"/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/auto/config",
 				"/root/s.reg",
 				"/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/kali-config/common/includes.chroot/root/s.reg",
 				"/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/kali-config/common/includes.chroot/etc/live/config.conf.d/kali.conf",
@@ -189,18 +192,21 @@
 			"buffers":
 			[
 				{
-					"file": "/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/auto/config",
+					"file": "/root/init/locatedevice.sh",
+					"redo_stack":
+					[
+						[
+							5,
+							1,
+							"cut",
+							null,
+							"AQAAADwBAAAAAAAAXQEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAPAEAAAAAAAA8AQAAAAAAAAAAAAAAAPC/"
+						]
+					],
 					"settings":
 					{
-						"buffer_size": 4252,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/build.sh",
-					"settings":
-					{
-						"buffer_size": 7269,
+						"buffer_size": 363,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					},
@@ -208,61 +214,98 @@
 					[
 						[
 							3,
-							12,
-							"left_delete",
-							null,
-							"DAAAAKgAAAAAAAAAqAAAAAAAAAABAAAAcKcAAAAAAAAApwAAAAAAAAABAAAAb6YAAAAAAAAApgAAAAAAAAABAAAAdKUAAAAAAAAApQAAAAAAAAABAAAAa6QAAAAAAAAApAAAAAAAAAABAAAAc6MAAAAAAAAAowAAAAAAAAABAAAAZaIAAAAAAAAAogAAAAAAAAABAAAARKEAAAAAAAAAoQAAAAAAAAABAAAAL6AAAAAAAAAAoAAAAAAAAAABAAAAdJ8AAAAAAAAAnwAAAAAAAAABAAAAb54AAAAAAAAAngAAAAAAAAABAAAAb50AAAAAAAAAnQAAAAAAAAABAAAAcg",
-							"AQAAAAAAAAABAAAAqQAAAAAAAACpAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							4,
 							1,
 							"left_delete",
 							null,
-							"AQAAAJwAAAAAAAAAnAAAAAAAAAABAAAALw",
-							"AQAAAAAAAAABAAAAnQAAAAAAAACdAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							5,
-							1,
-							"insert",
-							{
-								"characters": "./"
-							},
-							"AgAAAJwAAAAAAAAAnQAAAAAAAAAAAAAAnQAAAAAAAACeAAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAnAAAAAAAAACcAAAAAAAAAAAAAAAAAPC/"
+							"AQAAAGgBAAAAAAAAaAEAAAAAAAABAAAACg",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABpAQAAAAAAAGkBAAAAAAAAAAAAAAAA8L8"
 						],
 						[
 							6,
 							1,
 							"insert",
 							{
-								"characters": "iso"
+								"characters": ";"
 							},
-							"AwAAAJ4AAAAAAAAAnwAAAAAAAAAAAAAAnwAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAAKEAAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAngAAAAAAAACeAAAAAAAAAAAAAAAAAPC/"
+							"AQAAAMEAAAAAAAAAwgAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADBAAAAAAAAAMEAAAAAAAAAAAAAAAAA8L8"
 						],
 						[
-							7,
+							9,
 							1,
 							"insert",
 							{
-								"characters": "/"
+								"characters": ";"
 							},
-							"AQAAAKEAAAAAAAAAogAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAoQAAAAAAAAChAAAAAAAAAAAAAAAAAPC/"
+							"AQAAAA8BAAAAAAAAEAEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAPAQAAAAAAAA8BAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							12,
+							1,
+							"insert",
+							{
+								"characters": ";"
+							},
+							"AQAAADsBAAAAAAAAPAEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA7AQAAAAAAADsBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							13,
+							2,
+							"left_delete",
+							null,
+							"AgAAADsBAAAAAAAAOwEAAAAAAAABAAAAOzoBAAAAAAAAOgEAAAAAAAABAAAAIA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA8AQAAAAAAADwBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							14,
+							1,
+							"insert",
+							{
+								"characters": ";"
+							},
+							"AQAAADoBAAAAAAAAOwEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA6AQAAAAAAADoBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							17,
+							1,
+							"insert",
+							{
+								"characters": ";"
+							},
+							"AQAAAFsBAAAAAAAAXAEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABbAQAAAAAAAFsBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							20,
+							1,
+							"insert",
+							{
+								"characters": ";"
+							},
+							"AQAAAGsBAAAAAAAAbAEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABrAQAAAAAAAGsBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							21,
+							2,
+							"left_delete",
+							null,
+							"AgAAAGsBAAAAAAAAawEAAAAAAAABAAAAO2oBAAAAAAAAagEAAAAAAAABAAAAIA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABsAQAAAAAAAGwBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							22,
+							1,
+							"insert",
+							{
+								"characters": ";"
+							},
+							"AQAAAGoBAAAAAAAAawEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABqAQAAAAAAAGoBAAAAAAAAAAAAAAAA8L8"
 						]
-					]
-				},
-				{
-					"file": "/media/root/Nouveau volume/git/MollyEskam-Linux/build-default.sh",
-					"settings":
-					{
-						"buffer_size": 990,
-						"line_ending": "Unix"
-					},
-					"undo_stack":
-					[
 					]
 				}
 			],
@@ -299,6 +342,9 @@
 			"file_history":
 			[
 				"/root/Desktop/locatedevice.sh",
+				"/media/root/Nouveau volume/git/MollyEskam-Linux/build-default.sh",
+				"/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/build.sh",
+				"/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/auto/config",
 				"/root/s.reg",
 				"/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/kali-config/common/includes.chroot/root/s.reg",
 				"/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/kali-config/common/includes.chroot/etc/live/config.conf.d/kali.conf",
@@ -375,82 +421,20 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/auto/config",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 4252,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/ShellScript/Bash.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 1350.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"stack_multiselect": false,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/media/root/Nouveau volume/git/MollyEskam-Linux/live-build-config/build.sh",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 7269,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										162,
-										162
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/ShellScript/Bash.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"stack_multiselect": false,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/media/root/Nouveau volume/git/MollyEskam-Linux/build-default.sh",
+							"file": "/root/init/locatedevice.sh",
 							"selected": true,
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 990,
+								"buffer_size": 363,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										381,
-										342
+										316,
+										316
 									]
 								],
 								"settings":

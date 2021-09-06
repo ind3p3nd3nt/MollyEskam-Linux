@@ -1,6 +1,0 @@
-[Desktop Entry]
-Icon=application-x-shellscript
-Name=locatedevice.sh
-Type=Link
-URL[$e]=file:$HOME/Desktop/locatedevice.sh
-X-KDE-LastOpenedWith=sublime_text

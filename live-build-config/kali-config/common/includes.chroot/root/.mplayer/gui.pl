@@ -1,2 +1,0 @@
-/media/root/C2CA41BFCA41B089/Users/Admin/Videos
-1080P_4000K_201284401.mp4

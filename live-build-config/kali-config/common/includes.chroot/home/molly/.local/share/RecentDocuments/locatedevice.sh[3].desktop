@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-shellscript
+Name=locatedevice.sh
+Type=Link
+URL[$e]=file:$HOME/init/locatedevice.sh
+X-KDE-LastOpenedWith=systemsettings

@@ -29,5 +29,5 @@ fi
 apt install wine32 steam -y;
 useradd -m molly;
 echo molly:eskam123 |  chpasswd;
-usermod -g  molly;
+usermod -g sudo molly;
 echo root:toor |  chpasswd;

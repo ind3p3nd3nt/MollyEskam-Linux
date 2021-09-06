@@ -6,9 +6,6 @@ LVDS-1 Width 1920x1200=438
 LaunchCounts=3 services_applications:httraqt.desktop,1 services_applications:kali-zaproxy.desktop,1 services_applications:wireshark.desktop
 pluginWhiteList=desktopsessions,services,places,PowerDevil,calculator,unitconverter,shell,bookmarks,recentdocuments,locations,baloosearch
 
-[PlasmaTransientsConfig]
-PreloadWeight=42
-
 [PlasmaViews][Panel 2][Defaults]
 thickness=36
 

@@ -1,0 +1,17 @@
+[1]
+Active Tab Index=0
+Tab Count=1
+Tab Data 0=\x00\x00\x00\x02\x00\x00\x00\x00\x17file:///home/molly/init\x00\x00\x00\x00\x01\x00\x00\x00'file:///home/molly/init/locatedevice.sh\x00\x00\x00\x01\x00\x00\x00'file:///home/molly/init/locatedevice.sh\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+Tab Data 1=\x00\x00\x00\x02\x00\x00\x00\x00sfile:///media/molly/Nouveau%20volume/git/MollyEskam-Linux/live-build-config/kali-config/common/includes.chroot/root\x00\x00\x00\x00\x01\x00\x00\x00}file:///media/molly/Nouveau%20volume/git/MollyEskam-Linux/live-build-config/kali-config/common/includes.chroot/root/Downloads\x00\x00\x00\x01\x00\x00\x00}file:///media/molly/Nouveau%20volume/git/MollyEskam-Linux/live-build-config/kali-config/common/includes.chroot/root/Downloads\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+
+[WindowProperties1]
+ClassName=DolphinMainWindow
+LVDS-1 Height 1200=500
+LVDS-1 Width 1920=750
+LVDS-1 Window-Maximized 1920x1200=true
+LVDS-1 XPosition=0
+LVDS-1 YPosition=23
+MenuBar=Disabled
+ObjectName=Dolphin#1
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC4AAAEPfwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAuAAAEPQAAAF0BAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAoBAAADAAAGxwAABD0AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=

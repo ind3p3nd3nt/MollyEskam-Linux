@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=inode-directory
+Name=mollyof
+Type=Link
+URL[$e]=file:$HOME/Desktop/mollyof
+X-KDE-LastOpenedWith=org.kde.dolphin

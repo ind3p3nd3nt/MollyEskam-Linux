@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=inode-directory
+Name=MollyEskamOF
+Type=Link
+URL[$e]=file:$HOME/Desktop/MollyEskamOF
+X-KDE-LastOpenedWith=org.kde.dolphin

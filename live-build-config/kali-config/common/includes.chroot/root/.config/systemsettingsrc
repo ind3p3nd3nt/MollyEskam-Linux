@@ -1,6 +1,6 @@
 [KFileDialog Settings]
-Recent Files[$e]=update_everything.sh,file:$HOME/Desktop/locatedevice.sh,file:$HOME/Desktop/update_everything.sh
-Recent URLs[$e]=file:$HOME/Desktop/,file:$HOME/
+Recent Files[$e]=update_everything.sh,file:$HOME/init/locatedevice.sh,file:$HOME/Desktop/update_everything.sh
+Recent URLs[$e]=file:$HOME/Desktop/,file:$HOME/,file:$HOME/init/
 detailViewIconSize=16
 
 [MainWindow]

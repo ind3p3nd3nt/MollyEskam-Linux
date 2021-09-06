@@ -1,0 +1,736 @@
+Xsession: X session started for molly at Mon 06 Sep 2021 11:42:47 AM EDT
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1001/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/molly/.Xauthority
+localuser:molly being added to access control list
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/libexec/kf5/klauncher'
+kdeinit5: Launched KLauncher, pid = 5202, result = 0
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+kdeinit5: opened connection to :0
+Icon theme "elementary" not found.
+Icon theme "gnome" not found.
+kdeinit5: Got SETENV 'XCURSOR_SIZE=24' from launcher.
+kdeinit5: Got SETENV 'GTK_RC_FILES=/etc/gtk/gtkrc:/home/molly/.gtkrc:/home/molly/.config/gtkrc' from launcher.
+kdeinit5: Got SETENV 'GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/molly/.gtkrc-2.0:/home/molly/.config/gtkrc-2.0' from launcher.
+org.kde.plasma.session: process job  "kcminit_startup" finished with exit code  0
+xsettingsd: Loaded 0 settings from /home/molly/.config/xsettingsd/xsettingsd.conf
+xsettingsd: Created window 0x1400001 on screen 0 with timestamp 1930976
+xsettingsd: Selection _XSETTINGS_S0 is owned by 0x0
+xsettingsd: Took ownership of selection _XSETTINGS_S0
+xsettingsd: Reloading configuration
+xsettingsd: Loaded 11 settings from /home/molly/.config/xsettingsd/xsettingsd.conf
+xsettingsd: Reloading configuration
+xsettingsd: Loaded 11 settings from /home/molly/.config/xsettingsd/xsettingsd.conf
+xsettingsd: Reloading configuration
+xsettingsd: Loaded 11 settings from /home/molly/.config/xsettingsd/xsettingsd.conf
+xsettingsd: Reloading configuration
+xsettingsd: Loaded 11 settings from /home/molly/.config/xsettingsd/xsettingsd.conf
+xsettingsd: Reloading configuration
+xsettingsd: Loaded 11 settings from /home/molly/.config/xsettingsd/xsettingsd.conf
+xsettingsd: Reloading configuration
+xsettingsd: Loaded 11 settings from /home/molly/.config/xsettingsd/xsettingsd.conf
+xsettingsd: Reloading configuration
+xsettingsd: Loaded 11 settings from /home/molly/.config/xsettingsd/xsettingsd.conf
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/close.svg', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/close.svgz', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/close.svg', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/close.svgz', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/close.svg', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/close.svgz', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/close.svg', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/close.svgz', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/close.svg', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/close.svgz', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/close.svg', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/close.svgz', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/maximize.svg', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/maximize.svgz', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/maximize.svg', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/maximize.svgz', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/maximize.svg', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/maximize.svgz', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/maximize.svg', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/maximize.svgz', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/maximize.svg', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/maximize.svgz', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/maximize.svg', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/maximize.svgz', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/maximize.svg', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/maximize.svgz', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/maximize.svg', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/maximize.svgz', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/maximize.svg', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/maximize.svgz', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/maximize.svg', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/maximize.svgz', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/maximize.svg', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/maximize.svgz', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/maximize.svg', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/maximize.svgz', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/minimize.svg', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/minimize.svgz', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/minimize.svg', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/minimize.svgz', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/minimize.svg', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/minimize.svgz', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/minimize.svg', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/minimize.svgz', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/minimize.svg', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/minimize.svgz', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/minimize.svg', because: No such file or directory
+qt.svg: Cannot open file '/home/molly/.local/share/aurorae/themes/Kali-Dark/minimize.svgz', because: No such file or directory
+xsettingsd: Reloading configuration
+xsettingsd: Loaded 11 settings from /home/molly/.config/xsettingsd/xsettingsd.conf
+xsettingsd: Reloading configuration
+xsettingsd: Loaded 11 settings from /home/molly/.config/xsettingsd/xsettingsd.conf
+Installing the delayed initialization callback.
+bluedevil: Created
+Icon theme "elementary" not found.
+Icon theme "gnome" not found.
+kwin_xkbcommon: XKB: /usr/share/X11/locale/iso8859-1/Compose:39:34: string literal is not a valid UTF-8 string
+kwin_xkbcommon: XKB: /usr/share/X11/locale/iso8859-1/Compose:40:29: string literal is not a valid UTF-8 string
+kwin_xkbcommon: XKB: /usr/share/X11/locale/iso8859-1/Compose:41:29: string literal is not a valid UTF-8 string
+kwin_xkbcommon: XKB: /usr/share/X11/locale/iso8859-1/Compose:42:29: string literal is not a valid UTF-8 string
+kwin_xkbcommon: XKB: /usr/share/X11/locale/iso8859-1/Compose:43:29: string literal is not a valid UTF-8 string
+kwin_xkbcommon: XKB: /usr/share/X11/locale/iso8859-1/Compose:44:27: string literal is not a valid UTF-8 string
+kwin_xkbcommon: XKB: /usr/share/X11/locale/iso8859-1/Compose:45:27: string literal is not a valid UTF-8 string
+kwin_xkbcommon: XKB: /usr/share/X11/locale/iso8859-1/Compose:46:27: string literal is not a valid UTF-8 string
+kwin_xkbcommon: XKB: /usr/share/X11/locale/iso8859-1/Compose:47:27: string literal is not a valid UTF-8 string
+kwin_xkbcommon: XKB: /usr/share/X11/locale/iso8859-1/Compose:48:29: string literal is not a valid UTF-8 string
+kwin_xkbcommon: XKB: /usr/share/X11/locale/iso8859-1/Compose:49:29: string literal is not a valid UTF-8 string
+kwin_xkbcommon: XKB: /usr/share/X11/locale/iso8859-1/Compose:49:29: too many errors
+kwin_xkbcommon: XKB: /usr/share/X11/locale/iso8859-1/Compose:49:29: failed to parse file
+kwin_xkbcommon: XKB: inet:232:58: unrecognized keysym "XF86BrightnessAuto"
+kwin_xkbcommon: XKB: inet:233:58: unrecognized keysym "XF86DisplayOff"
+kwin_xkbcommon: XKB: inet:237:58: unrecognized keysym "XF86Info"
+kwin_xkbcommon: XKB: inet:240:58: unrecognized keysym "XF86AspectRatio"
+kwin_xkbcommon: XKB: inet:241:58: unrecognized keysym "XF86DVD"
+kwin_xkbcommon: XKB: inet:242:58: unrecognized keysym "XF86Audio"
+kwin_xkbcommon: XKB: inet:245:58: unrecognized keysym "XF86ChannelUp"
+kwin_xkbcommon: XKB: inet:246:58: unrecognized keysym "XF86ChannelDown"
+kwin_xkbcommon: XKB: inet:248:58: unrecognized keysym "XF86Break"
+kwin_xkbcommon: XKB: inet:249:58: unrecognized keysym "XF86VideoPhone"
+kwin_xkbcommon: XKB: inet:253:58: unrecognized keysym "XF86ZoomReset"
+kwin_xkbcommon: XKB: inet:255:58: unrecognized keysym "XF86Editor"
+kwin_xkbcommon: XKB: inet:257:58: unrecognized keysym "XF86GraphicsEditor"
+kwin_xkbcommon: XKB: inet:258:58: unrecognized keysym "XF86Presentation"
+kwin_xkbcommon: XKB: inet:259:58: unrecognized keysym "XF86Database"
+kwin_xkbcommon: XKB: inet:261:58: unrecognized keysym "XF86Voicemail"
+kwin_xkbcommon: XKB: inet:262:58: unrecognized keysym "XF86Addressbook"
+kwin_xkbcommon: XKB: inet:264:58: unrecognized keysym "XF86DisplayToggle"
+kwin_xkbcommon: XKB: inet:265:58: unrecognized keysym "XF86SpellCheck"
+kwin_xkbcommon: XKB: inet:271:58: unrecognized keysym "XF86ContextMenu"
+kwin_xkbcommon: XKB: inet:272:58: unrecognized keysym "XF86MediaRepeat"
+kwin_xkbcommon: XKB: inet:273:58: unrecognized keysym "XF8610ChannelsUp"
+kwin_xkbcommon: XKB: inet:274:58: unrecognized keysym "XF8610ChannelsDown"
+kwin_xkbcommon: XKB: inet:275:58: unrecognized keysym "XF86Images"
+kwin_xkbcommon: XKB: inet:276:58: unrecognized keysym "XF86NotificationCenter"
+kwin_xkbcommon: XKB: inet:277:58: unrecognized keysym "XF86PickupPhone"
+kwin_xkbcommon: XKB: inet:278:58: unrecognized keysym "XF86HangupPhone"
+kwin_xkbcommon: XKB: inet:279:58: unrecognized keysym "XF86Fn"
+kwin_xkbcommon: XKB: inet:280:58: unrecognized keysym "XF86Fn_Esc"
+kwin_xkbcommon: XKB: inet:281:58: unrecognized keysym "XF86FnRightShift"
+kwin_xkbcommon: XKB: inet:292:58: unrecognized keysym "XF86Numeric0"
+kwin_xkbcommon: XKB: inet:293:58: unrecognized keysym "XF86Numeric1"
+kwin_xkbcommon: XKB: inet:294:58: unrecognized keysym "XF86Numeric2"
+kwin_xkbcommon: XKB: inet:295:58: unrecognized keysym "XF86Numeric3"
+kwin_xkbcommon: XKB: inet:296:58: unrecognized keysym "XF86Numeric4"
+kwin_xkbcommon: XKB: inet:297:58: unrecognized keysym "XF86Numeric5"
+kwin_xkbcommon: XKB: inet:298:58: unrecognized keysym "XF86Numeric6"
+kwin_xkbcommon: XKB: inet:299:58: unrecognized keysym "XF86Numeric7"
+kwin_xkbcommon: XKB: inet:300:58: unrecognized keysym "XF86Numeric8"
+kwin_xkbcommon: XKB: inet:301:58: unrecognized keysym "XF86Numeric9"
+kwin_xkbcommon: XKB: inet:302:58: unrecognized keysym "XF86NumericStar"
+kwin_xkbcommon: XKB: inet:303:58: unrecognized keysym "XF86NumericPound"
+kwin_xkbcommon: XKB: inet:304:58: unrecognized keysym "XF86NumericA"
+kwin_xkbcommon: XKB: inet:305:58: unrecognized keysym "XF86NumericB"
+kwin_xkbcommon: XKB: inet:306:58: unrecognized keysym "XF86NumericC"
+kwin_xkbcommon: XKB: inet:307:58: unrecognized keysym "XF86NumericD"
+kwin_xkbcommon: XKB: inet:308:58: unrecognized keysym "XF86CameraFocus"
+kwin_xkbcommon: XKB: inet:309:58: unrecognized keysym "XF86WPSButton"
+kwin_xkbcommon: XKB: inet:313:58: unrecognized keysym "XF86CameraZoomIn"
+kwin_xkbcommon: XKB: inet:314:58: unrecognized keysym "XF86CameraZoomOut"
+kwin_xkbcommon: XKB: inet:315:58: unrecognized keysym "XF86CameraUp"
+kwin_xkbcommon: XKB: inet:316:58: unrecognized keysym "XF86CameraDown"
+kwin_xkbcommon: XKB: inet:317:58: unrecognized keysym "XF86CameraLeft"
+kwin_xkbcommon: XKB: inet:318:58: unrecognized keysym "XF86CameraRight"
+kwin_xkbcommon: XKB: inet:319:58: unrecognized keysym "XF86AttendantOn"
+kwin_xkbcommon: XKB: inet:320:58: unrecognized keysym "XF86AttendantOff"
+kwin_xkbcommon: XKB: inet:321:58: unrecognized keysym "XF86AttendantToggle"
+kwin_xkbcommon: XKB: inet:322:58: unrecognized keysym "XF86LightsToggle"
+kwin_xkbcommon: XKB: inet:323:58: unrecognized keysym "XF86ALSToggle"
+kwin_xkbcommon: XKB: inet:325:58: unrecognized keysym "XF86Buttonconfig"
+kwin_xkbcommon: XKB: inet:326:58: unrecognized keysym "XF86Taskmanager"
+kwin_xkbcommon: XKB: inet:327:58: unrecognized keysym "XF86Journal"
+kwin_xkbcommon: XKB: inet:328:58: unrecognized keysym "XF86ControlPanel"
+kwin_xkbcommon: XKB: inet:329:58: unrecognized keysym "XF86AppSelect"
+kwin_xkbcommon: XKB: inet:330:58: unrecognized keysym "XF86Screensaver"
+kwin_xkbcommon: XKB: inet:331:58: unrecognized keysym "XF86VoiceCommand"
+kwin_xkbcommon: XKB: inet:332:58: unrecognized keysym "XF86Assistant"
+kwin_xkbcommon: XKB: inet:334:58: unrecognized keysym "XF86BrightnessMin"
+kwin_xkbcommon: XKB: inet:335:58: unrecognized keysym "XF86BrightnessMax"
+kwin_xkbcommon: XKB: inet:336:58: unrecognized keysym "XF86KbdInputAssistPrev"
+kwin_xkbcommon: XKB: inet:337:58: unrecognized keysym "XF86KbdInputAssistNext"
+kwin_xkbcommon: XKB: inet:338:58: unrecognized keysym "XF86KbdInputAssistPrevgroup"
+kwin_xkbcommon: XKB: inet:339:58: unrecognized keysym "XF86KbdInputAssistNextgroup"
+kwin_xkbcommon: XKB: inet:340:58: unrecognized keysym "XF86KbdInputAssistAccept"
+kwin_xkbcommon: XKB: inet:341:58: unrecognized keysym "XF86KbdInputAssistCancel"
+kwin_xkbcommon: XKB: inet:342:58: unrecognized keysym "XF86RightUp"
+kwin_xkbcommon: XKB: inet:343:58: unrecognized keysym "XF86RightDown"
+kwin_xkbcommon: XKB: inet:344:58: unrecognized keysym "XF86LeftUp"
+kwin_xkbcommon: XKB: inet:345:58: unrecognized keysym "XF86LeftDown"
+kwin_xkbcommon: XKB: inet:346:58: unrecognized keysym "XF86RootMenu"
+kwin_xkbcommon: XKB: inet:347:58: unrecognized keysym "XF86MediaTopMenu"
+kwin_xkbcommon: XKB: inet:348:58: unrecognized keysym "XF86Numeric11"
+kwin_xkbcommon: XKB: inet:349:58: unrecognized keysym "XF86Numeric12"
+kwin_xkbcommon: XKB: inet:350:58: unrecognized keysym "XF86AudioDesc"
+kwin_xkbcommon: XKB: inet:351:58: unrecognized keysym "XF863DMode"
+kwin_xkbcommon: XKB: inet:352:58: unrecognized keysym "XF86NextFavorite"
+kwin_xkbcommon: XKB: inet:353:58: unrecognized keysym "XF86StopRecord"
+kwin_xkbcommon: XKB: inet:354:58: unrecognized keysym "XF86PauseRecord"
+kwin_xkbcommon: XKB: inet:355:58: unrecognized keysym "XF86VOD"
+kwin_xkbcommon: XKB: inet:356:58: unrecognized keysym "XF86Unmute"
+kwin_xkbcommon: XKB: inet:357:58: unrecognized keysym "XF86FastReverse"
+kwin_xkbcommon: XKB: inet:358:58: unrecognized keysym "XF86SlowReverse"
+kwin_xkbcommon: XKB: inet:359:58: unrecognized keysym "XF86Data"
+kwin_xkbcommon: XKB: inet:360:58: unrecognized keysym "XF86OnScreenKeyboard"
+kwin_xkbcommon: XKB: inet:361:58: unrecognized keysym "XF86PrivacyScreenToggle"
+kwin_xkbcommon: XKB: inet:362:58: unrecognized keysym "XF86SelectiveScreenshot"
+kwin_xkbcommon: XKB: inet:363:58: unrecognized keysym "XF86Macro1"
+kwin_xkbcommon: XKB: inet:364:58: unrecognized keysym "XF86Macro2"
+kwin_xkbcommon: XKB: inet:365:58: unrecognized keysym "XF86Macro3"
+kwin_xkbcommon: XKB: inet:366:58: unrecognized keysym "XF86Macro4"
+kwin_xkbcommon: XKB: inet:367:58: unrecognized keysym "XF86Macro5"
+kwin_xkbcommon: XKB: inet:368:58: unrecognized keysym "XF86Macro6"
+kwin_xkbcommon: XKB: inet:369:58: unrecognized keysym "XF86Macro7"
+kwin_xkbcommon: XKB: inet:370:58: unrecognized keysym "XF86Macro8"
+kwin_xkbcommon: XKB: inet:371:58: unrecognized keysym "XF86Macro9"
+kwin_xkbcommon: XKB: inet:372:58: unrecognized keysym "XF86Macro10"
+kwin_xkbcommon: XKB: inet:373:58: unrecognized keysym "XF86Macro11"
+kwin_xkbcommon: XKB: inet:374:58: unrecognized keysym "XF86Macro12"
+kwin_xkbcommon: XKB: inet:375:58: unrecognized keysym "XF86Macro13"
+kwin_xkbcommon: XKB: inet:376:58: unrecognized keysym "XF86Macro14"
+kwin_xkbcommon: XKB: inet:377:58: unrecognized keysym "XF86Macro15"
+kwin_xkbcommon: XKB: inet:378:58: unrecognized keysym "XF86Macro16"
+kwin_xkbcommon: XKB: inet:379:58: unrecognized keysym "XF86Macro17"
+kwin_xkbcommon: XKB: inet:380:58: unrecognized keysym "XF86Macro18"
+kwin_xkbcommon: XKB: inet:381:58: unrecognized keysym "XF86Macro19"
+kwin_xkbcommon: XKB: inet:382:58: unrecognized keysym "XF86Macro20"
+kwin_xkbcommon: XKB: inet:383:58: unrecognized keysym "XF86Macro21"
+kwin_xkbcommon: XKB: inet:384:58: unrecognized keysym "XF86Macro22"
+kwin_xkbcommon: XKB: inet:385:58: unrecognized keysym "XF86Macro23"
+kwin_xkbcommon: XKB: inet:386:58: unrecognized keysym "XF86Macro24"
+kwin_xkbcommon: XKB: inet:387:58: unrecognized keysym "XF86Macro25"
+kwin_xkbcommon: XKB: inet:388:58: unrecognized keysym "XF86Macro26"
+kwin_xkbcommon: XKB: inet:389:58: unrecognized keysym "XF86Macro27"
+kwin_xkbcommon: XKB: inet:390:58: unrecognized keysym "XF86Macro28"
+kwin_xkbcommon: XKB: inet:391:58: unrecognized keysym "XF86Macro29"
+kwin_xkbcommon: XKB: inet:392:58: unrecognized keysym "XF86Macro30"
+kwin_xkbcommon: XKB: inet:393:58: unrecognized keysym "XF86MacroRecordStart"
+kwin_xkbcommon: XKB: inet:394:58: unrecognized keysym "XF86MacroRecordStop"
+kwin_xkbcommon: XKB: inet:395:58: unrecognized keysym "XF86MacroPresetCycle"
+kwin_xkbcommon: XKB: inet:396:58: unrecognized keysym "XF86MacroPreset1"
+kwin_xkbcommon: XKB: inet:397:58: unrecognized keysym "XF86MacroPreset2"
+kwin_xkbcommon: XKB: inet:398:58: unrecognized keysym "XF86MacroPreset3"
+kwin_xkbcommon: XKB: inet:399:58: unrecognized keysym "XF86KbdLcdMenu1"
+kwin_xkbcommon: XKB: inet:400:58: unrecognized keysym "XF86KbdLcdMenu2"
+kwin_xkbcommon: XKB: inet:401:58: unrecognized keysym "XF86KbdLcdMenu3"
+kwin_xkbcommon: XKB: inet:402:58: unrecognized keysym "XF86KbdLcdMenu4"
+kwin_xkbcommon: XKB: inet:403:58: unrecognized keysym "XF86KbdLcdMenu5"
+kcm_touchpad: Using X11 backend
+Icon theme "elementary" not found.
+Icon theme "gnome" not found.
+QDBusConnection: name 'org.kde.kglobalaccel' had owner '' but we thought it was ':1.308'
+Qt: Session management error: networkIdsList argument is NULL
+Delayed initialization.
+Reloading the khotkeys configuration
+Version 2 File!
+kdeinit5: Got SETENV 'SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/5268,unix/kali:/tmp/.ICE-unix/5268' from launcher.
+true
+kdeinit5: Got SETENV 'SESSION_MANAGER=local/kali:@/tmp/.ICE-unix/5268,unix/kali:/tmp/.ICE-unix/5268' from launcher.
+Imported file "/usr/share/khotkeys/defaults.khotkeys"
+OpenGL vendor string:                   nouveau
+OpenGL renderer string:                 NV92
+OpenGL version string:                  3.3 (Compatibility Profile) Mesa 20.3.5
+OpenGL shading language version string: 3.30
+Driver:                                 Nouveau
+GPU class:                              G80/G90
+OpenGL version:                         3.3
+GLSL version:                           3.30
+Mesa version:                           20.3.5
+X server version:                       1.20.11
+Linux kernel version:                   5.10
+Requires strict binding:                yes
+GLSL shaders:                           yes
+Texture NPOT support:                   yes
+Virtual Machine:                        no
+Icon theme "elementary" not found.
+Icon theme "gnome" not found.
+Imported file "/usr/share/khotkeys/kde32b1.khotkeys"
+Imported file "/usr/share/khotkeys/konqueror_gestures_kde321.khotkeys"
+Imported file "/usr/share/khotkeys/konsole.khotkeys"
+org.kde.plasma.session: Starting autostart service  "/etc/xdg/autostart/pam_kwallet_init.desktop" ("/usr/share/libpam-kwallet-common/pam_kwallet_init")
+org.kde.plasma.session: Starting autostart service  "/etc/xdg/autostart/xembedsniproxy.desktop" ("/usr/bin/xembedsniproxy")
+org.kde.plasma.session: Starting autostart service  "/etc/xdg/autostart/polkit-kde-authentication-agent-1.desktop" ("/usr/lib/x86_64-linux-gnu/libexec/polkit-kde-authentication-agent-1")
+kwin_core: XCB error: 10 (BadAccess), sequence: 834, resource id: 1131, major code: 142 (Composite), minor code: 2 (RedirectSubwindows)
+kf.config.core: "\"fsrestore1\" - conversion of \"0,0,0,0\" to QRect failed"
+kf.config.core: "\"fsrestore2\" - conversion of \"0,0,0,0\" to QRect failed"
+kf.config.core: "\"restore3\" - conversion of \"0,0,0,0\" to QRect failed"
+kf.config.core: "\"fsrestore3\" - conversion of \"0,0,0,0\" to QRect failed"
+org.kde.plasma.session: Starting autostart service  "/etc/xdg/autostart/powerdevil.desktop" ("/usr/lib/x86_64-linux-gnu/libexec/org_kde_powerdevil")
+bluedevil: Bluetooth operational changed false
+kf.bluezqt: PendingCall Error: "Unit dbus-org.bluez.service not found."
+bluedevil: ObexManager operational changed true
+bluedevil: ObexAgent registered
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 869, resource id: 14680069, major code: 18 (ChangeProperty), minor code: 0
+org.kde.plasma.session: Starting autostart service  "/etc/xdg/autostart/kaccess.desktop" ("/usr/bin/kaccess")
+org.kde.plasma.session: Starting autostart service  "/etc/xdg/autostart/baloo_file.desktop" ("/usr/lib/x86_64-linux-gnu/libexec/baloo_file")
+Xlib XKB extension major= 1  minor= 0
+org.kde.plasma.session: Starting autostart service  "/etc/xdg/autostart/org.kde.plasmashell.desktop" ("/usr/bin/plasmashell")
+org.kde.plasma.session: Starting autostart service  "/etc/xdg/autostart/kali-noautomount.desktop" ("/usr/share/kali-defaults/setup-noautomount")
+Baloo File Indexing has been disabled
+org.kde.plasma.session: Starting autostart service  "/etc/xdg/autostart/gmenudbusmenuproxy.desktop" ("/usr/bin/gmenudbusmenuproxy")
+org.kde.plasma.session: Starting autostart service  "/etc/xdg/autostart/org.kde.discover.notifier.desktop" ("/usr/lib/x86_64-linux-gnu/libexec/DiscoverNotifier")
+org.kde.plasma.session: Starting autostart service  "/etc/xdg/autostart/pulseaudio.desktop" ("/usr/bin/start-pulseaudio-x11")
+org.kde.plasma.session: Starting autostart service  "/etc/xdg/autostart/xdg-user-dirs.desktop" ("/usr/bin/xdg-user-dirs-update")
+org.kde.plasma.session: Starting autostart service  "/etc/xdg/autostart/org.kde.kdeconnect.daemon.desktop" ("/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd")
+New PolkitAgentListener  0x5568f13a7600
+Adding new listener  PolkitQt1::Agent::Listener(0x5568f13c3410) for  0x5568f13a7600
+Listener online
+Authentication agent result: true
+Icon theme "elementary" not found.
+Icon theme "gnome" not found.
+kscreen.kded: PowerDevil SuspendSession action not available!
+Icon theme "elementary" not found.
+Icon theme "gnome" not found.
+X server XKB extension major= 1  minor= 0
+Icon theme "elementary" not found.
+Icon theme "gnome" not found.
+Icon theme "elementary" not found.
+Icon theme "gnome" not found.
+Registering ":1.320/StatusNotifierItem" to system tray
+Warning from helper: Failed to open "/sys/class/power_supply/BAT0/charge_start_threshold" for reading
+Warning from helper: Failed to open "/sys/class/power_supply/BAT0/charge_stop_threshold" for reading
+org.kde.powerdevil: org.kde.powerdevil.chargethresholdhelper.getthreshold failed "Charge thresholds not supported"
+Icon theme "elementary" not found.
+Icon theme "gnome" not found.
+org.kde.powerdevil: Handle button events action could not check for screen configuration
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_about_distro.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_kup.so" does not have a valid 'MetaData' object
+Warning from helper: Failed to open "/sys/class/power_supply/BAT0/charge_start_threshold" for reading
+Warning from helper: Failed to open "/sys/class/power_supply/BAT0/charge_stop_threshold" for reading
+org.kde.powerdevil: org.kde.powerdevil.chargethresholdhelper.getthreshold failed "Charge thresholds not supported"
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/blenderthumbnail.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/blenderthumbnail.so'"
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_powerdevilglobalconfig.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/konqsidebar_bookmarks.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kfileaudiopreview.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_performance.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/konqsidebar_history.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_solid_actions.so" does not have a valid 'MetaData' object
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/ebookthumbnail.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/ebookthumbnail.so'"
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_konq.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/attica_kde.so" does not have a valid 'MetaData' object
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/jpegthumbnail.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/jpegthumbnail.so'"
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/powerdevilsuspendsessionaction_config.so" does not have a valid 'MetaData' object
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kio_bluetooth.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/kio_bluetooth.so'"
+Usage: /usr/bin/firewall-applet [options]
+
+Options:
+  -h, --help     show this help message and exit
+
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kio_bup.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/kio_bup.so'"
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/exrthumbnail.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/exrthumbnail.so'"
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_filetypes.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_kwinoptions.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_dolphinnavigation.so" does not have a valid 'MetaData' object
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/imagethumbnail.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/imagethumbnail.so'"
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_krunner_kill.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_kamera.so" does not have a valid 'MetaData' object
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/windowsexethumbnail.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/windowsexethumbnail.so'"
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_clock.so" does not have a valid 'MetaData' object
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/rawthumbnail.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/rawthumbnail.so'"
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kded_touchpad.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/powerdevilhandlebuttoneventsaction_config.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_ssl.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_mouse.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/konqsidebar_places.so" does not have a valid 'MetaData' object
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kio_obexftp.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/kio_obexftp.so'"
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kwincompositing.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kdeconnect_findthisdevice_config.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kstyle_oxygen_config.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_pci.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_webshortcuts.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_history.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/powerdevilwirelesspowersavingaction_config.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_kwinscreenedges.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_info.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/plasma-geolocation-ip.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_konqhtml.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/powerdevildpmsaction.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/libkcm_device_automounter.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_kwallet5.so" does not have a valid 'MetaData' object
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/gsthumbnail.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/gsthumbnail.so'"
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/powerdevilbrightnesscontrolaction_config.so" does not have a valid 'MetaData' object
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/opendocumentthumbnail.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/opendocumentthumbnail.so'"
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_kwintouchscreen.so" does not have a valid 'MetaData' object
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/audiothumbnail.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/audiothumbnail.so'"
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kstyle_breeze_config.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_joystick.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_opengl.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/libplasmanetworkmanagement_openconnectui.so" does not have a valid 'MetaData' object
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/textthumbnail.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/textthumbnail.so'"
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_kdeconnect.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kdeconnect_pausemusic_config.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_devinfo.so" does not have a valid 'MetaData' object
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/comicbookthumbnail.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/comicbookthumbnail.so'"
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_kwintabbox.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_activities.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/baloofilepropertiesplugin.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_networkmanagement.so" does not have a valid 'MetaData' object
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kritathumbnail.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/kritathumbnail.so'"
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/ffmpegthumbs.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/ffmpegthumbs.so'"
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/konqsidebar_tree.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/powerdevilkeyboardbrightnesscontrolaction_config.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/libkcm_qtquicksettings.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/plasma-geolocation-gps.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_desktoppaths.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_powerdevilactivitiesconfig.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_trash.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/miloutextplugin.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_plasmasearch.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_fontinst.so" does not have a valid 'MetaData' object
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/djvuthumbnail.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/djvuthumbnail.so'"
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kdeconnect_share_config.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_usb.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/okularpart.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_dolphingeneral.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_keyboard.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/spellcheckplugin.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_bookmarks.so" does not have a valid 'MetaData' object
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/svgthumbnail.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/svgthumbnail.so'"
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kdeconnect_runcommand_config.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/powerdevildpmsaction_config.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kdeconnect_sendnotifications_config.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kfontviewpart.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_powerdevilprofilesconfig.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_dolphinviewmodes.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_hotkeys.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_memory.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_view1394.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcmspellchecking.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_kio.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/powerdevilrunscriptaction_config.so" does not have a valid 'MetaData' object
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kio_fonts.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/kio_fonts.so'"
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/powerdevildimdisplayaction_config.so" does not have a valid 'MetaData' object
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_kwin_scripts.so" does not have a valid 'MetaData' object
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/windowsimagethumbnail.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/windowsimagethumbnail.so'"
+kf.coreaddons: plugin metadata in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kcm_kgamma.so" does not have a valid 'MetaData' object
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/fontthumbnail.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/fontthumbnail.so'"
+kf.plasma.quick: Applet preload policy set to 1
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/applications.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/applications.so'"
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/metainfo.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/metainfo.so'"
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/desktop.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/desktop.so'"
+trying to show an empty dialog
+file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/views/Desktop.qml:146:19: QML Loader: Binding loop detected for property "height"
+file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/views/Desktop.qml:146:19: QML Loader: Binding loop detected for property "height"
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 2007, resource id: 33554439, major code: 18 (ChangeProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 2011, resource id: 33554440, major code: 18 (ChangeProperty), minor code: 0
+org.kde.plasma.session: Starting autostart service  "/etc/xdg/autostart/at-spi-dbus-bus.desktop" ("/usr/libexec/at-spi-bus-launcher", "--launch-immediately")
+org.kde.plasma.session: Starting autostart service  "/etc/xdg/autostart/firewall-applet.desktop" ("/usr/bin/firewall-applet")
+org.kde.plasma.session: Starting autostart service  "/etc/xdg/autostart/pkcs11-register.desktop" ("/usr/bin/pkcs11-register")
+Icon theme "elementary" not found.
+Icon theme "gnome" not found.
+org.kde.plasma.session: Starting autostart service  "/etc/xdg/autostart/geoclue-demo-agent.desktop" ("/usr/libexec/geoclue-2.0/demos/agent")
+org.kde.plasma.session: Starting autostart service  "/etc/xdg/autostart/kup-daemon.desktop" ("/usr/bin/kup-daemon")
+kup.daemon: "Kup is not enabled, enable it from the system settings module. You can do that by running kcmshell5 kup"
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 2210, resource id: 58720261, major code: 18 (ChangeProperty), minor code: 0
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/applications.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/applications.so'"
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/metainfo.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/metainfo.so'"
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/desktop.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/desktop.so'"
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/desktop.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/desktop.so'
+Icon theme "elementary" not found.
+Icon theme "gnome" not found.
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+Module 'org.kde.kwin.decoration' does not contain a module identifier directive - it cannot be protected from external registrations.
+file:///usr/share/kwin/aurorae/MenuButton.qml:11: TypeError: Cannot read property 'closeOnDoubleClickOnMenu' of null
+QPainter::begin: Paint device returned engine == 0, type: 3
+file:///usr/share/plasma/plasmoids/org.kde.plasma.digitalclock/contents/ui/DigitalClock.qml:501:21: Unable to assign [undefined] to double
+file:///usr/share/plasma/plasmoids/org.kde.plasma.digitalclock/contents/ui/DigitalClock.qml:528:17: Unable to assign [undefined] to double
+file:///usr/share/plasma/plasmoids/org.kde.plasma.digitalclock/contents/ui/DigitalClock.qml:547:13: Unable to assign [undefined] to double
+file:///usr/share/plasma/plasmoids/org.kde.plasma.digitalclock/contents/ui/DigitalClock.qml:538:9: QML Label: Binding loop detected for property "height"
+file:///usr/share/plasma/plasmoids/org.kde.plasma.digitalclock/contents/ui/DigitalClock.qml:493:13: QML Label: Binding loop detected for property "height"
+trying to show an empty dialog
+Controller changed to Konsole::SessionController(0x559f7c001100)
+file:///usr/share/plasma/plasmoids/org.kde.panel/contents/ui/main.qml:30:1: QML DropArea (parent or ancestor of QQuickLayoutAttached): Binding loop detected for property "minimumWidth"
+file:///usr/share/plasma/plasmoids/org.kde.plasma.digitalclock/contents/ui/DigitalClock.qml:493:13: QML Label: Binding loop detected for property "height"
+file:///usr/share/plasma/plasmoids/org.kde.plasma.digitalclock/contents/ui/DigitalClock.qml:538:9: QML Label: Binding loop detected for property "height"
+file:///usr/share/plasma/plasmoids/org.kde.plasma.digitalclock/contents/ui/DigitalClock.qml:560:5: QML Label: Binding loop detected for property "height"
+trying to show an empty dialog
+qt.svg: <input>:406:376: Could not add child element to parent element because the types are incorrect.
+qt.svg: <input>:407:130: Could not add child element to parent element because the types are incorrect.
+qt.svg: <input>:408:130: Could not add child element to parent element because the types are incorrect.
+qt.svg: <input>:408:393: Could not add child element to parent element because the types are incorrect.
+qt.svg: <input>:409:130: Could not add child element to parent element because the types are incorrect.
+qt.svg: <input>:410:129: Could not add child element to parent element because the types are incorrect.
+qt.svg: <input>:411:129: Could not add child element to parent element because the types are incorrect.
+qt.svg: <input>:412:129: Could not add child element to parent element because the types are incorrect.
+qt.svg: <input>:413:129: Could not add child element to parent element because the types are incorrect.
+qt.svg: <input>:413:379: Could not add child element to parent element because the types are incorrect.
+qt.svg: <input>:413:631: Could not add child element to parent element because the types are incorrect.
+Registering ":1.333/StatusNotifierItem" to system tray
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/applications.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/applications.so'"
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/metainfo.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/metainfo.so'"
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/desktop.so" "The file '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/desktop.so' is not a valid Qt plugin."
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+Cyclic dependency detected between "file:///usr/share/plasma/plasmoids/org.kde.plasma.notifications/contents/ui/global/Globals.qml" and "file:///usr/share/plasma/plasmoids/org.kde.plasma.notifications/contents/ui/NotificationHeader.qml"
+Registering "org.kde.StatusNotifierHost-5302" as system tray
+Plasma Shell startup completed
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+trying to show an empty dialog
+file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/views/Desktop.qml:146:19: QML Loader: Binding loop detected for property "height"
+file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/views/Desktop.qml:146:19: QML Loader: Binding loop detected for property "height"
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 4370, resource id: 8388653, major code: 18 (ChangeProperty), minor code: 0
+Entry is not valid "kontact.desktop" QSharedPointer(0x5616296644e0)
+Entry is not valid "ktp-contactlist.desktop" QSharedPointer(0x5616295ea7c0)
+Entry is not valid "org.kde.kate.desktop" QSharedPointer(0x5616295c5640)
+Entry is not valid "kontact.desktop" QSharedPointer(0x5616296c8740)
+Entry is not valid "ktp-contactlist.desktop" QSharedPointer(0x561629664330)
+Entry is not valid "org.kde.kate.desktop" QSharedPointer(0x5616295ea7c0)
+trying to show an empty dialog
+file:///usr/share/plasma/plasmoids/org.kde.plasma.kickoff/contents/ui/LeaveButtons.qml:69:5: QML ToolButton: Binding loop detected for property "display"
+inotify_add_watch(/var/lib/samba/usershares) failed: (Permission denied)
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+kf.kio.widgets: Invalid url ""
+kf.kio.widgets: Invalid url ""
+kf.solid.frontend.devicemanager: Couldn't get StorageAccess for """" - File doesn't exist
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/thumbnail.so'
+Qt: Session management error: networkIdsList argument is NULL
+Icon theme "elementary" not found.
+Icon theme "gnome" not found.
+plasma-nm: Last scan finished  1924 ms ago and last request scan was sent  0 ms ago, Skipping scanning interface: "wlan0"
+plasma-nm: Rescheduling a request scan for "wlan0" in 8076
+qt.qpa.xcb: QXcbConnection: XCB error: 9 (BadDrawable), sequence: 5700, resource id: 48234665, major code: 14 (GetGeometry), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 9 (BadDrawable), sequence: 5701, resource id: 48234665, major code: 14 (GetGeometry), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 9 (BadDrawable), sequence: 5702, resource id: 48234665, major code: 14 (GetGeometry), minor code: 0
+plasma-nm: Unhandled active connection state change:  1
+plasma-nm: Unhandled active connection state change:  1
+plasma-nm: virtual void SecretAgent::SaveSecrets(const NMVariantMapMap&, const QDBusObjectPath&)
+plasma-nm: Path: "/org/freedesktop/NetworkManager/Settings/8"
+plasma-nm: bool SecretAgent::processDeleteSecrets(SecretsRequest&) const Waiting for the wallet to open
+file:///usr/share/kwin/aurorae/MenuButton.qml:11: TypeError: Cannot read property 'closeOnDoubleClickOnMenu' of null
+file:///usr/share/kwin/aurorae/MenuButton.qml:11: TypeError: Cannot read property 'closeOnDoubleClickOnMenu' of null
+QPainter::begin: Paint device returned engine == 0, type: 3
+qrc:/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/ConnectionItem.qml:312: TypeError: Value is null and could not be converted to an object
+qrc:/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/ConnectionItem.qml:312: TypeError: Value is null and could not be converted to an object
+qrc:/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/ConnectionItem.qml:312: TypeError: Value is null and could not be converted to an object
+qrc:/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/ConnectionItem.qml:312: TypeError: Value is null and could not be converted to an object
+qrc:/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/ConnectionItem.qml:312: TypeError: Value is null and could not be converted to an object
+qrc:/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/ConnectionItem.qml:312: TypeError: Value is null and could not be converted to an object
+qrc:/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/ConnectionItem.qml:312: TypeError: Value is null and could not be converted to an object
+qrc:/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/ConnectionItem.qml:312: TypeError: Value is null and could not be converted to an object
+qrc:/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/ConnectionItem.qml:312: TypeError: Value is null and could not be converted to an object
+qrc:/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/ConnectionItem.qml:312: TypeError: Value is null and could not be converted to an object
+qrc:/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/ConnectionItem.qml:312: TypeError: Value is null and could not be converted to an object
+qrc:/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/ConnectionItem.qml:312: TypeError: Value is null and could not be converted to an object
+qrc:/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/ConnectionItem.qml:312: TypeError: Value is null and could not be converted to an object
+qrc:/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/ConnectionItem.qml:312: TypeError: Value is null and could not be converted to an object
+qrc:/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/ConnectionItem.qml:312: TypeError: Value is null and could not be converted to an object
+file:///usr/share/kwin/aurorae/MenuButton.qml:11: TypeError: Cannot read property 'closeOnDoubleClickOnMenu' of null
+file:///usr/share/kwin/aurorae/MenuButton.qml:11: TypeError: Cannot read property 'closeOnDoubleClickOnMenu' of null
+file:///usr/share/kwin/aurorae/MenuButton.qml:11: TypeError: Cannot read property 'closeOnDoubleClickOnMenu' of null
+QPainter::begin: Paint device returned engine == 0, type: 3
+file:///usr/share/kwin/aurorae/MenuButton.qml:11: TypeError: Cannot read property 'closeOnDoubleClickOnMenu' of null
+file:///usr/share/kwin/aurorae/MenuButton.qml:11: TypeError: Cannot read property 'closeOnDoubleClickOnMenu' of null
+QPainter::begin: Paint device returned engine == 0, type: 3
+file:///usr/share/plasma/plasmoids/org.kde.plasma.private.systemtray/contents/ui/CurrentItemHighLight.qml:31: TypeError: Cannot read property 'width' of null
+file:///usr/share/plasma/plasmoids/org.kde.plasma.private.systemtray/contents/ui/CurrentItemHighLight.qml:32: TypeError: Cannot read property 'height' of null
+trying to show an empty dialog
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/applications.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/applications.so'"
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/metainfo.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/metainfo.so'"
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/desktop.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/desktop.so'"
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+qt.xkb.compose: failed to create compose table
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+file:///usr/share/plasma/plasmoids/org.kde.plasma.taskmanager/contents/ui/main.qml:464: TypeError: Cannot read property 'length' of undefined
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 32603, resource id: 48235087, major code: 18 (ChangeProperty), minor code: 0
+Icon theme "elementary" not found.
+Icon theme "gnome" not found.
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/applications.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/applications.so'"
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/metainfo.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/metainfo.so'"
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/desktop.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/desktop.so'"
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/applications.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/applications.so'"
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/metainfo.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/metainfo.so'"
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/desktop.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/desktop.so'"
+file:///usr/share/plasma/plasmoids/org.kde.plasma.taskmanager/contents/ui/Task.qml:379: Unable to assign [undefined] to QString
+file:///usr/share/kwin/aurorae/MenuButton.qml:11: TypeError: Cannot read property 'closeOnDoubleClickOnMenu' of null
+file:///usr/share/kwin/aurorae/MenuButton.qml:11: TypeError: Cannot read property 'closeOnDoubleClickOnMenu' of null
+QPainter::begin: Paint device returned engine == 0, type: 3
+file:///usr/share/plasma/plasmoids/org.kde.plasma.taskmanager/contents/ui/main.qml:464: TypeError: Cannot read property 'length' of undefined
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/tags.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/trash.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/trash.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+Cannot initialize model with data QJsonObject() . missing: QJsonValue(string, "urls")
+kf.kio.widgets: Plugin "baloofilepropertiesplugin" is using the deprecated loading style. Please port it to JSON loading.
+file:///usr/share/kwin/aurorae/MenuButton.qml:11: TypeError: Cannot read property 'closeOnDoubleClickOnMenu' of null
+file:///usr/share/kwin/aurorae/MenuButton.qml:11: TypeError: Cannot read property 'closeOnDoubleClickOnMenu' of null
+file:///usr/share/kwin/aurorae/MenuButton.qml:11: TypeError: Cannot read property 'closeOnDoubleClickOnMenu' of null
+QPainter::begin: Paint device returned engine == 0, type: 3
+file:///usr/share/kwin/aurorae/MenuButton.qml:11: TypeError: Cannot read property 'closeOnDoubleClickOnMenu' of null
+file:///usr/share/kwin/aurorae/MenuButton.qml:11: TypeError: Cannot read property 'closeOnDoubleClickOnMenu' of null
+file:///usr/share/kwin/aurorae/MenuButton.qml:11: TypeError: Cannot read property 'closeOnDoubleClickOnMenu' of null
+file:///usr/share/kwin/aurorae/MenuButton.qml:11: TypeError: Cannot read property 'closeOnDoubleClickOnMenu' of null
+QPainter::begin: Paint device returned engine == 0, type: 3
+kdeinit5: PID 5610 terminated.
+kdeinit5: PID 5607 terminated.
+kdeinit5: PID 5603 terminated.
+kdeinit5: PID 5608 terminated.
+kdeinit5: PID 5605 terminated.
+kdeinit5: PID 5609 terminated.
+kdeinit5: PID 5604 terminated.
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 39561, resource id: 62914655, major code: 18 (ChangeProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 39583, resource id: 48235138, major code: 18 (ChangeProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 40045, resource id: 50331669, major code: 18 (ChangeProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 40057, resource id: 33554441, major code: 18 (ChangeProperty), minor code: 0
+qt.xkb.compose: failed to create compose table
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/applications.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/applications.so'"
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/metainfo.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/metainfo.so'"
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/desktop.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/desktop.so'"
+kf.config.core: "KConfigIni: In file /usr/share/kservices5/searchproviders/rae.desktop, line 94: " "Invalid escape sequence \"\\{\"."
+kf.config.core: "KConfigIni: In file /usr/share/kservices5/searchproviders/rae.desktop, line 94: " "Invalid escape sequence \"\\{\"."
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/tags.so'
+Icon theme "elementary" not found.
+Icon theme "gnome" not found.
+file:///usr/share/kpackage/genericqml/org.kde.systemsettings.sidebar/contents/ui/SubCategoryPage.qml:158:9: QML Connections: Implicitly defined onFoo properties in Connections are deprecated. Use this syntax instead: function onFoo(<arguments>) { ... }
+file:///usr/share/kpackage/genericqml/org.kde.systemsettings.sidebar/contents/ui/SubCategoryPage.qml:148:9: QML Connections: Implicitly defined onFoo properties in Connections are deprecated. Use this syntax instead: function onFoo(<arguments>) { ... }
+QQmlEngine::setContextForObject(): Object already has a QQmlContext
+QQmlEngine::setContextForObject(): Object already has a QQmlContext
+QQmlEngine::setContextForObject(): Object already has a QQmlContext
+file:///usr/share/kwin/aurorae/MenuButton.qml:11: TypeError: Cannot read property 'closeOnDoubleClickOnMenu' of null
+QPainter::begin: Paint device returned engine == 0, type: 3
+file:///usr/share/kpackage/kcms/kcm_autostart/contents/ui/main.qml:35:13: QML InlineMessage: Cannot anchor to an item that isn't a parent or sibling.
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/applications.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/applications.so'"
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/metainfo.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/metainfo.so'"
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/desktop.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/desktop.so'"
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/applications.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/applications.so'"
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/metainfo.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/metainfo.so'"
+kf.coreaddons: no metadata found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/desktop.so" "Failed to extract plugin meta data from '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/desktop.so'"
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/tags.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+file:///usr/share/kwin/aurorae/MenuButton.qml:11: TypeError: Cannot read property 'closeOnDoubleClickOnMenu' of null
+file:///usr/share/kwin/aurorae/MenuButton.qml:11: TypeError: Cannot read property 'closeOnDoubleClickOnMenu' of null
+QPainter::begin: Paint device returned engine == 0, type: 3
+inotify_add_watch(/var/lib/samba/usershares) failed: (Permission denied)
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/thumbnail.so'
+Qt: Session management error: networkIdsList argument is NULL
+Icon theme "elementary" not found.
+Icon theme "gnome" not found.
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 44254, resource id: 62914571, major code: 18 (ChangeProperty), minor code: 0
+kdeinit5: PID 5684 terminated.
+kdeinit5: PID 5683 terminated.
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 44262, resource id: 50331820, major code: 18 (ChangeProperty), minor code: 0
+kdeinit5: PID 5688 terminated.
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 47404, resource id: 50331672, major code: 15 (QueryTree), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 47433, resource id: 50331693, major code: 18 (ChangeProperty), minor code: 0
+Destroying listener
+Removing listener  PolkitQt1::Agent::Listener(0x5568f13c3410)
+Service  ":1.320" unregistered
+Service  ":1.333" unregistered
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 47534, resource id: 14680070, major code: 18 (ChangeProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 47538, resource id: 54525957, major code: 18 (ChangeProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 47542, resource id: 52428805, major code: 18 (ChangeProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 47546, resource id: 37748741, major code: 18 (ChangeProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 47550, resource id: 58720261, major code: 18 (ChangeProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 47562, resource id: 46137349, major code: 18 (ChangeProperty), minor code: 0
+file:///usr/share/plasma/packages/org.kde.desktoptoolbox/contents/ui/ToolBoxButton.qml:222: TypeError: Cannot call method 'globalAction' of null
+file:///usr/share/plasma/packages/org.kde.desktoptoolbox/contents/ui/ToolBoxButton.qml:211: TypeError: Cannot call method 'action' of null
+file:///usr/share/plasma/packages/org.kde.desktoptoolbox/contents/ui/ToolBoxButton.qml:205: TypeError: Cannot call method 'action' of null
+file:///usr/share/plasma/packages/org.kde.desktoptoolbox/contents/ui/ToolBoxButton.qml:33: TypeError: Cannot read property 'editMode' of null
+file:///usr/share/plasma/packages/org.kde.desktoptoolbox/contents/ui/ToolBoxButton.qml:46: TypeError: Cannot read property 'editMode' of null
+file:///usr/share/plasma/packages/org.kde.desktoptoolbox/contents/ui/ToolBoxButton.qml:47: TypeError: Cannot read property 'editMode' of null
+trying to show an empty dialog
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 47566, resource id: 60817437, major code: 18 (ChangeProperty), minor code: 0
+file:///usr/share/plasma/wallpapers/org.kde.slideshow/contents/ui/main.qml:75: TypeError: Cannot read property 'pluginName' of null
+file:///usr/share/plasma/wallpapers/org.kde.slideshow/contents/ui/main.qml:77: TypeError: Cannot read property 'configuration' of null
+file:///usr/share/plasma/wallpapers/org.kde.slideshow/contents/ui/main.qml:78: TypeError: Cannot read property 'configuration' of null
+file:///usr/share/plasma/wallpapers/org.kde.slideshow/contents/ui/main.qml:79: TypeError: Cannot read property 'configuration' of null
+file:///usr/share/plasma/wallpapers/org.kde.slideshow/contents/ui/main.qml:80: TypeError: Cannot read property 'configuration' of null
+file:///usr/share/plasma/wallpapers/org.kde.slideshow/contents/ui/main.qml:32: TypeError: Cannot read property 'configuration' of null
+file:///usr/share/plasma/wallpapers/org.kde.slideshow/contents/ui/main.qml:33: TypeError: Cannot read property 'configuration' of null
+file:///usr/share/plasma/wallpapers/org.kde.slideshow/contents/ui/main.qml:34: TypeError: Cannot read property 'configuration' of null
+file:///usr/share/plasma/wallpapers/org.kde.slideshow/contents/ui/main.qml:35: TypeError: Cannot read property 'configuration' of null
+file:///usr/share/plasma/wallpapers/org.kde.slideshow/contents/ui/main.qml:180: TypeError: Cannot read property 'configuration' of null
+file:///usr/share/plasma/wallpapers/org.kde.slideshow/contents/ui/main.qml:173: TypeError: Cannot read property 'configuration' of null
+file:///usr/share/plasma/packages/org.kde.paneltoolbox/contents/ui/main.qml:31: TypeError: Cannot read property 'formFactor' of null
+file:///usr/share/plasma/packages/org.kde.paneltoolbox/contents/ui/main.qml:103: TypeError: Cannot read property 'editMode' of null
+file:///usr/share/plasma/packages/org.kde.paneltoolbox/contents/ui/main.qml:48: TypeError: Cannot read property 'editMode' of null
+file:///usr/share/plasma/packages/org.kde.paneltoolbox/contents/ui/main.qml:37: TypeError: Cannot read property 'editMode' of null
+file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/views/Panel.qml:30: TypeError: Cannot read property 'enabledBorders' of null
+file:///usr/share/plasma/plasmoids/org.kde.plasma.digitalclock/contents/ui/main.qml:109: TypeError: Cannot read property 'configuration' of null
+file:///usr/share/plasma/plasmoids/org.kde.plasma.digitalclock/contents/ui/main.qml:110: TypeError: Cannot read property 'configuration' of null
+file:///usr/share/plasma/plasmoids/org.kde.plasma.digitalclock/contents/ui/main.qml:101: TypeError: Cannot read property 'configuration' of null
+file:///usr/share/plasma/plasmoids/org.kde.plasma.digitalclock/contents/ui/main.qml:37: TypeError: Cannot read property 'configuration' of null
+file:///usr/share/plasma/plasmoids/org.kde.plasma.digitalclock/contents/ui/Tooltip.qml:83: TypeError: Cannot read property 'configuration' of null
+file:///usr/share/plasma/plasmoids/org.kde.plasma.digitalclock/contents/ui/Tooltip.qml:72: TypeError: Cannot read property 'configuration' of null
+file:///usr/share/plasma/plasmoids/org.kde.plasma.digitalclock/contents/ui/Tooltip.qml:98: TypeError: Cannot read property 'configuration' of null
+file:///usr/share/plasma/plasmoids/org.kde.plasma.digitalclock/contents/ui/main.qml:76: TypeError: Cannot read property 'configuration' of null
+file:///usr/share/plasma/plasmoids/org.kde.plasma.digitalclock/contents/ui/Tooltip.qml:98: TypeError: Cannot read property 'configuration' of null
+file:///usr/share/plasma/plasmoids/org.kde.plasma.digitalclock/contents/ui/main.qml:53: TypeError: Cannot read property 'compactRepresentationItem' of null
+file:///usr/share/plasma/plasmoids/org.kde.plasma.kickoff/contents/ui/Kickoff.qml:34: TypeError: Cannot read property 'location' of null
+file:///usr/share/plasma/plasmoids/org.kde.plasma.kickoff/contents/ui/Kickoff.qml:38: TypeError: Cannot read property 'formFactor' of null
+file:///usr/share/plasma/plasmoids/org.kde.kdeconnect/contents/ui/main.qml:38: TypeError: Cannot read property 'formFactor' of null
+file:///usr/share/plasma/plasmoids/org.kde.plasma.notifications/contents/ui/main.qml:149: TypeError: Cannot read property 'nativeInterface' of null
+file:///usr/share/plasma/plasmoids/org.kde.plasma.notifications/contents/ui/global/Globals.qml:79:5: Unable to assign [undefined] to QObject*
+file:///usr/share/plasma/plasmoids/org.kde.plasma.notifications/contents/ui/global/Globals.qml:176: TypeError: Cannot read property 'nativeInterface' of null
+qrc:/plasma/plasmoids/org.kde.plasma.volume/contents/ui/main.qml:40: TypeError: Cannot read property 'configuration' of null
+file:///usr/share/plasma/plasmoids/org.kde.plasma.devicenotifier/contents/ui/devicenotifier.qml:37: TypeError: Cannot read property 'configuration' of null
+file:///usr/share/plasma/plasmoids/org.kde.plasma.devicenotifier/contents/ui/devicenotifier.qml:241: TypeError: Cannot read property 'configuration' of null
+file:///usr/share/plasma/plasmoids/org.kde.plasma.devicenotifier/contents/ui/devicenotifier.qml:247: TypeError: Cannot read property 'configuration' of null
+file:///usr/share/plasma/plasmoids/org.kde.plasma.devicenotifier/contents/ui/devicenotifier.qml:253: TypeError: Cannot read property 'configuration' of null
+file:///usr/share/plasma/plasmoids/org.kde.plasma.devicenotifier/contents/ui/devicenotifier.qml:261: TypeError: Cannot read property 'configuration' of null
+qrc:/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml:82: TypeError: Cannot read property 'expanded' of null
+Service  "org.kde.StatusNotifierHost-5302" unregistered
+file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/views/Desktop.qml:121: TypeError: Cannot read property 'x' of null
+file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/views/Desktop.qml:135: TypeError: Cannot read property 'y' of null
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 47655, resource id: 48234521, major code: 15 (QueryTree), minor code: 0
+double free or corruption (!prev)
+KCrash: Attempting to start /usr/bin/plasmashell
+org.kde.kf5.ksmserver: SmsDie timeout, client  "/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd" ( 106b616c69000163094310500000052680013 )
+kdeinit5: terminate KDE.
+klauncher: Exiting on signal 1
+startkde: Starting up...
+startkde: Shutting down...
+startkde: Done.
+The X11 connection broke (error 1). Did the X11 server die?
+X connection to :0 broken (explicit kill or server shutdown).
+The X11 connection broke (error 1). Did the X11 server die?
+The X11 connection broke (error 1). Did the X11 server die?

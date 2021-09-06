@@ -4,5 +4,11 @@ update_info=spectacle_clipboard.upd:clipboard-settings-change
 [GuiConfig]
 window-position=45,27
 
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Desktop/Screenshot_20210904_145726.png,file:$HOME/Desktop/Screenshot_20210904_161751.png,file:$HOME/Desktop/Screenshot_20210904_150908.png,file:$HOME/Desktop/Screenshot_20210904_150024.png
+Recent URLs[$e]=file:$HOME/Desktop/,file:$HOME/
+detailViewIconSize=16
+
 [Save]
-lastSaveLocation=file:///root/Screenshot_20210901_154058.png
+lastSaveAsLocation=file:///root/Desktop/Screenshot_20210904_161751.png
+lastSaveLocation=file:///root/Desktop/Screenshot_20210904_161751.png
