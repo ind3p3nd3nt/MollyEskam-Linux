@@ -1,9 +1,8 @@
 
 ## Molly Eskam Linux Operating System / Webserver
 ### updated Jul 13th 2021
-##### Installing this distribution will transform your computer into a website (with SSL) that can be published on the internet (www.mollyeskam.net as default template). 
 
-#####  This is a custom live kali iso build with xfce4 display manager which has the following features & programs:
+#####  This is a custom live kali iso build with KDE Plasma Desktop Evironment which has the following features & programs:
 #####  VLC Media Player, Bittorrent Downloader (Deluge), Webserver (Apache2 with SSL), Security tools (from kali-linux-nethunter), File Cleaner (Bleachbit), [Browsers]: FireFox, Chromium, [Image Editor] G.I.M.P2 , LibreOffice, firewall-applet, X11VNC Server and OpenVPN.
 #### (Which is perfect for people who just wants to learn about Linux Operating System.)
 
