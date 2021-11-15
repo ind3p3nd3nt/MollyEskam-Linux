@@ -6,9 +6,6 @@ apt install obs-studio firewalld firewall-applet apt-transport-https -y;
 apt install sublime-text -y;
 systemctl enable firewalld;
 systemctl enable rc-local;
-git clone https://github.com/ind3p3nd3nt/SSHTakeover >>/dev/stdout;
-cd SSHTakeover;
-sh takeover.sh >>/dev/stdout;
 git clone https://github.com/ind3p3nd3nt/Chiaki-AutoCompile;
 sh ./Chiaki-AutoCompile/build.sh;
 if [ "$(uname -m)" = x86_64 ]
